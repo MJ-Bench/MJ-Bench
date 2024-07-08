@@ -6,8 +6,8 @@ wandb/
 # safety/
 bias/all_dataset/
 bias/eval_images/
-MJ-Bench/
 
+data/
 *.pt
 *.bin
 *.pkl
