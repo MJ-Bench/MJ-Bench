@@ -50,7 +50,6 @@ reward_models:
             api_key: sk-
             base_url: https://api.openai.com/v1/
         
-        
         gpt-4o:
             model_name: gpt-4o
             api_key: sk-
@@ -58,11 +57,11 @@ reward_models:
 
         claude-3-opus:
             model_name: claude-3-opus-20240229
-            api_key: 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
+            api_key: sk-
             base_url: None
 
         gemini-1.5:
             model_name: gemini-1.5-pro-latest
-            api_key: AIzaSyCP8yRIYd16-x88zeSeVs7vTfDpShcn3Jg
+            api_key: 
             base_url: None
 
