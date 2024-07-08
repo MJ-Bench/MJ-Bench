@@ -150,8 +150,10 @@ See `image_detect_demo.json` for an example.
 If error `NameError: name '_C' is not defined` is reported, refer to [this issue](https://github.com/IDEA-Research/GroundingDINO/issues/8#issuecomment-1541892708) for a quick fix. -->
 
 ## Citation
+```
 @misc{mjbench2024mjbench,
   title={MJ-BENCH: Is Your Multimodal Reward Model Really a Good Judge?},
   author={Chen*, Zhaorun and Du*, Yichao and Wen*, Zichen and Zhou*, Yiyang and Cui, Chenhang and Weng, Zhenzhen and Tu, Haoqin and Wang, Chaoqi and Tong, Zhengwei and HUANG, Leria and Chen, Canyu and Ye, Qinghao and Zhu, Zhihong and Zhang, Yuqing and Zhou, Jiawei and Zhao, Zhuokai and Rafailov, Rafael and Finn, Chelsea and Yao, Huaxiu},
   year={2024}
 }
+```
