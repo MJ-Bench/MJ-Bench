@@ -15,11 +15,11 @@ pip install -r requirements.txt
 ```
 
 
-### Reward Model Config
+### Judge Model Configuration
 `config/config.yaml` contains the configuration for the three types of reward models that we will evaluate. You can copy the default configuration to a new file and modify the model_path and api_key to use in your own envionrment.
 
 
-## Reward Model Evaluation
+## Judge Model Evaluation
 To get the reward/score from a reward model, simply run
 ```python
 python get_rm_score.py --model [MODEL_NAME] --config_path [CONFIG_PATH] --dataset [DATASET] --local_buffer [LOCAL_BUFFER] --save_dir [SAVE_DIR] --threshold [THRESHOLD]
@@ -28,7 +28,7 @@ python get_rm_score.py --model [MODEL_NAME] --config_path [CONFIG_PATH] --datase
 where `MODEL_NAME` is the name of the reward model to evaluate; `CONFIG_PATH` is the path to the configuration file; `DATASET` is the dataset to evaluate on (default is `yuvalkirstain/pickapic_v1`); `LOCAL_BUFFER` specifies a local buffer to cache the images from an online source; `SAVE_DIR` is the directory to save the results; and `THRESHOLD` is the preference threshold for the score-based RMs(i.e. `image_0` is prefered only if `score(image_0) - score(image_1) > THRESHOLD`).
 
 
-## Development Tools
+<!-- ## Development Tools
 
 ### Additional Installation
 For development, you need to install GroundingDINO for image detection and editing. Here is a quick tutorial.
@@ -114,4 +114,4 @@ See `image_detect_demo.json` for an example.
 
 #### Error installing `GroundingDINO`
 
-If error `NameError: name '_C' is not defined` is reported, refer to [this issue](https://github.com/IDEA-Research/GroundingDINO/issues/8#issuecomment-1541892708) for a quick fix.
+If error `NameError: name '_C' is not defined` is reported, refer to [this issue](https://github.com/IDEA-Research/GroundingDINO/issues/8#issuecomment-1541892708) for a quick fix. -->
