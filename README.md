@@ -1,4 +1,4 @@
-# :woman_judge: **MJ-BENCH**: _Is Your Multimodal Reward Model Really a Good Judge?_
+# :woman_judge: **MJ-BENCH**: Is Your Multimodal Reward Model Really a Good Judge for Text-to-Image Generation?
 
 <div align="center">
   <img src="assets/repo_logo_4.png" width="90%">
