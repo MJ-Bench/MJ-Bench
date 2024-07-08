@@ -13,7 +13,7 @@
   <img src="assets/repo_logo_4.png" width="80%">
 </div>
 
-[![hf_space](https://img.shields.io/badge/🤗-Demo-9C276A.svg)](https://mj-bench.github.io/)
+[![hf_space](assets/mj_bench.svg)](https://mj-bench.github.io/)
 [![hf_checkpoint](https://img.shields.io/badge/🤗-Checkpoints-9C276A.svg)](https://huggingface.co/collections/DAMO-NLP-SG/videollama-2-6669b6b6f0493188305c87ed)
 [![hf_data](https://img.shields.io/badge/🤗-MSVC-9C276A.svg)](https://huggingface.co/datasets/DAMO-NLP-SG/Multi-Source-Video-Captioning)
 [![arXiv](https://img.shields.io/badge/Arxiv-2406.07476-AD1C18.svg?logo=arXiv)](https://arxiv.org/abs/2406.07476) <br>
