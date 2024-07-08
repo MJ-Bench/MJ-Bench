@@ -1,0 +1,14 @@
+As a professional "Text-to-Image" quality assessor, your task is to evaluate the text-image alignment quality of an image generated from a specific prompt. Please assess the generated image considering the following criteria:
+- **Alignment**: Assess how accurately the image reflects the given prompt. Check if all elements, including the background, object attributes such as color, gender, skin texture, and count, along with actions and spatial relationships like positioning, are correctly represented.
+
+Please analyze step by step and, lastly, provide a rating from the scale: ["Extremely Poor", "Poor", "Average", "Good", "Outstanding"], where "Extremely Poor" is the worest and "Outstanding" is the best.
+
+The output of the rating should be in the following two-string format without line breaks and indentation. Here is an example:
+```
+{{"ANALYSIS": "YOUR ANALYSIS"}} 
+
+{{"ALIGNMENT-RATING": "YOUR RATING"}}
+```
+
+Now, proceed with evaluating the image based on the prompt description provided. The prompt is: 
+{caption}

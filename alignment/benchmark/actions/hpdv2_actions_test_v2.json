@@ -1,0 +1,218 @@
+[
+    {
+        "id": 211,
+        "source": "hpdv2",
+        "caption": "A surreal painting by Ronny Khalil depicting a bestiary of wild emotion monsters repressed in the deep sea of the unconscious psyche, led by Baba Yaga, glowing with dramatic fire light as they prepare to escape in a revolution.",
+        "image0": "01901.jpg",
+        "image1": "01906.jpg",
+        "label": 0
+    },
+    {
+        "id": 214,
+        "source": "hpdv2",
+        "caption": "The image depicts three female figures, known as the muses, playing musical instruments.",
+        "image0": "01928.jpg",
+        "image1": "01932.jpg",
+        "label": 0
+    },
+    {
+        "id": 228,
+        "source": "hpdv2",
+        "caption": "A canvas artwork with art nouveau style depicting an ocean on fire, inspired by artists Reylia Slaby, Peter Gric, and Lexie Liu, featuring intricate and ornate details and volumetric lighting.",
+        "image0": "02060.jpg",
+        "image1": "02059.jpg",
+        "label": 0
+    },
+    {
+        "id": 232,
+        "source": "hpdv2",
+        "caption": "Robot painted by Salvador Dali, resembling Wall-E.",
+        "image0": "02096.jpg",
+        "image1": "02090.jpg",
+        "label": 0
+    },
+    {
+        "id": 265,
+        "source": "hpdv2",
+        "caption": "Mila Kunis portrayed as a fire elemental in a highly detailed digital painting.",
+        "image0": "02393.jpg",
+        "image1": "02386.jpg",
+        "label": 0
+    },
+    {
+        "id": 280,
+        "source": "hpdv2",
+        "caption": "A polar expedition unloads from a ship in the 19th century in an intricate and elegant fantasy illustration.",
+        "image0": "02528.jpg",
+        "image1": "02522.jpg",
+        "label": 0
+    },
+    {
+        "id": 286,
+        "source": "hpdv2",
+        "caption": "A Weezer album painted by Hieronymus Bosch.",
+        "image0": "02575.jpg",
+        "image1": "02580.jpg",
+        "label": 0
+    },
+    {
+        "id": 287,
+        "source": "hpdv2",
+        "caption": "A painting by Ludek Marold of cattle grazing in a field, done in oil on canvas.",
+        "image0": "02591.jpg",
+        "image1": "02584.jpg",
+        "label": 0
+    },
+    {
+        "id": 300,
+        "source": "hpdv2",
+        "caption": "A train is moving along the track in the countryside.",
+        "image0": "02701.jpg",
+        "image1": "02702.jpg",
+        "label": 0
+    },
+    {
+        "id": 319,
+        "source": "hpdv2",
+        "caption": "Snow boarder falling down in almost white out conditions of snow.",
+        "image0": "02898.jpg",
+        "image1": "02892.jpg",
+        "label": 0
+    },
+    {
+        "id": 321,
+        "source": "hpdv2",
+        "caption": "A train is coming along near some unusual looking tracks.",
+        "image0": "02911.jpg",
+        "image1": "02916.jpg",
+        "label": 0
+    },
+    {
+        "id": 336,
+        "source": "hpdv2",
+        "caption": "a man walking alone down the street in a velvet jacket",
+        "image0": "03069.jpg",
+        "image1": "03068.jpg",
+        "label": 0
+    },
+    {
+        "id": 345,
+        "source": "hpdv2",
+        "caption": "A couple of men are standing outside their car watching sheep cross a road. ",
+        "image0": "03159.jpg",
+        "image1": "03158.jpg",
+        "label": 0
+    },
+    {
+        "id": 346,
+        "source": "hpdv2",
+        "caption": "People rafting on a river while others ride on top of elephants.",
+        "image0": "03162.jpg",
+        "image1": "03169.jpg",
+        "label": 0
+    },
+    {
+        "id": 361,
+        "source": "hpdv2",
+        "caption": "The feet of Lacrosse players scramble for the ball.",
+        "image0": "03312.jpg",
+        "image1": "03316.jpg",
+        "label": 0
+    },
+    {
+        "id": 392,
+        "source": "hpdv2",
+        "caption": "Three cows eating in a field with sea in background.",
+        "image0": "03628.jpg",
+        "image1": "03622.jpg",
+        "label": 0
+    },
+    {
+        "id": 19,
+        "source": "hpdv2",
+        "caption": "A hand-drawn cute gnome holding a pumpkin in an autumn disguise, portrayed in a detailed close-up of the face with warm lighting and high detail.",
+        "image0": "00179.jpg",
+        "image1": "00177.jpg",
+        "label": 0
+    },
+    {
+        "id": 43,
+        "source": "hpdv2",
+        "caption": "The image is of dancing potatoes in a cute cartoony style.",
+        "image0": "00395.jpg",
+        "image1": "00388.jpg",
+        "label": 0
+    },
+    {
+        "id": 71,
+        "source": "hpdv2",
+        "caption": "Ewoks swinging from Walmart rafters.",
+        "image0": "00641.jpg",
+        "image1": "00645.jpg",
+        "label": 0
+    },
+    {
+        "id": 96,
+        "source": "hpdv2",
+        "caption": "Family assembling missile in living room.",
+        "image0": "00872.jpg",
+        "image1": "00866.jpg",
+        "label": 0
+    },
+    {
+        "id": 117,
+        "source": "hpdv2",
+        "caption": "Dr. Pepper floating in space, viewed through the window of a spaceship.",
+        "image0": "01054.jpg",
+        "image1": "01055.jpg",
+        "label": 0
+    },
+    {
+        "id": 126,
+        "source": "hpdv2",
+        "caption": "A teddy bear mad scientist mixing chemicals depicted in oil painting style as a fantasy concept art piece.",
+        "image0": "01142.jpg",
+        "image1": "01135.jpg",
+        "label": 0
+    },
+    {
+        "id": 156,
+        "source": "hpdv2",
+        "caption": "Close-up shot of a person running on a treadmill with worn running shoes under dramatic lighting and a comic book-style painting effect.",
+        "image0": "01406.jpg",
+        "image1": "01410.jpg",
+        "label": 0
+    },
+    {
+        "id": 159,
+        "source": "hpdv2",
+        "caption": "A surreal restaurant floating on water with architecture resembling Salvador Dal\u00ed's art, depicted in a film directed by Denis Villeneuve.",
+        "image0": "01433.jpg",
+        "image1": "01435.jpg",
+        "label": 0
+    },
+    {
+        "id": 165,
+        "source": "hpdv2",
+        "caption": "A photograph of a giant diamond skull in the ocean, featuring vibrant colors and detailed textures.",
+        "image0": "01486.jpg",
+        "image1": "01487.jpg",
+        "label": 0
+    },
+    {
+        "id": 182,
+        "source": "hpdv2",
+        "caption": "Hooded figure standing over a ruined city with red haze and a grin.",
+        "image0": "01646.jpg",
+        "image1": "01640.jpg",
+        "label": 0
+    },
+    {
+        "id": 196,
+        "source": "hpdv2",
+        "caption": "Underwater concept art of marine life in Sea of Thieves featuring a wild boar.",
+        "image0": "01772.jpg",
+        "image1": "01766.jpg",
+        "label": 0
+    }
+]

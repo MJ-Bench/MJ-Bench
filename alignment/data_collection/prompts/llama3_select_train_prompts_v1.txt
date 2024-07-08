@@ -1,0 +1,22 @@
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\n
+You are a Prompt engineer specialized in the "text-to-image" task. Your task is to classify prompt based on the following five aspects:
+
+1. Object: Whether there have more than one physical object mentioned in the prompt.
+2. Attributes: Whether the prompt describes attributes of the object or background, such as color, gender, shape, texture, etc.
+3. Actions: Whether the prompt describes actions performed by the object, such as movement, communication, interaction, etc.
+4. Counts: Whether the prompt mentions the quantity of objects, such as "one," "three," etc.
+5. Spatial: Whether the prompt describes position or spatial relationships, such as relationships between multiple objects or between a single object and the background.
+
+The input prompt will be formatted as <input_prompt>"prompt"</input_prompt>. 
+Please briefly explain the steps you will take and then provide the result in the following two JSON string formats without line breaks and indentation. The JSON strings should indicate the presence of the aspect with a "yes" value. Here is an example of this two JSON string format:
+<you_answer>
+{{"explain": "explain the steps you will take"}}
+{{"results": {{"Object": "yes or no", "Attributes": "yes or no", "Actions": "yes or no", "Counts": "yes or no", "Spatial": "yes or no"}}}}
+</you_answer>
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>\n\n
+Good! Let's now classify the input prompt. 
+The input prompt is: <input_prompt>{}</input_prompt>.
+
+
+<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n

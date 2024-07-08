@@ -1,0 +1,450 @@
+[
+    {
+        "id": 8,
+        "source": "hpdv2",
+        "caption": "2B from NieR Automata eating a bagel.",
+        "image0": "00073.jpg",
+        "image1": "00080.jpg",
+        "label": 0
+    },
+    {
+        "id": 18,
+        "source": "hpdv2",
+        "caption": "A depiction of Chucky, the killer doll in anime style.",
+        "image0": "00163.jpg",
+        "image1": "00170.jpg",
+        "label": 0
+    },
+    {
+        "id": 22,
+        "source": "hpdv2",
+        "caption": "A spoon dressed up with eyes and a smile.",
+        "image0": "00200.jpg",
+        "image1": "00199.jpg",
+        "label": 0
+    },
+    {
+        "id": 28,
+        "source": "hpdv2",
+        "caption": "Totem pole made out of cats.",
+        "image0": "00258.jpg",
+        "image1": "00253.jpg",
+        "label": 0
+    },
+    {
+        "id": 29,
+        "source": "hpdv2",
+        "caption": "Paul Chuckle bowling on a pirate ship during a storm.",
+        "image0": "00269.jpg",
+        "image1": "00262.jpg",
+        "label": 0
+    },
+    {
+        "id": 51,
+        "source": "hpdv2",
+        "caption": "Gnomes are playing music during Independence Day festivities in a forest near Lake George.",
+        "image0": "00460.jpg",
+        "image1": "00467.jpg",
+        "label": 0
+    },
+    {
+        "id": 64,
+        "source": "hpdv2",
+        "caption": "Jack Pumpkinhead in the Land of Oz.",
+        "image0": "00582.jpg",
+        "image1": "00578.jpg",
+        "label": 0
+    },
+    {
+        "id": 66,
+        "source": "hpdv2",
+        "caption": "A happy daffodil with big eyes, multiple leaf arms and vine legs, rendered in 3D Pixar style.",
+        "image0": "00602.jpg",
+        "image1": "00595.jpg",
+        "label": 0
+    },
+    {
+        "id": 72,
+        "source": "hpdv2",
+        "caption": "The image is of Pixel Art Huggy Wuggy performing a jumpscare.",
+        "image0": "00650.jpg",
+        "image1": "00654.jpg",
+        "label": 0
+    },
+    {
+        "id": 81,
+        "source": "hpdv2",
+        "caption": "A cute little anthropomorphic Tropical fish knight wearing a cape and a crown in short, pale blue armor.",
+        "image0": "00737.jpg",
+        "image1": "00731.jpg",
+        "label": 0
+    },
+    {
+        "id": 88,
+        "source": "hpdv2",
+        "caption": "Popcorn in mouth.",
+        "image0": "00798.jpg",
+        "image1": "00793.jpg",
+        "label": 0
+    },
+    {
+        "id": 97,
+        "source": "hpdv2",
+        "caption": "A lemon wearing a suit and tie, full body portrait.",
+        "image0": "00874.jpg",
+        "image1": "00875.jpg",
+        "label": 0
+    },
+    {
+        "id": 101,
+        "source": "hpdv2",
+        "caption": "A spaceship in an empty landscape.",
+        "image0": "00910.jpg",
+        "image1": "00912.jpg",
+        "label": 0
+    },
+    {
+        "id": 107,
+        "source": "hpdv2",
+        "caption": "A photorealistic image from a furry fandom convention set in a biopunk era after the genetic revolution and quantum singularity.",
+        "image0": "00964.jpg",
+        "image1": "00969.jpg",
+        "label": 0
+    },
+    {
+        "id": 112,
+        "source": "hpdv2",
+        "caption": "A person wearing a lab coat holding a green apple and standing in front of a whiteboard filled with equations and diagrams.",
+        "image0": "01016.jpg",
+        "image1": "01014.jpg",
+        "label": 0
+    },
+    {
+        "id": 113,
+        "source": "hpdv2",
+        "caption": "Scene from the 1931 science fiction film \"Escape from New York.\"",
+        "image0": "01023.jpg",
+        "image1": "01018.jpg",
+        "label": 0
+    },
+    {
+        "id": 135,
+        "source": "hpdv2",
+        "caption": "The image is a highly detailed concept art of a medieval city, with a cinematic style and painted beautifully in oil by various artists including Wlop, Greg Rutkowski, and Artgerm, and can be viewed on Artstation.",
+        "image0": "01223.jpg",
+        "image1": "01218.jpg",
+        "label": 0
+    },
+    {
+        "id": 144,
+        "source": "hpdv2",
+        "caption": "A digital painting by Loish featuring a rush of half-body, cyberpunk androids and cyborgs adorned with intricate jewelry and colorful holographic dreads.",
+        "image0": "01298.jpg",
+        "image1": "01302.jpg",
+        "label": 0
+    },
+    {
+        "id": 156,
+        "source": "hpdv2",
+        "caption": "Close-up shot of a person running on a treadmill with worn running shoes under dramatic lighting and a comic book-style painting effect.",
+        "image0": "01410.jpg",
+        "image1": "01412.jpg",
+        "label": 0
+    },
+    {
+        "id": 164,
+        "source": "hpdv2",
+        "caption": "Jim Carrey is eating giant hamburgers in a hyper-detailed, horror-inspired image trending on DeviantArt.",
+        "image0": "01482.jpg",
+        "image1": "01478.jpg",
+        "label": 0
+    },
+    {
+        "id": 184,
+        "source": "hpdv2",
+        "caption": "A digital illustration titled \"The Rise of a Dadaist Government\" by Jeffrey Smith and Tim Biskup.",
+        "image0": "01658.jpg",
+        "image1": "01657.jpg",
+        "label": 0
+    },
+    {
+        "id": 186,
+        "source": "hpdv2",
+        "caption": "A spray painted and analogue collage with canvas texture in a contemporary art style featuring a mathematically correct Tetris design.",
+        "image0": "01676.jpg",
+        "image1": "01680.jpg",
+        "label": 0
+    },
+    {
+        "id": 191,
+        "source": "hpdv2",
+        "caption": "A giant cosmic tardigrade descending on Tokyo at sunset in a highly detailed concept art.",
+        "image0": "01719.jpg",
+        "image1": "01720.jpg",
+        "label": 0
+    },
+    {
+        "id": 195,
+        "source": "hpdv2",
+        "caption": "A brightly painted temple with ornate structures and dramatic lighting inspired by Mayan and Islamic architecture.",
+        "image0": "01761.jpg",
+        "image1": "01756.jpg",
+        "label": 0
+    },
+    {
+        "id": 198,
+        "source": "hpdv2",
+        "caption": "The image is a digital art depiction of a female angel warrior with detailed features by artist Magali Villeneuve.",
+        "image0": "01788.jpg",
+        "image1": "01790.jpg",
+        "label": 0
+    },
+    {
+        "id": 199,
+        "source": "hpdv2",
+        "caption": "A phantom airship.",
+        "image0": "01799.jpg",
+        "image1": "01792.jpg",
+        "label": 0
+    },
+    {
+        "id": 200,
+        "source": "hpdv2",
+        "caption": "An abstract painting depicting the balance between dark and light in nature with rough brushstrokes and fine details in natural colors.",
+        "image0": "01807.jpg",
+        "image1": "01804.jpg",
+        "label": 0
+    },
+    {
+        "id": 209,
+        "source": "hpdv2",
+        "caption": "Elvis Presley performing in a jumpsuit, artwork by Alessandro Pautasso.",
+        "image0": "01889.jpg",
+        "image1": "01882.jpg",
+        "label": 0
+    },
+    {
+        "id": 225,
+        "source": "hpdv2",
+        "caption": "Close up portrait of a person speaking on the phone in front of a dark, geometrically abstract painting in the style of Sophie Taeuber-Arp, Gary Hume, and Tatsuro Kiuchi.",
+        "image0": "02026.jpg",
+        "image1": "02033.jpg",
+        "label": 0
+    },
+    {
+        "id": 227,
+        "source": "hpdv2",
+        "caption": "Album art of a hand holding a balloon emerging from the water against a red sky.",
+        "image0": "02051.jpg",
+        "image1": "02049.jpg",
+        "label": 0
+    },
+    {
+        "id": 229,
+        "source": "hpdv2",
+        "caption": "A painting depicting a foothpath at Indian summer with an epic evening sky at sunset and low thunder clouds.",
+        "image0": "02063.jpg",
+        "image1": "02065.jpg",
+        "label": 0
+    },
+    {
+        "id": 233,
+        "source": "hpdv2",
+        "caption": "The image features a person wearing jodhpurs, knee-high boots, and a leather jacket, painted in a fantasy style by various artists including Greg Manchess, Leyendecker, Greg Rutkowski, Greg Tocchini, James Gilleard, and Joe Fenton.",
+        "image0": "02099.jpg",
+        "image1": "02098.jpg",
+        "label": 0
+    },
+    {
+        "id": 248,
+        "source": "hpdv2",
+        "caption": "Two cats, one grey and one black, are wearing steampunk attire and standing in front of a ship in a heavily detailed painting.",
+        "image0": "02240.jpg",
+        "image1": "02238.jpg",
+        "label": 0
+    },
+    {
+        "id": 254,
+        "source": "hpdv2",
+        "caption": "Portrait of Steve Buscemi by Ilya Kuvshinov.",
+        "image0": "02287.jpg",
+        "image1": "02294.jpg",
+        "label": 0
+    },
+    {
+        "id": 259,
+        "source": "hpdv2",
+        "caption": "Artwork by Shaun Tan.",
+        "image0": "02332.jpg",
+        "image1": "02338.jpg",
+        "label": 0
+    },
+    {
+        "id": 260,
+        "source": "hpdv2",
+        "caption": "Illustration of a sugar skull day of the dead girl.",
+        "image0": "02341.jpg",
+        "image1": "02348.jpg",
+        "label": 0
+    },
+    {
+        "id": 264,
+        "source": "hpdv2",
+        "caption": "A depiction of Boudica, queen and warrior, with a battlefield in the background.",
+        "image0": "02382.jpg",
+        "image1": "02377.jpg",
+        "label": 0
+    },
+    {
+        "id": 266,
+        "source": "hpdv2",
+        "caption": "The image is titled \"Left 4 Dead\" and was painted by John William Waterhouse.",
+        "image0": "02395.jpg",
+        "image1": "02396.jpg",
+        "label": 0
+    },
+    {
+        "id": 270,
+        "source": "hpdv2",
+        "caption": "The image depicts a portrait of a panda by Petros Afshar.",
+        "image0": "02438.jpg",
+        "image1": "02431.jpg",
+        "label": 0
+    },
+    {
+        "id": 272,
+        "source": "hpdv2",
+        "caption": "A digital painting of a symmetric fantasy depiction of a Shinigami Japanese figure with highly detailed and realistic intricate port.",
+        "image0": "02454.jpg",
+        "image1": "02455.jpg",
+        "label": 0
+    },
+    {
+        "id": 286,
+        "source": "hpdv2",
+        "caption": "A Weezer album painted by Hieronymus Bosch.",
+        "image0": "02580.jpg",
+        "image1": "02576.jpg",
+        "label": 0
+    },
+    {
+        "id": 289,
+        "source": "hpdv2",
+        "caption": "A semirealistic digital painting of a Japanese schoolgirl in a gentle grayish color palette, by Chinese artists on ArtStation.",
+        "image0": "02607.jpg",
+        "image1": "02603.jpg",
+        "label": 0
+    },
+    {
+        "id": 290,
+        "source": "hpdv2",
+        "caption": "A portrait of Frank Zappa smoking, with vivid neon colors, by various artists.",
+        "image0": "02618.jpg",
+        "image1": "02616.jpg",
+        "label": 0
+    },
+    {
+        "id": 293,
+        "source": "hpdv2",
+        "caption": "A white Persian cat wearing a peacock feather headdress and surrounded by flowers, in a magical realism painting.",
+        "image0": "02638.jpg",
+        "image1": "02645.jpg",
+        "label": 0
+    },
+    {
+        "id": 296,
+        "source": "hpdv2",
+        "caption": "Digital painting of a lush natural scene on an alien planet with colourful, weird vegetation, cliffs, and water by Gerald Brom.",
+        "image0": "02665.jpg",
+        "image1": "02666.jpg",
+        "label": 0
+    },
+    {
+        "id": 331,
+        "source": "hpdv2",
+        "caption": "The shadow of a person across an asphalt street next to a street sign.",
+        "image0": "03018.jpg",
+        "image1": "03017.jpg",
+        "label": 0
+    },
+    {
+        "id": 359,
+        "source": "hpdv2",
+        "caption": "A flag flying with kites all around it.",
+        "image0": "03296.jpg",
+        "image1": "03291.jpg",
+        "label": 0
+    },
+    {
+        "id": 360,
+        "source": "hpdv2",
+        "caption": "A train that is going by a building.",
+        "image0": "03302.jpg",
+        "image1": "03304.jpg",
+        "label": 0
+    },
+    {
+        "id": 363,
+        "source": "hpdv2",
+        "caption": "A man with his finger held up to his nose.",
+        "image0": "03339.jpg",
+        "image1": "03332.jpg",
+        "label": 0
+    },
+    {
+        "id": 368,
+        "source": "hpdv2",
+        "caption": "a vintage photo of a man and a nurse ",
+        "image0": "03389.jpg",
+        "image1": "03382.jpg",
+        "label": 0
+    },
+    {
+        "id": 375,
+        "source": "hpdv2",
+        "caption": "A nighstand topped with a white land-line phone, remote control, a metallic lamp, and two pens next to a black hardcover book.",
+        "image0": "03458.jpg",
+        "image1": "03452.jpg",
+        "label": 0
+    },
+    {
+        "id": 380,
+        "source": "hpdv2",
+        "caption": "A pigeon sitting on top of a white table.",
+        "image0": "03509.jpg",
+        "image1": "03501.jpg",
+        "label": 0
+    },
+    {
+        "id": 384,
+        "source": "hpdv2",
+        "caption": "A bowl filled with apple slices and ice cream",
+        "image0": "03548.jpg",
+        "image1": "03549.jpg",
+        "label": 0
+    },
+    {
+        "id": 389,
+        "source": "hpdv2",
+        "caption": "Several different types of cell phones are shown here.",
+        "image0": "03591.jpg",
+        "image1": "03599.jpg",
+        "label": 0
+    },
+    {
+        "id": 397,
+        "source": "hpdv2",
+        "caption": "Several bunches of unripened bananas growing from trees.",
+        "image0": "03671.jpg",
+        "image1": "03678.jpg",
+        "label": 0
+    },
+    {
+        "id": 399,
+        "source": "hpdv2",
+        "caption": "a train on a track with a car near by",
+        "image0": "03696.jpg",
+        "image1": "03692.jpg",
+        "label": 0
+    }
+]

@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 0,
+        "caption": "A man wearing a gray hoodie and a black hat.",
+        "image_0_path": "human_0.jpg",
+        "image_1_path": "human_0_edited_face.jpg",
+        "score_0": 0.259010374546051,
+        "score_1": 1.7199172973632812,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 1,
+        "caption": "A man wearing a yellow jacket and grey pants stands on a hill overlooking a lake.",
+        "image_0_path": "human_1.jpg",
+        "image_1_path": "human_1_edited_face.jpg",
+        "score_0": 1.9440685510635376,
+        "score_1": 1.952467918395996,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 2,
+        "caption": "A woman wearing a pink dress and white shoes stands in front of a flower-covered wall.",
+        "image_0_path": "human_10.jpg",
+        "image_1_path": "human_10_edited_face.jpg",
+        "score_0": 1.418082594871521,
+        "score_1": 1.4456418752670288,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 3,
+        "caption": "A woman wearing a brown coat and blue jeans is standing on a sidewalk.",
+        "image_0_path": "human_11.jpg",
+        "image_1_path": "human_11_edited_face.jpg",
+        "score_0": 1.7911168336868286,
+        "score_1": 1.6209040880203247,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 4,
+        "caption": "A woman in a white shirt and yellow skirt is holding a potted plant.",
+        "image_0_path": "human_12.jpg",
+        "image_1_path": "human_12_edited_face.jpg",
+        "score_0": -1.6588151454925537,
+        "score_1": -1.5556786060333252,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 5,
+        "caption": "A man wearing a brown jacket and a green sweater.",
+        "image_0_path": "human_13.jpg",
+        "image_1_path": "human_13_edited_face.jpg",
+        "score_0": 1.7668713331222534,
+        "score_1": 1.8616300821304321,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 6,
+        "caption": "A man wearing a white tank top is sitting on the beach.",
+        "image_0_path": "human_14.jpg",
+        "image_1_path": "human_14_edited_face.jpg",
+        "score_0": 1.93399178981781,
+        "score_1": 1.946900486946106,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 7,
+        "caption": "A man in a brown suit and white shirt stands on a sidewalk.",
+        "image_0_path": "human_15.jpg",
+        "image_1_path": "human_15_edited_face.jpg",
+        "score_0": 1.9138858318328857,
+        "score_1": 1.898524522781372,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 8,
+        "caption": "A young man wearing headphones and a headset is smiling.",
+        "image_0_path": "human_16.jpg",
+        "image_1_path": "human_16_edited_face.jpg",
+        "score_0": 1.7476948499679565,
+        "score_1": -0.25801724195480347,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 9,
+        "caption": "A man wearing glasses and a red jacket is surrounded by pictures.",
+        "image_0_path": "human_17.jpg",
+        "image_1_path": "human_17_edited_face.jpg",
+        "score_0": 1.3919883966445923,
+        "score_1": 0.5146388411521912,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 10,
+        "caption": "A woman with long hair and a silver watch is sitting on a couch and holding a remote control.",
+        "image_0_path": "human_18.jpg",
+        "image_1_path": "human_18_edited_face.jpg",
+        "score_0": -0.8645114898681641,
+        "score_1": -1.070831298828125,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 11,
+        "caption": "A woman wearing a red hat and a jacket is sitting in the back of a car.",
+        "image_0_path": "human_19.jpg",
+        "image_1_path": "human_19_edited_face.jpg",
+        "score_0": 0.6555285453796387,
+        "score_1": 0.2959232032299042,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 12,
+        "caption": "A young boy is sitting on the floor, smiling and posing for a picture.",
+        "image_0_path": "human_2.jpg",
+        "image_1_path": "human_2_edited_face.jpg",
+        "score_0": 1.0081801414489746,
+        "score_1": 0.48711255192756653,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 13,
+        "caption": "A man wearing a hat and a blue jacket.",
+        "image_0_path": "human_20.jpg",
+        "image_1_path": "human_20_edited_face.jpg",
+        "score_0": 1.6354118585586548,
+        "score_1": 0.661662220954895,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 14,
+        "caption": "A man in a green jacket stands on a hillside, looking out over the mountains.",
+        "image_0_path": "human_21.jpg",
+        "image_1_path": "human_21_edited_face.jpg",
+        "score_0": 1.9408822059631348,
+        "score_1": 1.8992310762405396,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 15,
+        "caption": "Three men wearing camouflage and carrying backpacks stand next to each other.",
+        "image_0_path": "human_22.jpg",
+        "image_1_path": "human_22_edited_face.jpg",
+        "score_0": 0.14198780059814453,
+        "score_1": 0.02818950265645981,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 16,
+        "caption": "A woman with red hair and a white dress stands in front of a colorful flower wall.",
+        "image_0_path": "human_23.jpg",
+        "image_1_path": "human_23_edited_face.jpg",
+        "score_0": 1.9419341087341309,
+        "score_1": 1.9295424222946167,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 17,
+        "caption": "A man with dark hair and a beard stands on a mountain overlooking a lake.",
+        "image_0_path": "human_24.jpg",
+        "image_1_path": "human_24_edited_face.jpg",
+        "score_0": 0.1299615353345871,
+        "score_1": 1.6674549579620361,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 18,
+        "caption": "A man wearing a suit and tie is smiling.",
+        "image_0_path": "human_25.jpg",
+        "image_1_path": "human_25_edited_face.jpg",
+        "score_0": 0.07094905525445938,
+        "score_1": 1.6060068607330322,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 19,
+        "caption": "A man wearing a yellow shirt and sunglasses stands in a room with a table and potted plants.",
+        "image_0_path": "human_26.jpg",
+        "image_1_path": "human_26_edited_face.jpg",
+        "score_0": 1.9329549074172974,
+        "score_1": 1.8317562341690063,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 20,
+        "caption": "A woman wearing a yellow dress stands in a field of flowers.",
+        "image_0_path": "human_27.jpg",
+        "image_1_path": "human_27_edited_face.jpg",
+        "score_0": 1.9219741821289062,
+        "score_1": 1.906184196472168,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 21,
+        "caption": "A man wearing glasses and a gray jacket is sitting on a bench.",
+        "image_0_path": "human_28.jpg",
+        "image_1_path": "human_28_edited_face.jpg",
+        "score_0": 0.8561261296272278,
+        "score_1": 1.7956390380859375,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 22,
+        "caption": "A man holding a wine glass with flowers in the background.",
+        "image_0_path": "human_29.jpg",
+        "image_1_path": "human_29_edited_face.jpg",
+        "score_0": 1.713688850402832,
+        "score_1": 1.6192166805267334,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 23,
+        "caption": "A woman with a smile on her face.",
+        "image_0_path": "human_3.jpg",
+        "image_1_path": "human_3_edited_face.jpg",
+        "score_0": 0.6459376215934753,
+        "score_1": -1.5397210121154785,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 24,
+        "caption": "A man with curly hair and a beard is smiling for the camera.",
+        "image_0_path": "human_30.jpg",
+        "image_1_path": "human_30_edited_face.jpg",
+        "score_0": -0.04340703412890434,
+        "score_1": -0.1360497623682022,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 25,
+        "caption": "A woman wearing headphones and a red jacket.",
+        "image_0_path": "human_31.jpg",
+        "image_1_path": "human_31_edited_face.jpg",
+        "score_0": 1.5562615394592285,
+        "score_1": 0.8412451148033142,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 26,
+        "caption": "A man wearing a brown jacket and green pants stands on a dirt road.",
+        "image_0_path": "human_32.jpg",
+        "image_1_path": "human_32_edited_face.jpg",
+        "score_0": 1.6585372686386108,
+        "score_1": 1.7910956144332886,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 27,
+        "caption": "A man running on a beach with a towel in his hand.",
+        "image_0_path": "human_33.jpg",
+        "image_1_path": "human_33_edited_face.jpg",
+        "score_0": -0.3718111217021942,
+        "score_1": -0.5951271057128906,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 28,
+        "caption": "A man wearing a blue shirt and khaki shorts stands in front of a wooden wall.",
+        "image_0_path": "human_34.jpg",
+        "image_1_path": "human_34_edited_face.jpg",
+        "score_0": 1.7972209453582764,
+        "score_1": 1.8393137454986572,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 29,
+        "caption": "A man wearing glasses and a white shirt stands in front of a cabinet.",
+        "image_0_path": "human_35.jpg",
+        "image_1_path": "human_35_edited_face.jpg",
+        "score_0": 1.452670693397522,
+        "score_1": -0.8488380312919617,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 30,
+        "caption": "A woman wearing a coat and hat is surrounded by various clothing items.",
+        "image_0_path": "human_36.jpg",
+        "image_1_path": "human_36_edited_face.jpg",
+        "score_0": 1.5718811750411987,
+        "score_1": 0.8087345361709595,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 31,
+        "caption": "A man wearing glasses and a red jacket.",
+        "image_0_path": "human_37.jpg",
+        "image_1_path": "human_37_edited_face.jpg",
+        "score_0": -0.2744130492210388,
+        "score_1": -0.48421579599380493,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 32,
+        "caption": "A man wearing a hat and an orange jacket stands in front of a store.",
+        "image_0_path": "human_38.jpg",
+        "image_1_path": "human_38_edited_face.jpg",
+        "score_0": 1.9196233749389648,
+        "score_1": 1.9519612789154053,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 33,
+        "caption": "A woman in a red shirt and blue shorts stands in a garden.",
+        "image_0_path": "human_39.jpg",
+        "image_1_path": "human_39_edited_face.jpg",
+        "score_0": 1.9366068840026855,
+        "score_1": 1.9169247150421143,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 34,
+        "caption": "A man with a beard and mustache is smiling.",
+        "image_0_path": "human_4.jpg",
+        "image_1_path": "human_4_edited_face.jpg",
+        "score_0": -0.9592224955558777,
+        "score_1": -2.250586986541748,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 35,
+        "caption": "A man wearing a white shirt and blue pants stands on a set of stairs.",
+        "image_0_path": "human_40.jpg",
+        "image_1_path": "human_40_edited_face.jpg",
+        "score_0": 1.8145489692687988,
+        "score_1": 1.7865055799484253,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 36,
+        "caption": "A man with a white shirt and black collar.",
+        "image_0_path": "human_41.jpg",
+        "image_1_path": "human_41_edited_face.jpg",
+        "score_0": 0.06894037872552872,
+        "score_1": 0.002976743970066309,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 37,
+        "caption": "A girl stands in front of a flower-filled background.",
+        "image_0_path": "human_42.jpg",
+        "image_1_path": "human_42_edited_face.jpg",
+        "score_0": 1.8696773052215576,
+        "score_1": 1.877122402191162,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 38,
+        "caption": "A man with a beard and mustache poses for a picture.",
+        "image_0_path": "human_43.jpg",
+        "image_1_path": "human_43_edited_face.jpg",
+        "score_0": -0.2415236085653305,
+        "score_1": -0.433650404214859,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 39,
+        "caption": "A man wearing glasses and a hoodie.",
+        "image_0_path": "human_44.jpg",
+        "image_1_path": "human_44_edited_face.jpg",
+        "score_0": 1.8737658262252808,
+        "score_1": 1.932946801185608,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 40,
+        "caption": "A man with curly hair is smiling in front of a flower garden.",
+        "image_0_path": "human_45.jpg",
+        "image_1_path": "human_45_edited_face.jpg",
+        "score_0": 1.7930951118469238,
+        "score_1": 0.018487347289919853,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 41,
+        "caption": "A woman in a white shirt and pants is sitting on a chair in front of a wall of colorful flowers.",
+        "image_0_path": "human_46.jpg",
+        "image_1_path": "human_46_edited_face.jpg",
+        "score_0": 1.3032668828964233,
+        "score_1": 1.02689528465271,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 42,
+        "caption": "A woman with a flower print dress stands in front of a flower background.",
+        "image_0_path": "human_47.jpg",
+        "image_1_path": "human_47_edited_face.jpg",
+        "score_0": 1.8803391456604004,
+        "score_1": 0.10868918150663376,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 43,
+        "caption": "A woman is walking down the street holding a basket of tomatoes.",
+        "image_0_path": "human_48.jpg",
+        "image_1_path": "human_48_edited_face.jpg",
+        "score_0": 1.049121618270874,
+        "score_1": 1.0919146537780762,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 44,
+        "caption": "A woman with dark hair and a yellow shirt.",
+        "image_0_path": "human_49.jpg",
+        "image_1_path": "human_49_edited_face.jpg",
+        "score_0": 1.3521277904510498,
+        "score_1": 0.4771365821361542,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 45,
+        "caption": "A woman wearing a tan coat stands between two dogs.",
+        "image_0_path": "human_5.jpg",
+        "image_1_path": "human_5_edited_face.jpg",
+        "score_0": 1.6630761623382568,
+        "score_1": 1.7719905376434326,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 46,
+        "caption": "A young man with dark hair and a beard is wearing a brown sweater.",
+        "image_0_path": "human_50.jpg",
+        "image_1_path": "human_50_edited_face.jpg",
+        "score_0": -1.3540610074996948,
+        "score_1": -1.0772758722305298,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 47,
+        "caption": "A woman in a brown sweater and a pink skirt stands in front of a colorful background.",
+        "image_0_path": "human_51.jpg",
+        "image_1_path": "human_51_edited_face.jpg",
+        "score_0": 1.8823904991149902,
+        "score_1": 1.866697072982788,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 48,
+        "caption": "Two men wearing red and gold outfits.",
+        "image_0_path": "human_52.jpg",
+        "image_1_path": "human_52_edited_face.jpg",
+        "score_0": 0.3357231318950653,
+        "score_1": -0.1264481097459793,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 49,
+        "caption": "A man wearing glasses and a hat.",
+        "image_0_path": "human_53.jpg",
+        "image_1_path": "human_53_edited_face.jpg",
+        "score_0": 0.9615770578384399,
+        "score_1": 1.4719663858413696,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 50,
+        "caption": "A collage of women wearing different colored headscarves.",
+        "image_0_path": "human_54.jpg",
+        "image_1_path": "human_54_edited_face.jpg",
+        "score_0": 0.45610588788986206,
+        "score_1": -0.6212238073348999,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 51,
+        "caption": "A woman wearing a pink dress stands in front of a wall.",
+        "image_0_path": "human_55.jpg",
+        "image_1_path": "human_55_edited_face.jpg",
+        "score_0": 1.8258856534957886,
+        "score_1": 1.7246906757354736,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 52,
+        "caption": "A woman with long hair and a yellow shirt smiles for the camera.",
+        "image_0_path": "human_56.jpg",
+        "image_1_path": "human_56_edited_face.jpg",
+        "score_0": 0.8403519988059998,
+        "score_1": 0.5104731321334839,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 53,
+        "caption": "A woman is sitting on a chair in front of a garden with pink flowers.",
+        "image_0_path": "human_57.jpg",
+        "image_1_path": "human_57_edited_face.jpg",
+        "score_0": 1.8552149534225464,
+        "score_1": 1.8358203172683716,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 54,
+        "caption": "A man with a beard and earrings is smiling.",
+        "image_0_path": "human_58.jpg",
+        "image_1_path": "human_58_edited_face.jpg",
+        "score_0": -0.8649547696113586,
+        "score_1": -0.9630764126777649,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 55,
+        "caption": "A woman with long hair and a blue top.",
+        "image_0_path": "human_59.jpg",
+        "image_1_path": "human_59_edited_face.jpg",
+        "score_0": 0.9981157779693604,
+        "score_1": 1.5862178802490234,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 56,
+        "caption": "A man with a beard and mustache wearing a black jacket.",
+        "image_0_path": "human_6.jpg",
+        "image_1_path": "human_6_edited_face.jpg",
+        "score_0": -1.2627501487731934,
+        "score_1": -1.1026736497879028,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 57,
+        "caption": "A man wearing a blue shirt and khaki pants stands in front of a counter.",
+        "image_0_path": "human_60.jpg",
+        "image_1_path": "human_60_edited_face.jpg",
+        "score_0": 1.8007450103759766,
+        "score_1": 1.8154665231704712,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 58,
+        "caption": "A woman with long hair and sunglasses is standing on a beach.",
+        "image_0_path": "human_61.jpg",
+        "image_1_path": "human_61_edited_face.jpg",
+        "score_0": 1.3804466724395752,
+        "score_1": -0.575363039970398,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 59,
+        "caption": "A woman with blonde hair and blue eyes is wearing a white coat.",
+        "image_0_path": "human_62.jpg",
+        "image_1_path": "human_62_edited_face.jpg",
+        "score_0": 0.555975615978241,
+        "score_1": -0.2976183593273163,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 60,
+        "caption": "A woman wearing a pink jacket and blue jeans is walking down a dirt path.",
+        "image_0_path": "human_63.jpg",
+        "image_1_path": "human_63_edited_face.jpg",
+        "score_0": 1.86571204662323,
+        "score_1": 1.8685531616210938,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 61,
+        "caption": "A woman wearing sunglasses and a white shirt.",
+        "image_0_path": "human_64.jpg",
+        "image_1_path": "human_64_edited_face.jpg",
+        "score_0": 1.1909992694854736,
+        "score_1": -1.1687861680984497,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 62,
+        "caption": "A woman wearing a green dress and a jacket stands in front of a building.",
+        "image_0_path": "human_65.jpg",
+        "image_1_path": "human_65_edited_face.jpg",
+        "score_0": 1.1978753805160522,
+        "score_1": 1.134162187576294,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 63,
+        "caption": "A woman with long hair and a smile on her face.",
+        "image_0_path": "human_66.jpg",
+        "image_1_path": "human_66_edited_face.jpg",
+        "score_0": 1.3660783767700195,
+        "score_1": 1.5246554613113403,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 64,
+        "caption": "A man with a beard and mustache is standing in front of a shelf of products.",
+        "image_0_path": "human_67.jpg",
+        "image_1_path": "human_67_edited_face.jpg",
+        "score_0": -1.0506181716918945,
+        "score_1": 0.04397051781415939,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 65,
+        "caption": "A woman with short hair and a blue shirt.",
+        "image_0_path": "human_68.jpg",
+        "image_1_path": "human_68_edited_face.jpg",
+        "score_0": -0.5011363625526428,
+        "score_1": -1.7857794761657715,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 66,
+        "caption": "A woman wearing a yellow dress and a red lipstick stands in front of a tree with pink flowers.",
+        "image_0_path": "human_69.jpg",
+        "image_1_path": "human_69_edited_face.jpg",
+        "score_0": 0.8208260536193848,
+        "score_1": -0.1544632464647293,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 67,
+        "caption": "A woman in a white dress stands in front of a mirror.",
+        "image_0_path": "human_7.jpg",
+        "image_1_path": "human_7_edited_face.jpg",
+        "score_0": 1.5096997022628784,
+        "score_1": 1.4992363452911377,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 68,
+        "caption": "A man wearing a yellow jacket and white pants stands on a beach.",
+        "image_0_path": "human_70.jpg",
+        "image_1_path": "human_70_edited_face.jpg",
+        "score_0": 1.986045002937317,
+        "score_1": 1.991025447845459,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 69,
+        "caption": "A man with curly hair and glasses is wearing a suit and tie.",
+        "image_0_path": "human_71.jpg",
+        "image_1_path": "human_71_edited_face.jpg",
+        "score_0": 1.8052130937576294,
+        "score_1": 0.6708382964134216,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 70,
+        "caption": "A woman is sitting on a pillow with her dog.",
+        "image_0_path": "human_72.jpg",
+        "image_1_path": "human_72_edited_face.jpg",
+        "score_0": 1.5336581468582153,
+        "score_1": 1.5161480903625488,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 71,
+        "caption": "A man with curly hair and a brown jacket.",
+        "image_0_path": "human_73.jpg",
+        "image_1_path": "human_73_edited_face.jpg",
+        "score_0": 1.223636507987976,
+        "score_1": 1.5534337759017944,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 72,
+        "caption": "A woman with blonde hair is surrounded by a variety of fruits and vegetables.",
+        "image_0_path": "human_74.jpg",
+        "image_1_path": "human_74_edited_face.jpg",
+        "score_0": 1.7104660272598267,
+        "score_1": 1.7517127990722656,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 73,
+        "caption": "A man in a green shirt and shorts stands on the beach.",
+        "image_0_path": "human_75.jpg",
+        "image_1_path": "human_75_edited_face.jpg",
+        "score_0": 1.6586943864822388,
+        "score_1": 1.5617079734802246,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 74,
+        "caption": "A woman wearing a tan dress stands in a room.",
+        "image_0_path": "human_76.jpg",
+        "image_1_path": "human_76_edited_face.jpg",
+        "score_0": 0.6296658515930176,
+        "score_1": 0.3392512798309326,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 75,
+        "caption": "A woman with a flower crown is surrounded by a field of flowers.",
+        "image_0_path": "human_77.jpg",
+        "image_1_path": "human_77_edited_face.jpg",
+        "score_0": 0.9908368587493896,
+        "score_1": 1.7056890726089478,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 76,
+        "caption": "A woman wearing a blue bra.",
+        "image_0_path": "human_78.jpg",
+        "image_1_path": "human_78_edited_face.jpg",
+        "score_0": 1.5224761962890625,
+        "score_1": 1.521488904953003,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 77,
+        "caption": "A collage of men wearing different coats.",
+        "image_0_path": "human_79.jpg",
+        "image_1_path": "human_79_edited_face.jpg",
+        "score_0": 0.30521225929260254,
+        "score_1": 0.18782910704612732,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 78,
+        "caption": "A man wearing glasses and a grey shirt stands in front of a colorful flower wall.",
+        "image_0_path": "human_8.jpg",
+        "image_1_path": "human_8_edited_face.jpg",
+        "score_0": 1.9484606981277466,
+        "score_1": 1.9455583095550537,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 79,
+        "caption": "A girl with a pink bow in her hair is wearing a white shirt.",
+        "image_0_path": "human_80.jpg",
+        "image_1_path": "human_80_edited_face.jpg",
+        "score_0": -0.8631008863449097,
+        "score_1": -1.0396093130111694,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 80,
+        "caption": "A woman wearing a hooded sweater and a scarf.",
+        "image_0_path": "human_81.jpg",
+        "image_1_path": "human_81_edited_face.jpg",
+        "score_0": 1.5429917573928833,
+        "score_1": 0.25700733065605164,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 81,
+        "caption": "A woman wearing a blue hat and a blue jacket is sitting on a bench.",
+        "image_0_path": "human_82.jpg",
+        "image_1_path": "human_82_edited_face.jpg",
+        "score_0": -1.6109031438827515,
+        "score_1": -2.1362407207489014,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 82,
+        "caption": "A man with dark hair and a beard is smiling for the camera.",
+        "image_0_path": "human_83.jpg",
+        "image_1_path": "human_83_edited_face.jpg",
+        "score_0": -1.8255813121795654,
+        "score_1": -1.4908454418182373,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 83,
+        "caption": "A woman wearing a blue shirt and a scarf is sitting on a black pillow.",
+        "image_0_path": "human_84.jpg",
+        "image_1_path": "human_84_edited_face.jpg",
+        "score_0": -0.9417930841445923,
+        "score_1": -1.037706732749939,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 84,
+        "caption": "A woman wearing sunglasses and a white shirt is standing on a boat.",
+        "image_0_path": "human_85.jpg",
+        "image_1_path": "human_85_edited_face.jpg",
+        "score_0": 0.8569628596305847,
+        "score_1": 0.7677516341209412,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 85,
+        "caption": "A young boy wearing a baseball cap is posing for a picture.",
+        "image_0_path": "human_86.jpg",
+        "image_1_path": "human_86_edited_face.jpg",
+        "score_0": -0.32151034474372864,
+        "score_1": -2.188586950302124,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 86,
+        "caption": "A woman wearing a blue dress and a pink bow stands in front of a flower wall.",
+        "image_0_path": "human_87.jpg",
+        "image_1_path": "human_87_edited_face.jpg",
+        "score_0": 1.4694403409957886,
+        "score_1": 1.4876952171325684,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 87,
+        "caption": "A man wearing a colorful robe and scarf.",
+        "image_0_path": "human_88.jpg",
+        "image_1_path": "human_88_edited_face.jpg",
+        "score_0": 1.5392959117889404,
+        "score_1": 0.5538527965545654,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 88,
+        "caption": "A man wearing a blue shirt and tie stands in front of a colorful flower background.",
+        "image_0_path": "human_89.jpg",
+        "image_1_path": "human_89_edited_face.jpg",
+        "score_0": 0.32844671607017517,
+        "score_1": 0.4073488712310791,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 89,
+        "caption": "A woman with long hair and a ponytail is wearing a white shirt and a necklace.",
+        "image_0_path": "human_9.jpg",
+        "image_1_path": "human_9_edited_face.jpg",
+        "score_0": -0.19854393601417542,
+        "score_1": -0.20390617847442627,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 90,
+        "caption": "A woman with long hair and an orange shirt stands in front of a flower-filled background.",
+        "image_0_path": "human_90.jpg",
+        "image_1_path": "human_90_edited_face.jpg",
+        "score_0": 1.993148684501648,
+        "score_1": 1.9212054014205933,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 91,
+        "caption": "A woman stands in front of a flower wall, wearing a yellow shirt and white skirt.",
+        "image_0_path": "human_91.jpg",
+        "image_1_path": "human_91_edited_face.jpg",
+        "score_0": 1.9257304668426514,
+        "score_1": 1.91600501537323,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 92,
+        "caption": "A man wearing a blue jacket and grey shirt stands in a room with a couch and a chair.",
+        "image_0_path": "human_92.jpg",
+        "image_1_path": "human_92_edited_face.jpg",
+        "score_0": 1.6182438135147095,
+        "score_1": 1.6122596263885498,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 93,
+        "caption": "A man wearing a brown coat and holding a briefcase.",
+        "image_0_path": "human_93.jpg",
+        "image_1_path": "human_93_edited_face.jpg",
+        "score_0": -0.5751810669898987,
+        "score_1": -0.631047248840332,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 94,
+        "caption": "A woman wearing a white shirt and a brown tie.",
+        "image_0_path": "human_94.jpg",
+        "image_1_path": "human_94_edited_face.jpg",
+        "score_0": -1.1366850137710571,
+        "score_1": -1.3388352394104004,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 95,
+        "caption": "A man with a beard and a necklace stands in a field of flowers.",
+        "image_0_path": "human_95.jpg",
+        "image_1_path": "human_95_edited_face.jpg",
+        "score_0": 1.8436559438705444,
+        "score_1": 1.7094321250915527,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 96,
+        "caption": "A woman with blonde hair is posing for a picture.",
+        "image_0_path": "human_96.jpg",
+        "image_1_path": "human_96_edited_face.jpg",
+        "score_0": 0.2638196349143982,
+        "score_1": 0.41976580023765564,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 97,
+        "caption": "A young man with a pink shirt and black hair.",
+        "image_0_path": "human_97.jpg",
+        "image_1_path": "human_97_edited_face.jpg",
+        "score_0": 1.9233765602111816,
+        "score_1": 1.9671361446380615,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 98,
+        "caption": "A jockey riding a brown horse.",
+        "image_0_path": "human_98.jpg",
+        "image_1_path": "human_98_edited_face.jpg",
+        "score_0": 0.9176817536354065,
+        "score_1": 0.8891727328300476,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 99,
+        "caption": "A man wearing a blue and red striped shirt and blue jeans stands in front of a building.",
+        "image_0_path": "human_99.jpg",
+        "image_1_path": "human_99_edited_face.jpg",
+        "score_0": 1.2498388290405273,
+        "score_1": 1.2006301879882812,
+        "label": "0",
+        "pred": "0"
+    }
+]

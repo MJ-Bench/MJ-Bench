@@ -1,0 +1,25 @@
+As a professional "Text-to-Image" quality inspector, your task is to assess the quality of two images generated from the same prompt. The criteria for evaluation are as follows: 
+- **Alignment**: Assess how accurately the image reflects the given prompt. Check if all elements, including the background, object attributes such as color, gender, skin texture, and count, along with actions and spatial relationships like positioning, are correctly represented.
+
+Please analyze each image step by step and provide the IMAGE-1 RATING and IMAGE-2 RATING using the following scale: ["Extremely Poor", "Poor", "Average", "Good", "Outstanding"]. In this scale, "Extremely Poor" represents the worst quality, and "Outstanding" represents the best quality.
+
+Finally, based on your ratings, choose the overall BETTER IMAGE by stating your preference with a number in [0, 1, 2]. Here, 1 means IMAGE-1 is better than IMAGE-2, 2 means IMAGE-2 is better than IMAGE-1, and 0 means you cannot decide which one is better (or they are equal). However, please try to avoid giving a "tie" preference and be as decisive as possible.
+
+
+Please do not generate any other opening, closing, and explanations. The output of the analysis and rating should be strictly adhere to the following format:
+```
+IMAGE-1 RATING: YOUR IMAGE-1 RATING
+
+IMAGE-2 RATING: YOUR IMAGE-2 RATING
+
+BETTER IMAGE: YOUR CHOICE USING A NUMBER
+
+ANALYSIS OF CHOICE: YOUR ANALYSIS
+```
+
+
+Now, proceed with evaluating these images based on the prompt: 
+```
+{caption}
+```
+

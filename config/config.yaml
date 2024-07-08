@@ -1,0 +1,78 @@
+
+reward_models:
+
+    score_models:
+        clipscore_v1:
+            model_path: ViT-B/32
+        clipscore_v2:
+            model_path: laion/CLIP-ViT-H-14-laion2B-s32B-b79K
+            processor_path: laion/CLIP-ViT-H-14-laion2B-s32B-b79K
+        blipscore:
+            model_path: Salesforce/blip-itm-base-coco
+            processor_path: Salesforce/blip-itm-base-coco
+        pickscore_v1:
+            model_path: yuvalkirstain/PickScore_v1
+            processor_path: yuvalkirstain/PickScore_v1
+        hps_v2.1:
+            model_path: None
+            processor_path: None
+        ImageReward:
+            model_path: None
+            processor_path: None
+        aesthetics:
+            model_path: shunk031/aesthetics-predictor-v2-sac-logos-ava1-l14-linearMSE
+            processor_path: shunk031/aesthetics-predictor-v2-sac-logos-ava1-l14-linearMSE
+
+    opensource_vlm:
+        llava-1.5-7b-hf:
+            model_path: llava-hf/llava-1.5-7b-hf
+            processor_path: llava-hf/llava-1.5-7b-hf
+        idefics2-8b:
+            model_path: HuggingFaceM4/idefics2-8b
+            processor_path: HuggingFaceM4/idefics2-8b
+        instructblip:
+            model_path: Salesforce/instructblip-vicuna-7b
+            processor_path: Salesforce/instructblip-vicuna-7b
+        qwen:
+            model_path: Qwen/Qwen-VL-Chat
+            processor_path: Qwen/Qwen-VL-Chat
+        internVL:
+            model_path: OpenGVLab/InternVL-Chat-V1-2-Plus
+            processor_path: OpenGVLab/InternVL-Chat-V1-2-Plus
+        minigpt4:
+            model_path: wangrongsheng/MiniGPT-4-LLaMA-7B
+            processor_path: wangrongsheng/MiniGPT-4-LLaMA-7B
+        
+
+    closesource_models:
+        gpt-4-turbo:
+            model_name: gpt-4-turbo
+            api_key: sk-proj-IlTqXRjyYZSIAQ15rSuQT3BlbkFJSbr7QfChcTLHJXs0d9p5
+            base_url: https://api.openai.com/v1/
+        
+        # gpt-4-turbo:
+        #     model_name: gpt-4-turbo
+        #     api_key: DK3i6fFhq6e0fpmT7kCtSdVDLQ9IKpzk
+        #     base_url: https://azure-openai-api.shenmishajing.workers.dev/v1/
+        
+        # gpt-4o:
+        #     model_name: gpt-4o
+        #     api_key: DK3i6fFhq6e0fpmT7kCtSdVDLQ9IKpzk
+        #     base_url: https://azure-openai-api.shenmishajing.workers.dev/v1/
+
+        
+        gpt-4o:
+            model_name: gpt-4o
+            api_key: sk-proj-IlTqXRjyYZSIAQ15rSuQT3BlbkFJSbr7QfChcTLHJXs0d9p5
+            base_url: https://api.openai.com/v1/
+
+        claude-3-opus:
+            model_name: claude-3-opus-20240229
+            api_key: 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
+            base_url: None
+
+        gemini-1.5:
+            model_name: gemini-1.5-pro-latest
+            api_key: AIzaSyCP8yRIYd16-x88zeSeVs7vTfDpShcn3Jg
+            base_url: None
+

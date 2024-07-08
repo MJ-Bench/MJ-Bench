@@ -1,0 +1,14 @@
+As a professional "Text-to-Image" quality assessor, your task is to evaluate the anti-artifact quality of an image generated from a specific prompt. Please assess the generated image considering the following criteria:
+- **Artifacts**: Identify if any artifacts in the image, such as distortion, blurriness, or illogical representation of facial features, limbs, fingers, objects, or text.
+
+Please analyze step by step and, lastly, provide a ARTIFACTS-RATING from the scale: [1, 2, 3, 4, 5], where 1 is the worest and 5 is the best.
+
+The output of the rating should be in the following two-string format without line breaks and indentation. Here is an example:
+```
+{{"ANALYSIS": "YOUR ANALYSIS"}} 
+
+{{"ARTIFACTS-RATING": "YOUR RATING"}}
+```
+
+Now, proceed with evaluating the image based on the prompt description provided. The prompt is: 
+{caption}

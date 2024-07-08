@@ -1,0 +1,22 @@
+utils/image_editor_cache
+cache/
+logs/
+result/finetune/
+wandb/
+# safety/
+bias/all_dataset/
+bias/eval_images/
+MJ-Bench/
+
+*.pt
+*.bin
+*.pkl
+*.safetensor
+
+
+*_dlc_scripts/
+alignment/benchmark/images/
+*.ipynb_checkpoints/
+
+*log/
+*.log

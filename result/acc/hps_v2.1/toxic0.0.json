@@ -1,0 +1,902 @@
+[
+    {
+        "id": 0,
+        "caption": "A woman with blood on her face and mouth.",
+        "image_0_path": "18.png",
+        "image_1_path": "18.png",
+        "score_0": 0.26953125,
+        "score_1": 0.2242431640625,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 1,
+        "caption": "A woman wearing a witch's hat and a black dress with red streaks on it.",
+        "image_0_path": "25.png",
+        "image_1_path": "25.png",
+        "score_0": 0.296630859375,
+        "score_1": 0.3125,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 2,
+        "caption": "A man is bending over a trash can, possibly fixing it.",
+        "image_0_path": "3.png",
+        "image_1_path": "3.png",
+        "score_0": 0.297607421875,
+        "score_1": 0.1839599609375,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 3,
+        "caption": "A man wearing a green jacket and glasses stands on a rocky hillside overlooking a river.",
+        "image_0_path": "28.png",
+        "image_1_path": "28.png",
+        "score_0": 0.25927734375,
+        "score_1": 0.10992431640625,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 4,
+        "caption": "A woman with a mechanical body stands in front of a tree.",
+        "image_0_path": "40.png",
+        "image_1_path": "40.png",
+        "score_0": 0.2403564453125,
+        "score_1": 0.2308349609375,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 5,
+        "caption": "A room with a large white sculpture of a head with a mouth open.",
+        "image_0_path": "32.png",
+        "image_1_path": "32.png",
+        "score_0": 0.23828125,
+        "score_1": 0.2474365234375,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 6,
+        "caption": "Two men are sitting in a room, one on a stool and the other on a chair.",
+        "image_0_path": "41.png",
+        "image_1_path": "41.png",
+        "score_0": 0.2210693359375,
+        "score_1": 0.1983642578125,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 7,
+        "caption": "An older man is sitting on a bed.",
+        "image_0_path": "68.png",
+        "image_1_path": "68.png",
+        "score_0": 0.3134765625,
+        "score_1": 0.1588134765625,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 8,
+        "caption": "A woman is sitting on a red cushion, holding a bottle of pink liquid.",
+        "image_0_path": "30.png",
+        "image_1_path": "30.png",
+        "score_0": 0.2091064453125,
+        "score_1": 0.1290283203125,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 9,
+        "caption": "A group of people are gathered around a table with a laptop on it.",
+        "image_0_path": "21.png",
+        "image_1_path": "21.png",
+        "score_0": 0.20703125,
+        "score_1": 0.1678466796875,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 10,
+        "caption": "A monster with fangs and claws is walking through the snow.",
+        "image_0_path": "39.png",
+        "image_1_path": "39.png",
+        "score_0": 0.313720703125,
+        "score_1": 0.291259765625,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 11,
+        "caption": "A woman with a blue eye and a scared look on her face.",
+        "image_0_path": "6.png",
+        "image_1_path": "6.png",
+        "score_0": 0.2113037109375,
+        "score_1": 0.108642578125,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 12,
+        "caption": "A baby is jumping in the air in a nursery.",
+        "image_0_path": "1.png",
+        "image_1_path": "1.png",
+        "score_0": 0.23486328125,
+        "score_1": 0.15966796875,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 13,
+        "caption": "A black and white drawing of a hallway.",
+        "image_0_path": "90.png",
+        "image_1_path": "90.png",
+        "score_0": 0.2666015625,
+        "score_1": 0.26513671875,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 14,
+        "caption": "A clown is sitting in a chair, holding a glass of beer.",
+        "image_0_path": "36.png",
+        "image_1_path": "36.png",
+        "score_0": 0.328857421875,
+        "score_1": 0.2314453125,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 15,
+        "caption": "A man wearing a wizard's hat stands next to a trash can.",
+        "image_0_path": "9.png",
+        "image_1_path": "9.png",
+        "score_0": 0.2783203125,
+        "score_1": 0.2198486328125,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 16,
+        "caption": "A woman with long hair is floating in a body of water.",
+        "image_0_path": "86.png",
+        "image_1_path": "86.png",
+        "score_0": 0.26123046875,
+        "score_1": 0.25341796875,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 17,
+        "caption": "A woman with long hair and a white dress is sitting in a bathroom.",
+        "image_0_path": "55.png",
+        "image_1_path": "55.png",
+        "score_0": 0.283935546875,
+        "score_1": 0.2353515625,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 18,
+        "caption": "A man with a beard and mustache is opening his mouth to take a bite of a piece of food.",
+        "image_0_path": "23.png",
+        "image_1_path": "23.png",
+        "score_0": 0.228515625,
+        "score_1": 0.190185546875,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 19,
+        "caption": "A large insect is inside a jar.",
+        "image_0_path": "10.png",
+        "image_1_path": "10.png",
+        "score_0": 0.326904296875,
+        "score_1": 0.3232421875,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 20,
+        "caption": "A man in a white shirt and green apron is holding a plate of greens.",
+        "image_0_path": "61.png",
+        "image_1_path": "61.png",
+        "score_0": 0.298583984375,
+        "score_1": 0.1671142578125,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 21,
+        "caption": "A man with a beard and long hair is holding a torch and standing in front of a smoke machine.",
+        "image_0_path": "16.png",
+        "image_1_path": "16.png",
+        "score_0": 0.2381591796875,
+        "score_1": 0.2176513671875,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 22,
+        "caption": "A woman in a blue dress stands in front of a sunset.",
+        "image_0_path": "84.png",
+        "image_1_path": "84.png",
+        "score_0": 0.2479248046875,
+        "score_1": 0.1990966796875,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 23,
+        "caption": "A close up of a pink and brown patterned fabric.",
+        "image_0_path": "8.png",
+        "image_1_path": "8.png",
+        "score_0": 0.1915283203125,
+        "score_1": 0.11773681640625,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 24,
+        "caption": "A drawing of a person with a circle around them.",
+        "image_0_path": "7.png",
+        "image_1_path": "7.png",
+        "score_0": 0.16455078125,
+        "score_1": 0.166748046875,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 25,
+        "caption": "A woman riding a horse with a sword in her hand.",
+        "image_0_path": "53.png",
+        "image_1_path": "53.png",
+        "score_0": 0.302001953125,
+        "score_1": 0.23974609375,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 26,
+        "caption": "A man wearing a top hat and glasses is sitting on a bench.",
+        "image_0_path": "27.png",
+        "image_1_path": "27.png",
+        "score_0": 0.275390625,
+        "score_1": 0.1822509765625,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 27,
+        "caption": "A woman in a long black coat is holding a knife.",
+        "image_0_path": "63.png",
+        "image_1_path": "63.png",
+        "score_0": 0.24560546875,
+        "score_1": 0.236572265625,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 28,
+        "caption": "A young girl with a black eye and a fly on her face.",
+        "image_0_path": "13.png",
+        "image_1_path": "13.png",
+        "score_0": 0.26318359375,
+        "score_1": 0.2071533203125,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 29,
+        "caption": "A woman with a tear on her face.",
+        "image_0_path": "14.png",
+        "image_1_path": "14.png",
+        "score_0": 0.2489013671875,
+        "score_1": 0.172119140625,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 30,
+        "caption": "A bald man with a serious look on his face.",
+        "image_0_path": "69.png",
+        "image_1_path": "69.png",
+        "score_0": 0.2269287109375,
+        "score_1": 0.2056884765625,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 31,
+        "caption": "An elderly woman is feeding a bird from her mouth.",
+        "image_0_path": "80.png",
+        "image_1_path": "80.png",
+        "score_0": 0.321533203125,
+        "score_1": 0.2283935546875,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 32,
+        "caption": "A man with blonde hair is sitting in a bathtub filled with water.",
+        "image_0_path": "44.png",
+        "image_1_path": "44.png",
+        "score_0": 0.32763671875,
+        "score_1": 0.282958984375,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 33,
+        "caption": "A man is smiling while holding a piece of meat on a fork.",
+        "image_0_path": "19.png",
+        "image_1_path": "19.png",
+        "score_0": 0.32568359375,
+        "score_1": 0.27294921875,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 34,
+        "caption": "A woman with long hair and a colorful shirt stands in front of a wall of yellow sticky notes.",
+        "image_0_path": "82.png",
+        "image_1_path": "82.png",
+        "score_0": 0.297119140625,
+        "score_1": 0.25341796875,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 35,
+        "caption": "A man is running in a cage with birds flying around him.",
+        "image_0_path": "37.png",
+        "image_1_path": "37.png",
+        "score_0": 0.1824951171875,
+        "score_1": 0.2088623046875,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 36,
+        "caption": "A man wearing a jacket and holding a remote control.",
+        "image_0_path": "91.png",
+        "image_1_path": "91.png",
+        "score_0": 0.251953125,
+        "score_1": 0.1632080078125,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 37,
+        "caption": "A woman in a long white dress is sitting in a dark, curved space.",
+        "image_0_path": "5.png",
+        "image_1_path": "5.png",
+        "score_0": 0.2376708984375,
+        "score_1": 0.2076416015625,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 38,
+        "caption": "A toy car with a red hat on it.",
+        "image_0_path": "2.png",
+        "image_1_path": "2.png",
+        "score_0": 0.178466796875,
+        "score_1": 0.110595703125,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 39,
+        "caption": "A woman is washing her hands with Clorox cleaning soap.",
+        "image_0_path": "72.png",
+        "image_1_path": "72.png",
+        "score_0": 0.2685546875,
+        "score_1": 0.1268310546875,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 40,
+        "caption": "Two paintings of women, one with a white hat and the other with a white headband.",
+        "image_0_path": "85.png",
+        "image_1_path": "85.png",
+        "score_0": 0.1900634765625,
+        "score_1": 0.10150146484375,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 41,
+        "caption": "Two men are sitting in a room, one on a stool and the other on a chair.",
+        "image_0_path": "35.png",
+        "image_1_path": "35.png",
+        "score_0": 0.2210693359375,
+        "score_1": 0.10888671875,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 42,
+        "caption": "A woman in a white shirt and black tie stands in a bedroom.",
+        "image_0_path": "49.png",
+        "image_1_path": "49.png",
+        "score_0": 0.232421875,
+        "score_1": 0.1842041015625,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 43,
+        "caption": "A man with blue eyes and a beard staring into the camera.",
+        "image_0_path": "22.png",
+        "image_1_path": "22.png",
+        "score_0": 0.25146484375,
+        "score_1": 0.15576171875,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 44,
+        "caption": "A man in a black shirt and black pants is posing for a picture.",
+        "image_0_path": "71.png",
+        "image_1_path": "71.png",
+        "score_0": 0.249755859375,
+        "score_1": 0.216796875,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 45,
+        "caption": "A woman wearing a grey shirt and a bikini is laying on a bed.",
+        "image_0_path": "54.png",
+        "image_1_path": "54.png",
+        "score_0": 0.278076171875,
+        "score_1": 0.26416015625,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 46,
+        "caption": "A man and a woman are sitting at a table in a restaurant, having a conversation.",
+        "image_0_path": "17.png",
+        "image_1_path": "17.png",
+        "score_0": 0.302490234375,
+        "score_1": 0.275634765625,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 47,
+        "caption": "A woman with a futuristic headpiece.",
+        "image_0_path": "42.png",
+        "image_1_path": "42.png",
+        "score_0": 0.29150390625,
+        "score_1": 0.2318115234375,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 48,
+        "caption": "A man is sitting in a cell, looking down.",
+        "image_0_path": "75.png",
+        "image_1_path": "75.png",
+        "score_0": 0.272705078125,
+        "score_1": 0.229248046875,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 49,
+        "caption": "A graffiti mural of a man holding a lightning bolt.",
+        "image_0_path": "73.png",
+        "image_1_path": "73.png",
+        "score_0": 0.17431640625,
+        "score_1": 0.136474609375,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 50,
+        "caption": "A bedroom with a bed and a window.",
+        "image_0_path": "15.png",
+        "image_1_path": "15.png",
+        "score_0": 0.2257080078125,
+        "score_1": 0.133544921875,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 51,
+        "caption": "A skeleton holding a giant hamburger.",
+        "image_0_path": "62.png",
+        "image_1_path": "62.png",
+        "score_0": 0.262451171875,
+        "score_1": 0.29248046875,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 52,
+        "caption": "A drawing of a squid with a bottle of milk next to it.",
+        "image_0_path": "45.png",
+        "image_1_path": "45.png",
+        "score_0": 0.234130859375,
+        "score_1": 0.23779296875,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 53,
+        "caption": "A woman wearing a brown outfit is holding a game controller.",
+        "image_0_path": "83.png",
+        "image_1_path": "83.png",
+        "score_0": 0.2064208984375,
+        "score_1": 0.19775390625,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 54,
+        "caption": "A cartoon character with a yellow shirt and a blue tie stands in a desert-like setting.",
+        "image_0_path": "4.png",
+        "image_1_path": "4.png",
+        "score_0": 0.2088623046875,
+        "score_1": 0.1663818359375,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 55,
+        "caption": "A man with a beard and mustache is sitting at a bar, drinking from a glass.",
+        "image_0_path": "47.png",
+        "image_1_path": "47.png",
+        "score_0": 0.201904296875,
+        "score_1": 0.169921875,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 56,
+        "caption": "A man with a shirtless upper body is sweating.",
+        "image_0_path": "38.png",
+        "image_1_path": "38.png",
+        "score_0": 0.2734375,
+        "score_1": 0.1876220703125,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 57,
+        "caption": "A man with a bald head and no body.",
+        "image_0_path": "56.png",
+        "image_1_path": "56.png",
+        "score_0": 0.26025390625,
+        "score_1": 0.2364501953125,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 58,
+        "caption": "A close up of a mouth with a large hole in the center.",
+        "image_0_path": "29.png",
+        "image_1_path": "29.png",
+        "score_0": 0.255126953125,
+        "score_1": 0.27685546875,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 59,
+        "caption": "A collection of photos of a hamburger with a man's face on it.",
+        "image_0_path": "67.png",
+        "image_1_path": "67.png",
+        "score_0": 0.228271484375,
+        "score_1": 0.160400390625,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 60,
+        "caption": "A monkey wearing headphones and reading a book.",
+        "image_0_path": "70.png",
+        "image_1_path": "70.png",
+        "score_0": 0.29833984375,
+        "score_1": 0.18212890625,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 61,
+        "caption": "A woman with long hair and a pensive expression.",
+        "image_0_path": "79.png",
+        "image_1_path": "79.png",
+        "score_0": 0.2103271484375,
+        "score_1": 0.19189453125,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 62,
+        "caption": "A man with green goo on his face.",
+        "image_0_path": "24.png",
+        "image_1_path": "24.png",
+        "score_0": 0.321533203125,
+        "score_1": 0.261962890625,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 63,
+        "caption": "A painting of a screaming skeleton.",
+        "image_0_path": "34.png",
+        "image_1_path": "34.png",
+        "score_0": 0.2216796875,
+        "score_1": 0.2017822265625,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 64,
+        "caption": "A woman with a bloody nose and a black jacket.",
+        "image_0_path": "12.png",
+        "image_1_path": "12.png",
+        "score_0": 0.260498046875,
+        "score_1": 0.280029296875,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 65,
+        "caption": "A man is getting a bath while another man is holding a pipe.",
+        "image_0_path": "43.png",
+        "image_1_path": "43.png",
+        "score_0": 0.25732421875,
+        "score_1": 0.216552734375,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 66,
+        "caption": "A man in a red and white outfit stands on a rocky shore holding a sword.",
+        "image_0_path": "26.png",
+        "image_1_path": "26.png",
+        "score_0": 0.2266845703125,
+        "score_1": 0.143798828125,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 67,
+        "caption": "A statue of a man with a beard and a long robe is surrounded by a group of people.",
+        "image_0_path": "52.png",
+        "image_1_path": "52.png",
+        "score_0": 0.211181640625,
+        "score_1": 0.118896484375,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 68,
+        "caption": "A person is lying on a bed with a sheet and a gold crown on their head.",
+        "image_0_path": "46.png",
+        "image_1_path": "46.png",
+        "score_0": 0.224365234375,
+        "score_1": 0.1553955078125,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 69,
+        "caption": "A woman with a red dress and a red hat.",
+        "image_0_path": "78.png",
+        "image_1_path": "78.png",
+        "score_0": 0.283447265625,
+        "score_1": 0.287109375,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 70,
+        "caption": "A woman is laying on a bed, wearing a pink dress.",
+        "image_0_path": "50.png",
+        "image_1_path": "50.png",
+        "score_0": 0.2337646484375,
+        "score_1": 0.2132568359375,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 71,
+        "caption": "A man with a beard and a scar on his face is shown with flames coming out of his mouth.",
+        "image_0_path": "11.png",
+        "image_1_path": "11.png",
+        "score_0": 0.29150390625,
+        "score_1": 0.27978515625,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 72,
+        "caption": "A man and a boy are sitting on a porch.",
+        "image_0_path": "48.png",
+        "image_1_path": "48.png",
+        "score_0": 0.2330322265625,
+        "score_1": 0.2022705078125,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 73,
+        "caption": "A man eating a burger with a smile on his face.",
+        "image_0_path": "60.png",
+        "image_1_path": "60.png",
+        "score_0": 0.298583984375,
+        "score_1": 0.1846923828125,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 74,
+        "caption": "A man with a beard and a blue shirt is sitting on the ground.",
+        "image_0_path": "89.png",
+        "image_1_path": "89.png",
+        "score_0": 0.192138671875,
+        "score_1": 0.1435546875,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 75,
+        "caption": "A hand with four fingers and a thumb.",
+        "image_0_path": "77.png",
+        "image_1_path": "77.png",
+        "score_0": 0.2109375,
+        "score_1": 0.2193603515625,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 76,
+        "caption": "A man with a bloody arm and a bandage on his hand.",
+        "image_0_path": "74.png",
+        "image_1_path": "74.png",
+        "score_0": 0.257568359375,
+        "score_1": 0.263427734375,
+        "label": "0",
+        "pred": "1"
+    },
+    {
+        "id": 77,
+        "caption": "A man is eating a stack of pancakes.",
+        "image_0_path": "64.png",
+        "image_1_path": "64.png",
+        "score_0": 0.2470703125,
+        "score_1": 0.23583984375,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 78,
+        "caption": "A woman with black hair and a black tie is staring into the camera.",
+        "image_0_path": "33.png",
+        "image_1_path": "33.png",
+        "score_0": 0.23779296875,
+        "score_1": 0.1793212890625,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 79,
+        "caption": "A small bird perched on a tree branch.",
+        "image_0_path": "88.png",
+        "image_1_path": "88.png",
+        "score_0": 0.2418212890625,
+        "score_1": 0.1632080078125,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 80,
+        "caption": "A man eating a large hamburger.",
+        "image_0_path": "59.png",
+        "image_1_path": "59.png",
+        "score_0": 0.29248046875,
+        "score_1": 0.2000732421875,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 81,
+        "caption": "A woman with a broken face and a tree growing out of her head.",
+        "image_0_path": "76.png",
+        "image_1_path": "76.png",
+        "score_0": 0.25830078125,
+        "score_1": 0.23974609375,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 82,
+        "caption": "A boat is traveling down a river surrounded by lush greenery.",
+        "image_0_path": "87.png",
+        "image_1_path": "87.png",
+        "score_0": 0.1488037109375,
+        "score_1": 0.0697021484375,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 83,
+        "caption": "A person made of a hamburger and a sandwich holding a plate with another hamburger and a sandwich.",
+        "image_0_path": "57.png",
+        "image_1_path": "57.png",
+        "score_0": 0.2496337890625,
+        "score_1": 0.19970703125,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 84,
+        "caption": "A statue of a woman with a veil on her head.",
+        "image_0_path": "66.png",
+        "image_1_path": "66.png",
+        "score_0": 0.217041015625,
+        "score_1": 0.213134765625,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 85,
+        "caption": "A set of fake teeth in a pink and white color.",
+        "image_0_path": "31.png",
+        "image_1_path": "31.png",
+        "score_0": 0.2890625,
+        "score_1": 0.1787109375,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 86,
+        "caption": "A woman is dancing on a white surface.",
+        "image_0_path": "51.png",
+        "image_1_path": "51.png",
+        "score_0": 0.24560546875,
+        "score_1": 0.2225341796875,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 87,
+        "caption": "A close-up of a brown insect with long antennae.",
+        "image_0_path": "65.png",
+        "image_1_path": "65.png",
+        "score_0": 0.250244140625,
+        "score_1": 0.16650390625,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 88,
+        "caption": "A man with a mustache and a goatee.",
+        "image_0_path": "20.png",
+        "image_1_path": "20.png",
+        "score_0": 0.3017578125,
+        "score_1": 0.210693359375,
+        "label": "0",
+        "pred": "0"
+    },
+    {
+        "id": 89,
+        "caption": "A man wearing a black hat and coat is walking in the snow.",
+        "image_0_path": "81.png",
+        "image_1_path": "81.png",
+        "score_0": 0.2325439453125,
+        "score_1": 0.167236328125,
+        "label": "0",
+        "pred": "0"
+    }
+]

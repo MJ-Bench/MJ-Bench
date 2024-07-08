@@ -1,0 +1,130 @@
+[
+    {
+        "id": 212,
+        "source": "hpdv2",
+        "caption": "A man wearing a hat performs a magic trick for Jesus in a kitchen painting by Rockwell, Lovell, and Schoonover.",
+        "image0": "01916.jpg",
+        "image1": "01914.jpg",
+        "label": 0
+    },
+    {
+        "id": 287,
+        "source": "hpdv2",
+        "caption": "A painting by Ludek Marold of cattle grazing in a field, done in oil on canvas.",
+        "image0": "02591.jpg",
+        "image1": "02584.jpg",
+        "label": 0
+    },
+    {
+        "id": 321,
+        "source": "hpdv2",
+        "caption": "A train is coming along near some unusual looking tracks.",
+        "image0": "02911.jpg",
+        "image1": "02916.jpg",
+        "label": 0
+    },
+    {
+        "id": 349,
+        "source": "hpdv2",
+        "caption": "A giraffe walking through the grass towards a wall.",
+        "image0": "03199.jpg",
+        "image1": "03198.jpg",
+        "label": 0
+    },
+    {
+        "id": 351,
+        "source": "hpdv2",
+        "caption": "Bikes sit parked under trees on a city street.",
+        "image0": "03219.jpg",
+        "image1": "03212.jpg",
+        "label": 0
+    },
+    {
+        "id": 392,
+        "source": "hpdv2",
+        "caption": "Three cows eating in a field with sea in background.",
+        "image0": "03628.jpg",
+        "image1": "03622.jpg",
+        "label": 0
+    },
+    {
+        "id": 20,
+        "source": "hpdv2",
+        "caption": "The image is of an anthropomorphic orange walking on a sidewalk.",
+        "image0": "00182.jpg",
+        "image1": "00186.jpg",
+        "label": 0
+    },
+    {
+        "id": 106,
+        "source": "hpdv2",
+        "caption": "A massive and brightly colored spacecraft in a deserted landscape, depicted in retro 1960s sci-fi art.",
+        "image0": "00956.jpg",
+        "image1": "00962.jpg",
+        "label": 0
+    },
+    {
+        "id": 117,
+        "source": "hpdv2",
+        "caption": "Dr. Pepper floating in space, viewed through the window of a spaceship.",
+        "image0": "01054.jpg",
+        "image1": "01055.jpg",
+        "label": 0
+    },
+    {
+        "id": 126,
+        "source": "hpdv2",
+        "caption": "A teddy bear mad scientist mixing chemicals depicted in oil painting style as a fantasy concept art piece.",
+        "image0": "01142.jpg",
+        "image1": "01135.jpg",
+        "label": 0
+    },
+    {
+        "id": 139,
+        "source": "hpdv2",
+        "caption": "Plasticine sculptures of two lovers walking through Paris with strict clothing and bright colors.",
+        "image0": "01257.jpg",
+        "image1": "01252.jpg",
+        "label": 0
+    },
+    {
+        "id": 165,
+        "source": "hpdv2",
+        "caption": "A photograph of a giant diamond skull in the ocean, featuring vibrant colors and detailed textures.",
+        "image0": "01486.jpg",
+        "image1": "01487.jpg",
+        "label": 0
+    },
+    {
+        "id": 167,
+        "source": "hpdv2",
+        "caption": "Zarya from Overwatch jumping from a tall bridge into action.",
+        "image0": "01511.jpg",
+        "image1": "01509.jpg",
+        "label": 0
+    },
+    {
+        "id": 173,
+        "source": "hpdv2",
+        "caption": "Molten lava hanging from the ceiling creates art with octagons in a museum setting.",
+        "image0": "01559.jpg",
+        "image1": "01564.jpg",
+        "label": 0
+    },
+    {
+        "id": 182,
+        "source": "hpdv2",
+        "caption": "Hooded figure standing over a ruined city with red haze and a grin.",
+        "image0": "01646.jpg",
+        "image1": "01640.jpg",
+        "label": 0
+    },
+    {
+        "id": 196,
+        "source": "hpdv2",
+        "caption": "Underwater concept art of marine life in Sea of Thieves featuring a wild boar.",
+        "image0": "01772.jpg",
+        "image1": "01766.jpg",
+        "label": 0
+    }
+]

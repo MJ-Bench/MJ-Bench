@@ -1,0 +1,3202 @@
+[
+    {
+        "caption": "A man wearing a gray hoodie and a black hat.",
+        "image_0_path": "human_0.jpg",
+        "image_1_path": "human_0_edited_face.jpg",
+        "score_0": 0.3020678162574768,
+        "score_1": 0.3460947573184967,
+        "label": "0",
+        "pred": "1",
+        "human_id": 0
+    },
+    {
+        "caption": "A man wearing a yellow jacket and grey pants stands on a hill overlooking a lake.",
+        "image_0_path": "human_1.jpg",
+        "image_1_path": "human_1_edited_face.jpg",
+        "score_0": 0.3691343069076538,
+        "score_1": 0.3630080819129944,
+        "label": "0",
+        "pred": "0",
+        "human_id": 1
+    },
+    {
+        "caption": "A woman wearing a pink dress and white shoes stands in front of a flower-covered wall.",
+        "image_0_path": "human_10.jpg",
+        "image_1_path": "human_10_edited_face.jpg",
+        "score_0": 0.31809353828430176,
+        "score_1": 0.32530146837234497,
+        "label": "0",
+        "pred": "1",
+        "human_id": 2
+    },
+    {
+        "caption": "A woman wearing a brown coat and blue jeans is standing on a sidewalk.",
+        "image_0_path": "human_11.jpg",
+        "image_1_path": "human_11_edited_face.jpg",
+        "score_0": 0.34375226497650146,
+        "score_1": 0.3622715473175049,
+        "label": "0",
+        "pred": "1",
+        "human_id": 3
+    },
+    {
+        "caption": "A woman in a white shirt and yellow skirt is holding a potted plant.",
+        "image_0_path": "human_12.jpg",
+        "image_1_path": "human_12_edited_face.jpg",
+        "score_0": 0.26321497559547424,
+        "score_1": 0.24563132226467133,
+        "label": "0",
+        "pred": "0",
+        "human_id": 4
+    },
+    {
+        "caption": "A man wearing a brown jacket and a green sweater.",
+        "image_0_path": "human_13.jpg",
+        "image_1_path": "human_13_edited_face.jpg",
+        "score_0": 0.3332427144050598,
+        "score_1": 0.35077762603759766,
+        "label": "0",
+        "pred": "1",
+        "human_id": 5
+    },
+    {
+        "caption": "A man wearing a white tank top is sitting on the beach.",
+        "image_0_path": "human_14.jpg",
+        "image_1_path": "human_14_edited_face.jpg",
+        "score_0": 0.42456942796707153,
+        "score_1": 0.41078582406044006,
+        "label": "0",
+        "pred": "0",
+        "human_id": 6
+    },
+    {
+        "caption": "A man in a brown suit and white shirt stands on a sidewalk.",
+        "image_0_path": "human_15.jpg",
+        "image_1_path": "human_15_edited_face.jpg",
+        "score_0": 0.33809328079223633,
+        "score_1": 0.3097878098487854,
+        "label": "0",
+        "pred": "0",
+        "human_id": 7
+    },
+    {
+        "caption": "A young man wearing headphones and a headset is smiling.",
+        "image_0_path": "human_16.jpg",
+        "image_1_path": "human_16_edited_face.jpg",
+        "score_0": 0.36353564262390137,
+        "score_1": 0.23085901141166687,
+        "label": "0",
+        "pred": "0",
+        "human_id": 8
+    },
+    {
+        "caption": "A man wearing glasses and a red jacket is surrounded by pictures.",
+        "image_0_path": "human_17.jpg",
+        "image_1_path": "human_17_edited_face.jpg",
+        "score_0": 0.31479284167289734,
+        "score_1": 0.29430538415908813,
+        "label": "0",
+        "pred": "0",
+        "human_id": 9
+    },
+    {
+        "caption": "A woman with long hair and a silver watch is sitting on a couch and holding a remote control.",
+        "image_0_path": "human_18.jpg",
+        "image_1_path": "human_18_edited_face.jpg",
+        "score_0": 0.2893470525741577,
+        "score_1": 0.36483660340309143,
+        "label": "0",
+        "pred": "1",
+        "human_id": 10
+    },
+    {
+        "caption": "A woman wearing a red hat and a jacket is sitting in the back of a car.",
+        "image_0_path": "human_19.jpg",
+        "image_1_path": "human_19_edited_face.jpg",
+        "score_0": 0.3423905372619629,
+        "score_1": 0.32295703887939453,
+        "label": "0",
+        "pred": "0",
+        "human_id": 11
+    },
+    {
+        "caption": "A young boy is sitting on the floor, smiling and posing for a picture.",
+        "image_0_path": "human_2.jpg",
+        "image_1_path": "human_2_edited_face.jpg",
+        "score_0": 0.3442939519882202,
+        "score_1": 0.3172265291213989,
+        "label": "0",
+        "pred": "0",
+        "human_id": 12
+    },
+    {
+        "caption": "A man wearing a hat and a blue jacket.",
+        "image_0_path": "human_20.jpg",
+        "image_1_path": "human_20_edited_face.jpg",
+        "score_0": 0.3282345235347748,
+        "score_1": 0.353767454624176,
+        "label": "0",
+        "pred": "1",
+        "human_id": 13
+    },
+    {
+        "caption": "A man in a green jacket stands on a hillside, looking out over the mountains.",
+        "image_0_path": "human_21.jpg",
+        "image_1_path": "human_21_edited_face.jpg",
+        "score_0": 0.34594815969467163,
+        "score_1": 0.34326058626174927,
+        "label": "0",
+        "pred": "0",
+        "human_id": 14
+    },
+    {
+        "caption": "Three men wearing camouflage and carrying backpacks stand next to each other.",
+        "image_0_path": "human_22.jpg",
+        "image_1_path": "human_22_edited_face.jpg",
+        "score_0": 0.17667679488658905,
+        "score_1": 0.17884616553783417,
+        "label": "0",
+        "pred": "1",
+        "human_id": 15
+    },
+    {
+        "caption": "A woman with red hair and a white dress stands in front of a colorful flower wall.",
+        "image_0_path": "human_23.jpg",
+        "image_1_path": "human_23_edited_face.jpg",
+        "score_0": 0.41627037525177,
+        "score_1": 0.390907883644104,
+        "label": "0",
+        "pred": "0",
+        "human_id": 16
+    },
+    {
+        "caption": "A man with dark hair and a beard stands on a mountain overlooking a lake.",
+        "image_0_path": "human_24.jpg",
+        "image_1_path": "human_24_edited_face.jpg",
+        "score_0": 0.286298006772995,
+        "score_1": 0.2651480436325073,
+        "label": "0",
+        "pred": "0",
+        "human_id": 17
+    },
+    {
+        "caption": "A man wearing a suit and tie is smiling.",
+        "image_0_path": "human_25.jpg",
+        "image_1_path": "human_25_edited_face.jpg",
+        "score_0": 0.26855355501174927,
+        "score_1": 0.2971022129058838,
+        "label": "0",
+        "pred": "1",
+        "human_id": 18
+    },
+    {
+        "caption": "A man wearing a yellow shirt and sunglasses stands in a room with a table and potted plants.",
+        "image_0_path": "human_26.jpg",
+        "image_1_path": "human_26_edited_face.jpg",
+        "score_0": 0.3055664300918579,
+        "score_1": 0.2952040731906891,
+        "label": "0",
+        "pred": "0",
+        "human_id": 19
+    },
+    {
+        "caption": "A woman wearing a yellow dress stands in a field of flowers.",
+        "image_0_path": "human_27.jpg",
+        "image_1_path": "human_27_edited_face.jpg",
+        "score_0": 0.27728644013404846,
+        "score_1": 0.28637564182281494,
+        "label": "0",
+        "pred": "1",
+        "human_id": 20
+    },
+    {
+        "caption": "A man wearing glasses and a gray jacket is sitting on a bench.",
+        "image_0_path": "human_28.jpg",
+        "image_1_path": "human_28_edited_face.jpg",
+        "score_0": 0.300068199634552,
+        "score_1": 0.30438587069511414,
+        "label": "0",
+        "pred": "1",
+        "human_id": 21
+    },
+    {
+        "caption": "A man holding a wine glass with flowers in the background.",
+        "image_0_path": "human_29.jpg",
+        "image_1_path": "human_29_edited_face.jpg",
+        "score_0": 0.36861294507980347,
+        "score_1": 0.3442329168319702,
+        "label": "0",
+        "pred": "0",
+        "human_id": 22
+    },
+    {
+        "caption": "A woman with a smile on her face.",
+        "image_0_path": "human_3.jpg",
+        "image_1_path": "human_3_edited_face.jpg",
+        "score_0": 0.2591933012008667,
+        "score_1": 0.22093018889427185,
+        "label": "0",
+        "pred": "0",
+        "human_id": 23
+    },
+    {
+        "caption": "A man with curly hair and a beard is smiling for the camera.",
+        "image_0_path": "human_30.jpg",
+        "image_1_path": "human_30_edited_face.jpg",
+        "score_0": 0.2601611316204071,
+        "score_1": 0.16507767140865326,
+        "label": "0",
+        "pred": "0",
+        "human_id": 24
+    },
+    {
+        "caption": "A woman wearing headphones and a red jacket.",
+        "image_0_path": "human_31.jpg",
+        "image_1_path": "human_31_edited_face.jpg",
+        "score_0": 0.28162556886672974,
+        "score_1": 0.2503966689109802,
+        "label": "0",
+        "pred": "0",
+        "human_id": 25
+    },
+    {
+        "caption": "A man wearing a brown jacket and green pants stands on a dirt road.",
+        "image_0_path": "human_32.jpg",
+        "image_1_path": "human_32_edited_face.jpg",
+        "score_0": 0.3516327738761902,
+        "score_1": 0.33999353647232056,
+        "label": "0",
+        "pred": "0",
+        "human_id": 26
+    },
+    {
+        "caption": "A man running on a beach with a towel in his hand.",
+        "image_0_path": "human_33.jpg",
+        "image_1_path": "human_33_edited_face.jpg",
+        "score_0": 0.2824910581111908,
+        "score_1": 0.2727784514427185,
+        "label": "0",
+        "pred": "0",
+        "human_id": 27
+    },
+    {
+        "caption": "A man wearing a blue shirt and khaki shorts stands in front of a wooden wall.",
+        "image_0_path": "human_34.jpg",
+        "image_1_path": "human_34_edited_face.jpg",
+        "score_0": 0.3668884336948395,
+        "score_1": 0.3603408932685852,
+        "label": "0",
+        "pred": "0",
+        "human_id": 28
+    },
+    {
+        "caption": "A man wearing glasses and a white shirt stands in front of a cabinet.",
+        "image_0_path": "human_35.jpg",
+        "image_1_path": "human_35_edited_face.jpg",
+        "score_0": 0.26812946796417236,
+        "score_1": 0.2411668449640274,
+        "label": "0",
+        "pred": "0",
+        "human_id": 29
+    },
+    {
+        "caption": "A woman wearing a coat and hat is surrounded by various clothing items.",
+        "image_0_path": "human_36.jpg",
+        "image_1_path": "human_36_edited_face.jpg",
+        "score_0": 0.3977353572845459,
+        "score_1": 0.3942739963531494,
+        "label": "0",
+        "pred": "0",
+        "human_id": 30
+    },
+    {
+        "caption": "A man wearing glasses and a red jacket.",
+        "image_0_path": "human_37.jpg",
+        "image_1_path": "human_37_edited_face.jpg",
+        "score_0": 0.212239608168602,
+        "score_1": 0.19482895731925964,
+        "label": "0",
+        "pred": "0",
+        "human_id": 31
+    },
+    {
+        "caption": "A man wearing a hat and an orange jacket stands in front of a store.",
+        "image_0_path": "human_38.jpg",
+        "image_1_path": "human_38_edited_face.jpg",
+        "score_0": 0.34817424416542053,
+        "score_1": 0.36291182041168213,
+        "label": "0",
+        "pred": "1",
+        "human_id": 32
+    },
+    {
+        "caption": "A woman in a red shirt and blue shorts stands in a garden.",
+        "image_0_path": "human_39.jpg",
+        "image_1_path": "human_39_edited_face.jpg",
+        "score_0": 0.33274728059768677,
+        "score_1": 0.33696258068084717,
+        "label": "0",
+        "pred": "1",
+        "human_id": 33
+    },
+    {
+        "caption": "A man with a beard and mustache is smiling.",
+        "image_0_path": "human_4.jpg",
+        "image_1_path": "human_4_edited_face.jpg",
+        "score_0": 0.17164872586727142,
+        "score_1": 0.06655919551849365,
+        "label": "0",
+        "pred": "0",
+        "human_id": 34
+    },
+    {
+        "caption": "A man wearing a white shirt and blue pants stands on a set of stairs.",
+        "image_0_path": "human_40.jpg",
+        "image_1_path": "human_40_edited_face.jpg",
+        "score_0": 0.3450483977794647,
+        "score_1": 0.3630894720554352,
+        "label": "0",
+        "pred": "1",
+        "human_id": 35
+    },
+    {
+        "caption": "A man with a white shirt and black collar.",
+        "image_0_path": "human_41.jpg",
+        "image_1_path": "human_41_edited_face.jpg",
+        "score_0": 0.2343158721923828,
+        "score_1": 0.19600695371627808,
+        "label": "0",
+        "pred": "0",
+        "human_id": 36
+    },
+    {
+        "caption": "A girl stands in front of a flower-filled background.",
+        "image_0_path": "human_42.jpg",
+        "image_1_path": "human_42_edited_face.jpg",
+        "score_0": 0.3383212089538574,
+        "score_1": 0.33345603942871094,
+        "label": "0",
+        "pred": "0",
+        "human_id": 37
+    },
+    {
+        "caption": "A man with a beard and mustache poses for a picture.",
+        "image_0_path": "human_43.jpg",
+        "image_1_path": "human_43_edited_face.jpg",
+        "score_0": 0.2006930708885193,
+        "score_1": 0.21838118135929108,
+        "label": "0",
+        "pred": "1",
+        "human_id": 38
+    },
+    {
+        "caption": "A man wearing glasses and a hoodie.",
+        "image_0_path": "human_44.jpg",
+        "image_1_path": "human_44_edited_face.jpg",
+        "score_0": 0.3230552673339844,
+        "score_1": 0.33494237065315247,
+        "label": "0",
+        "pred": "1",
+        "human_id": 39
+    },
+    {
+        "caption": "A man with curly hair is smiling in front of a flower garden.",
+        "image_0_path": "human_45.jpg",
+        "image_1_path": "human_45_edited_face.jpg",
+        "score_0": 0.3100886940956116,
+        "score_1": 0.26484617590904236,
+        "label": "0",
+        "pred": "0",
+        "human_id": 40
+    },
+    {
+        "caption": "A woman in a white shirt and pants is sitting on a chair in front of a wall of colorful flowers.",
+        "image_0_path": "human_46.jpg",
+        "image_1_path": "human_46_edited_face.jpg",
+        "score_0": 0.39031314849853516,
+        "score_1": 0.35437244176864624,
+        "label": "0",
+        "pred": "0",
+        "human_id": 41
+    },
+    {
+        "caption": "A woman with a flower print dress stands in front of a flower background.",
+        "image_0_path": "human_47.jpg",
+        "image_1_path": "human_47_edited_face.jpg",
+        "score_0": 0.3193325698375702,
+        "score_1": 0.30425021052360535,
+        "label": "0",
+        "pred": "0",
+        "human_id": 42
+    },
+    {
+        "caption": "A woman is walking down the street holding a basket of tomatoes.",
+        "image_0_path": "human_48.jpg",
+        "image_1_path": "human_48_edited_face.jpg",
+        "score_0": 0.3952305018901825,
+        "score_1": 0.3879643380641937,
+        "label": "0",
+        "pred": "0",
+        "human_id": 43
+    },
+    {
+        "caption": "A woman with dark hair and a yellow shirt.",
+        "image_0_path": "human_49.jpg",
+        "image_1_path": "human_49_edited_face.jpg",
+        "score_0": 0.24595603346824646,
+        "score_1": 0.20290255546569824,
+        "label": "0",
+        "pred": "0",
+        "human_id": 44
+    },
+    {
+        "caption": "A woman wearing a tan coat stands between two dogs.",
+        "image_0_path": "human_5.jpg",
+        "image_1_path": "human_5_edited_face.jpg",
+        "score_0": 0.3878174424171448,
+        "score_1": 0.3879201412200928,
+        "label": "0",
+        "pred": "1",
+        "human_id": 45
+    },
+    {
+        "caption": "A young man with dark hair and a beard is wearing a brown sweater.",
+        "image_0_path": "human_50.jpg",
+        "image_1_path": "human_50_edited_face.jpg",
+        "score_0": 0.25995931029319763,
+        "score_1": 0.28134477138519287,
+        "label": "0",
+        "pred": "1",
+        "human_id": 46
+    },
+    {
+        "caption": "A woman in a brown sweater and a pink skirt stands in front of a colorful background.",
+        "image_0_path": "human_51.jpg",
+        "image_1_path": "human_51_edited_face.jpg",
+        "score_0": 0.34565895795822144,
+        "score_1": 0.3583570122718811,
+        "label": "0",
+        "pred": "1",
+        "human_id": 47
+    },
+    {
+        "caption": "Two men wearing red and gold outfits.",
+        "image_0_path": "human_52.jpg",
+        "image_1_path": "human_52_edited_face.jpg",
+        "score_0": 0.25993356108665466,
+        "score_1": 0.2566216289997101,
+        "label": "0",
+        "pred": "0",
+        "human_id": 48
+    },
+    {
+        "caption": "A man wearing glasses and a hat.",
+        "image_0_path": "human_53.jpg",
+        "image_1_path": "human_53_edited_face.jpg",
+        "score_0": 0.3481464385986328,
+        "score_1": 0.3461453914642334,
+        "label": "0",
+        "pred": "0",
+        "human_id": 49
+    },
+    {
+        "caption": "A collage of women wearing different colored headscarves.",
+        "image_0_path": "human_54.jpg",
+        "image_1_path": "human_54_edited_face.jpg",
+        "score_0": 0.3157661259174347,
+        "score_1": 0.23937883973121643,
+        "label": "0",
+        "pred": "0",
+        "human_id": 50
+    },
+    {
+        "caption": "A woman wearing a pink dress stands in front of a wall.",
+        "image_0_path": "human_55.jpg",
+        "image_1_path": "human_55_edited_face.jpg",
+        "score_0": 0.2728425860404968,
+        "score_1": 0.2769968509674072,
+        "label": "0",
+        "pred": "1",
+        "human_id": 51
+    },
+    {
+        "caption": "A woman with long hair and a yellow shirt smiles for the camera.",
+        "image_0_path": "human_56.jpg",
+        "image_1_path": "human_56_edited_face.jpg",
+        "score_0": 0.28046396374702454,
+        "score_1": 0.2561468183994293,
+        "label": "0",
+        "pred": "0",
+        "human_id": 52
+    },
+    {
+        "caption": "A woman is sitting on a chair in front of a garden with pink flowers.",
+        "image_0_path": "human_57.jpg",
+        "image_1_path": "human_57_edited_face.jpg",
+        "score_0": 0.30533337593078613,
+        "score_1": 0.29451611638069153,
+        "label": "0",
+        "pred": "0",
+        "human_id": 53
+    },
+    {
+        "caption": "A man with a beard and earrings is smiling.",
+        "image_0_path": "human_58.jpg",
+        "image_1_path": "human_58_edited_face.jpg",
+        "score_0": 0.18195794522762299,
+        "score_1": 0.10768340528011322,
+        "label": "0",
+        "pred": "0",
+        "human_id": 54
+    },
+    {
+        "caption": "A woman with long hair and a blue top.",
+        "image_0_path": "human_59.jpg",
+        "image_1_path": "human_59_edited_face.jpg",
+        "score_0": 0.2759520411491394,
+        "score_1": 0.28143510222435,
+        "label": "0",
+        "pred": "1",
+        "human_id": 55
+    },
+    {
+        "caption": "A man with a beard and mustache wearing a black jacket.",
+        "image_0_path": "human_6.jpg",
+        "image_1_path": "human_6_edited_face.jpg",
+        "score_0": 0.1913735419511795,
+        "score_1": 0.19572824239730835,
+        "label": "0",
+        "pred": "1",
+        "human_id": 56
+    },
+    {
+        "caption": "A man wearing a blue shirt and khaki pants stands in front of a counter.",
+        "image_0_path": "human_60.jpg",
+        "image_1_path": "human_60_edited_face.jpg",
+        "score_0": 0.31447550654411316,
+        "score_1": 0.3087276518344879,
+        "label": "0",
+        "pred": "0",
+        "human_id": 57
+    },
+    {
+        "caption": "A woman with long hair and sunglasses is standing on a beach.",
+        "image_0_path": "human_61.jpg",
+        "image_1_path": "human_61_edited_face.jpg",
+        "score_0": 0.35232609510421753,
+        "score_1": 0.25833165645599365,
+        "label": "0",
+        "pred": "0",
+        "human_id": 58
+    },
+    {
+        "caption": "A woman with blonde hair and blue eyes is wearing a white coat.",
+        "image_0_path": "human_62.jpg",
+        "image_1_path": "human_62_edited_face.jpg",
+        "score_0": 0.3042801022529602,
+        "score_1": 0.3307623267173767,
+        "label": "0",
+        "pred": "1",
+        "human_id": 59
+    },
+    {
+        "caption": "A woman wearing a pink jacket and blue jeans is walking down a dirt path.",
+        "image_0_path": "human_63.jpg",
+        "image_1_path": "human_63_edited_face.jpg",
+        "score_0": 0.3767332136631012,
+        "score_1": 0.3936566710472107,
+        "label": "0",
+        "pred": "1",
+        "human_id": 60
+    },
+    {
+        "caption": "A woman wearing sunglasses and a white shirt.",
+        "image_0_path": "human_64.jpg",
+        "image_1_path": "human_64_edited_face.jpg",
+        "score_0": 0.3239676058292389,
+        "score_1": 0.24792811274528503,
+        "label": "0",
+        "pred": "0",
+        "human_id": 61
+    },
+    {
+        "caption": "A woman wearing a green dress and a jacket stands in front of a building.",
+        "image_0_path": "human_65.jpg",
+        "image_1_path": "human_65_edited_face.jpg",
+        "score_0": 0.3563646376132965,
+        "score_1": 0.34925615787506104,
+        "label": "0",
+        "pred": "0",
+        "human_id": 62
+    },
+    {
+        "caption": "A woman with long hair and a smile on her face.",
+        "image_0_path": "human_66.jpg",
+        "image_1_path": "human_66_edited_face.jpg",
+        "score_0": 0.29634514451026917,
+        "score_1": 0.3015812635421753,
+        "label": "0",
+        "pred": "1",
+        "human_id": 63
+    },
+    {
+        "caption": "A man with a beard and mustache is standing in front of a shelf of products.",
+        "image_0_path": "human_67.jpg",
+        "image_1_path": "human_67_edited_face.jpg",
+        "score_0": 0.2366645634174347,
+        "score_1": 0.24495220184326172,
+        "label": "0",
+        "pred": "1",
+        "human_id": 64
+    },
+    {
+        "caption": "A woman with short hair and a blue shirt.",
+        "image_0_path": "human_68.jpg",
+        "image_1_path": "human_68_edited_face.jpg",
+        "score_0": 0.2278854101896286,
+        "score_1": 0.12629610300064087,
+        "label": "0",
+        "pred": "0",
+        "human_id": 65
+    },
+    {
+        "caption": "A woman wearing a yellow dress and a red lipstick stands in front of a tree with pink flowers.",
+        "image_0_path": "human_69.jpg",
+        "image_1_path": "human_69_edited_face.jpg",
+        "score_0": 0.22387340664863586,
+        "score_1": 0.2162763625383377,
+        "label": "0",
+        "pred": "0",
+        "human_id": 66
+    },
+    {
+        "caption": "A woman in a white dress stands in front of a mirror.",
+        "image_0_path": "human_7.jpg",
+        "image_1_path": "human_7_edited_face.jpg",
+        "score_0": 0.3111937642097473,
+        "score_1": 0.2970747947692871,
+        "label": "0",
+        "pred": "0",
+        "human_id": 67
+    },
+    {
+        "caption": "A man wearing a yellow jacket and white pants stands on a beach.",
+        "image_0_path": "human_70.jpg",
+        "image_1_path": "human_70_edited_face.jpg",
+        "score_0": 0.35947364568710327,
+        "score_1": 0.3246872127056122,
+        "label": "0",
+        "pred": "0",
+        "human_id": 68
+    },
+    {
+        "caption": "A man with curly hair and glasses is wearing a suit and tie.",
+        "image_0_path": "human_71.jpg",
+        "image_1_path": "human_71_edited_face.jpg",
+        "score_0": 0.34910711646080017,
+        "score_1": 0.2698422074317932,
+        "label": "0",
+        "pred": "0",
+        "human_id": 69
+    },
+    {
+        "caption": "A woman is sitting on a pillow with her dog.",
+        "image_0_path": "human_72.jpg",
+        "image_1_path": "human_72_edited_face.jpg",
+        "score_0": 0.3424375653266907,
+        "score_1": 0.355772465467453,
+        "label": "0",
+        "pred": "1",
+        "human_id": 70
+    },
+    {
+        "caption": "A man with curly hair and a brown jacket.",
+        "image_0_path": "human_73.jpg",
+        "image_1_path": "human_73_edited_face.jpg",
+        "score_0": 0.26638951897621155,
+        "score_1": 0.29078808426856995,
+        "label": "0",
+        "pred": "1",
+        "human_id": 71
+    },
+    {
+        "caption": "A woman with blonde hair is surrounded by a variety of fruits and vegetables.",
+        "image_0_path": "human_74.jpg",
+        "image_1_path": "human_74_edited_face.jpg",
+        "score_0": 0.3206758499145508,
+        "score_1": 0.3561773896217346,
+        "label": "0",
+        "pred": "1",
+        "human_id": 72
+    },
+    {
+        "caption": "A man in a green shirt and shorts stands on the beach.",
+        "image_0_path": "human_75.jpg",
+        "image_1_path": "human_75_edited_face.jpg",
+        "score_0": 0.3255861699581146,
+        "score_1": 0.3408918082714081,
+        "label": "0",
+        "pred": "1",
+        "human_id": 73
+    },
+    {
+        "caption": "A woman wearing a tan dress stands in a room.",
+        "image_0_path": "human_76.jpg",
+        "image_1_path": "human_76_edited_face.jpg",
+        "score_0": 0.32143911719322205,
+        "score_1": 0.3032248914241791,
+        "label": "0",
+        "pred": "0",
+        "human_id": 74
+    },
+    {
+        "caption": "A woman with a flower crown is surrounded by a field of flowers.",
+        "image_0_path": "human_77.jpg",
+        "image_1_path": "human_77_edited_face.jpg",
+        "score_0": 0.2533188760280609,
+        "score_1": 0.28049391508102417,
+        "label": "0",
+        "pred": "1",
+        "human_id": 75
+    },
+    {
+        "caption": "A woman wearing a blue bra.",
+        "image_0_path": "human_78.jpg",
+        "image_1_path": "human_78_edited_face.jpg",
+        "score_0": 0.31091609597206116,
+        "score_1": 0.3253471255302429,
+        "label": "0",
+        "pred": "1",
+        "human_id": 76
+    },
+    {
+        "caption": "A collage of men wearing different coats.",
+        "image_0_path": "human_79.jpg",
+        "image_1_path": "human_79_edited_face.jpg",
+        "score_0": 0.34224265813827515,
+        "score_1": 0.3502642512321472,
+        "label": "0",
+        "pred": "1",
+        "human_id": 77
+    },
+    {
+        "caption": "A man wearing glasses and a grey shirt stands in front of a colorful flower wall.",
+        "image_0_path": "human_8.jpg",
+        "image_1_path": "human_8_edited_face.jpg",
+        "score_0": 0.34600603580474854,
+        "score_1": 0.30416497588157654,
+        "label": "0",
+        "pred": "0",
+        "human_id": 78
+    },
+    {
+        "caption": "A girl with a pink bow in her hair is wearing a white shirt.",
+        "image_0_path": "human_80.jpg",
+        "image_1_path": "human_80_edited_face.jpg",
+        "score_0": 0.2019692361354828,
+        "score_1": 0.19486621022224426,
+        "label": "0",
+        "pred": "0",
+        "human_id": 79
+    },
+    {
+        "caption": "A woman wearing a hooded sweater and a scarf.",
+        "image_0_path": "human_81.jpg",
+        "image_1_path": "human_81_edited_face.jpg",
+        "score_0": 0.3506179451942444,
+        "score_1": 0.30369627475738525,
+        "label": "0",
+        "pred": "0",
+        "human_id": 80
+    },
+    {
+        "caption": "A woman wearing a blue hat and a blue jacket is sitting on a bench.",
+        "image_0_path": "human_82.jpg",
+        "image_1_path": "human_82_edited_face.jpg",
+        "score_0": 0.32588905096054077,
+        "score_1": 0.2382868081331253,
+        "label": "0",
+        "pred": "0",
+        "human_id": 81
+    },
+    {
+        "caption": "A man with dark hair and a beard is smiling for the camera.",
+        "image_0_path": "human_83.jpg",
+        "image_1_path": "human_83_edited_face.jpg",
+        "score_0": 0.19642096757888794,
+        "score_1": 0.13727685809135437,
+        "label": "0",
+        "pred": "0",
+        "human_id": 82
+    },
+    {
+        "caption": "A woman wearing a blue shirt and a scarf is sitting on a black pillow.",
+        "image_0_path": "human_84.jpg",
+        "image_1_path": "human_84_edited_face.jpg",
+        "score_0": 0.2548465132713318,
+        "score_1": 0.25197142362594604,
+        "label": "0",
+        "pred": "0",
+        "human_id": 83
+    },
+    {
+        "caption": "A woman wearing sunglasses and a white shirt is standing on a boat.",
+        "image_0_path": "human_85.jpg",
+        "image_1_path": "human_85_edited_face.jpg",
+        "score_0": 0.3453552722930908,
+        "score_1": 0.3377635180950165,
+        "label": "0",
+        "pred": "0",
+        "human_id": 84
+    },
+    {
+        "caption": "A young boy wearing a baseball cap is posing for a picture.",
+        "image_0_path": "human_86.jpg",
+        "image_1_path": "human_86_edited_face.jpg",
+        "score_0": 0.30421900749206543,
+        "score_1": 0.20802174508571625,
+        "label": "0",
+        "pred": "0",
+        "human_id": 85
+    },
+    {
+        "caption": "A woman wearing a blue dress and a pink bow stands in front of a flower wall.",
+        "image_0_path": "human_87.jpg",
+        "image_1_path": "human_87_edited_face.jpg",
+        "score_0": 0.34455233812332153,
+        "score_1": 0.3566509485244751,
+        "label": "0",
+        "pred": "1",
+        "human_id": 86
+    },
+    {
+        "caption": "A man wearing a colorful robe and scarf.",
+        "image_0_path": "human_88.jpg",
+        "image_1_path": "human_88_edited_face.jpg",
+        "score_0": 0.3157009482383728,
+        "score_1": 0.2661034166812897,
+        "label": "0",
+        "pred": "0",
+        "human_id": 87
+    },
+    {
+        "caption": "A man wearing a blue shirt and tie stands in front of a colorful flower background.",
+        "image_0_path": "human_89.jpg",
+        "image_1_path": "human_89_edited_face.jpg",
+        "score_0": 0.33619004487991333,
+        "score_1": 0.3628871440887451,
+        "label": "0",
+        "pred": "1",
+        "human_id": 88
+    },
+    {
+        "caption": "A woman with long hair and a ponytail is wearing a white shirt and a necklace.",
+        "image_0_path": "human_9.jpg",
+        "image_1_path": "human_9_edited_face.jpg",
+        "score_0": 0.25162237882614136,
+        "score_1": 0.25229310989379883,
+        "label": "0",
+        "pred": "1",
+        "human_id": 89
+    },
+    {
+        "caption": "A woman with long hair and an orange shirt stands in front of a flower-filled background.",
+        "image_0_path": "human_90.jpg",
+        "image_1_path": "human_90_edited_face.jpg",
+        "score_0": 0.3258534073829651,
+        "score_1": 0.34613531827926636,
+        "label": "0",
+        "pred": "1",
+        "human_id": 90
+    },
+    {
+        "caption": "A woman stands in front of a flower wall, wearing a yellow shirt and white skirt.",
+        "image_0_path": "human_91.jpg",
+        "image_1_path": "human_91_edited_face.jpg",
+        "score_0": 0.3911176919937134,
+        "score_1": 0.3701643943786621,
+        "label": "0",
+        "pred": "0",
+        "human_id": 91
+    },
+    {
+        "caption": "A man wearing a blue jacket and grey shirt stands in a room with a couch and a chair.",
+        "image_0_path": "human_92.jpg",
+        "image_1_path": "human_92_edited_face.jpg",
+        "score_0": 0.36160600185394287,
+        "score_1": 0.35251596570014954,
+        "label": "0",
+        "pred": "0",
+        "human_id": 92
+    },
+    {
+        "caption": "A man wearing a brown coat and holding a briefcase.",
+        "image_0_path": "human_93.jpg",
+        "image_1_path": "human_93_edited_face.jpg",
+        "score_0": 0.20243589580059052,
+        "score_1": 0.18996968865394592,
+        "label": "0",
+        "pred": "0",
+        "human_id": 93
+    },
+    {
+        "caption": "A woman wearing a white shirt and a brown tie.",
+        "image_0_path": "human_94.jpg",
+        "image_1_path": "human_94_edited_face.jpg",
+        "score_0": 0.258812814950943,
+        "score_1": 0.2741924524307251,
+        "label": "0",
+        "pred": "1",
+        "human_id": 94
+    },
+    {
+        "caption": "A man with a beard and a necklace stands in a field of flowers.",
+        "image_0_path": "human_95.jpg",
+        "image_1_path": "human_95_edited_face.jpg",
+        "score_0": 0.36439046263694763,
+        "score_1": 0.34519270062446594,
+        "label": "0",
+        "pred": "0",
+        "human_id": 95
+    },
+    {
+        "caption": "A woman with blonde hair is posing for a picture.",
+        "image_0_path": "human_96.jpg",
+        "image_1_path": "human_96_edited_face.jpg",
+        "score_0": 0.2147335410118103,
+        "score_1": 0.24550089240074158,
+        "label": "0",
+        "pred": "1",
+        "human_id": 96
+    },
+    {
+        "caption": "A young man with a pink shirt and black hair.",
+        "image_0_path": "human_97.jpg",
+        "image_1_path": "human_97_edited_face.jpg",
+        "score_0": 0.34494584798812866,
+        "score_1": 0.3663327097892761,
+        "label": "0",
+        "pred": "1",
+        "human_id": 97
+    },
+    {
+        "caption": "A jockey riding a brown horse.",
+        "image_0_path": "human_98.jpg",
+        "image_1_path": "human_98_edited_face.jpg",
+        "score_0": 0.3196699619293213,
+        "score_1": 0.3146010637283325,
+        "label": "0",
+        "pred": "0",
+        "human_id": 98
+    },
+    {
+        "caption": "A man wearing a blue and red striped shirt and blue jeans stands in front of a building.",
+        "image_0_path": "human_99.jpg",
+        "image_1_path": "human_99_edited_face.jpg",
+        "score_0": 0.2926674485206604,
+        "score_1": 0.29318034648895264,
+        "label": "0",
+        "pred": "1",
+        "human_id": 99
+    },
+    {
+        "caption": "A woman sitting on a rock, looking at a waterfall.",
+        "image_0_path": "001815797.jpg",
+        "image_1_path": "001815797_edited_hands.jpg",
+        "score_0": 0.2946097254753113,
+        "score_1": 0.30528905987739563,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 0
+    },
+    {
+        "caption": "A woman wearing a pink shirt rides a horse.",
+        "image_0_path": "001832617.jpg",
+        "image_1_path": "001832617_edited_hands.jpg",
+        "score_0": 0.33917850255966187,
+        "score_1": 0.34554338455200195,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 1
+    },
+    {
+        "caption": "A woman wearing a pink glove is kneeling in a garden.",
+        "image_0_path": "002363859.jpg",
+        "image_1_path": "002363859_edited_face.jpg",
+        "score_0": 0.30641382932662964,
+        "score_1": 0.3355613946914673,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 2
+    },
+    {
+        "caption": "A woman is jumping on a blue and white exercise mat.",
+        "image_0_path": "002446470.jpg",
+        "image_1_path": "002446470_edited_torso.jpg",
+        "score_0": 0.30198827385902405,
+        "score_1": 0.30503758788108826,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 3
+    },
+    {
+        "caption": "A young girl is feeding a goat from a cup.",
+        "image_0_path": "002500411.jpg",
+        "image_1_path": "002500411_edited_hands.jpg",
+        "score_0": 0.36241021752357483,
+        "score_1": 0.3736717700958252,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 4
+    },
+    {
+        "caption": "Two men are playing chess at a table.",
+        "image_0_path": "003672819.jpg",
+        "image_1_path": "003672819_edited_hands.jpg",
+        "score_0": 0.24984602630138397,
+        "score_1": 0.2558705806732178,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 5
+    },
+    {
+        "caption": "A man in a pink shirt is swinging a golf club on a green course.",
+        "image_0_path": "004012879.jpg",
+        "image_1_path": "004012879_edited_hands.jpg",
+        "score_0": 0.24094370007514954,
+        "score_1": 0.253332257270813,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 6
+    },
+    {
+        "caption": "A man is tending to a garden with a potted plant.",
+        "image_0_path": "004220047.jpg",
+        "image_1_path": "004220047_edited_hands.jpg",
+        "score_0": 0.29457011818885803,
+        "score_1": 0.3007045388221741,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 7
+    },
+    {
+        "caption": "A woman is sitting on a blanket on the grass, holding a cup.",
+        "image_0_path": "004778136.jpg",
+        "image_1_path": "004778136_edited_hands.jpg",
+        "score_0": 0.26109054684638977,
+        "score_1": 0.28429320454597473,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 8
+    },
+    {
+        "caption": "A woman is doing a yoga pose on a blue mat.",
+        "image_0_path": "005337549.jpg",
+        "image_1_path": "005337549_edited_face.jpg",
+        "score_0": 0.25075456500053406,
+        "score_1": 0.29281795024871826,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 9
+    },
+    {
+        "caption": "A woman in a yellow shirt and red shorts is sitting on the floor with her hands open.",
+        "image_0_path": "006380474.jpg",
+        "image_1_path": "006380474_edited_torso.jpg",
+        "score_0": 0.3106437921524048,
+        "score_1": 0.26376402378082275,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 10
+    },
+    {
+        "caption": "A woman wearing a red bandana is tending to a garden.",
+        "image_0_path": "006801023.jpg",
+        "image_1_path": "006801023_edited_hands.jpg",
+        "score_0": 0.32038649916648865,
+        "score_1": 0.3306500017642975,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 11
+    },
+    {
+        "caption": "A woman is working out on a stationary bike.",
+        "image_0_path": "006871368.jpg",
+        "image_1_path": "006871368_edited_face.jpg",
+        "score_0": 0.29198595881462097,
+        "score_1": 0.2871326208114624,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 12
+    },
+    {
+        "caption": "A woman is exercising on a blue board.",
+        "image_0_path": "007660291.jpg",
+        "image_1_path": "007660291_edited_torso.jpg",
+        "score_0": 0.28288567066192627,
+        "score_1": 0.252849817276001,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 13
+    },
+    {
+        "caption": "A woman with a purple shirt and blue jeans is brushing her hair.",
+        "image_0_path": "007741167.jpg",
+        "image_1_path": "007741167_edited_torso.jpg",
+        "score_0": 0.3159394860267639,
+        "score_1": 0.18329882621765137,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 14
+    },
+    {
+        "caption": "A man with a white shirt and white hair.",
+        "image_0_path": "007845638.jpg",
+        "image_1_path": "007845638_edited_face.jpg",
+        "score_0": 0.23527228832244873,
+        "score_1": 0.14521782100200653,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 15
+    },
+    {
+        "caption": "A woman is standing next to a horse, holding its reins.",
+        "image_0_path": "008279867.jpg",
+        "image_1_path": "008279867_edited_hands.jpg",
+        "score_0": 0.2905062139034271,
+        "score_1": 0.30854368209838867,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 16
+    },
+    {
+        "caption": "A woman is sitting on a rock, tying her shoes.",
+        "image_0_path": "008603216.jpg",
+        "image_1_path": "008603216_edited_face.jpg",
+        "score_0": 0.25231295824050903,
+        "score_1": 0.2434510439634323,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 17
+    },
+    {
+        "caption": "A man is sitting on the ground with his hands on his knees.",
+        "image_0_path": "008815464.jpg",
+        "image_1_path": "008815464_edited_hands.jpg",
+        "score_0": 0.2833067774772644,
+        "score_1": 0.3076951503753662,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 18
+    },
+    {
+        "caption": "An older man is sitting in a lawn mower.",
+        "image_0_path": "008856817.jpg",
+        "image_1_path": "008856817_edited_hands.jpg",
+        "score_0": 0.34931090474128723,
+        "score_1": 0.36218705773353577,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 19
+    },
+    {
+        "caption": "A man with long hair and a necklace is standing in front of a fence.",
+        "image_0_path": "008928590.jpg",
+        "image_1_path": "008928590_edited_torso.jpg",
+        "score_0": 0.2406059205532074,
+        "score_1": 0.2345961630344391,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 20
+    },
+    {
+        "caption": "A woman in a black dress is standing on a white background.",
+        "image_0_path": "009505654.jpg",
+        "image_1_path": "009505654_edited_face.jpg",
+        "score_0": 0.2721004784107208,
+        "score_1": 0.27493560314178467,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 21
+    },
+    {
+        "caption": "A yellow truck with a clear bin on the back.",
+        "image_0_path": "010112519.jpg",
+        "image_1_path": "010112519_edited_hands.jpg",
+        "score_0": 0.27388784289360046,
+        "score_1": 0.259223073720932,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 22
+    },
+    {
+        "caption": "A man and a woman are standing on a rocky hillside.",
+        "image_0_path": "010561705.jpg",
+        "image_1_path": "010561705_edited_hands.jpg",
+        "score_0": 0.31773579120635986,
+        "score_1": 0.2825506329536438,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 23
+    },
+    {
+        "caption": "A woman is sitting on a bench in a gym.",
+        "image_0_path": "010745055.jpg",
+        "image_1_path": "010745055_edited_torso.jpg",
+        "score_0": 0.2955065965652466,
+        "score_1": 0.3137577474117279,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 24
+    },
+    {
+        "caption": "A woman in a red and yellow dress is holding a bunch of green leaves.",
+        "image_0_path": "010935393.jpg",
+        "image_1_path": "010935393_edited_hands.jpg",
+        "score_0": 0.2146417796611786,
+        "score_1": 0.21645618975162506,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 25
+    },
+    {
+        "caption": "A woman standing in front of a grocery store shelf with various food items.",
+        "image_0_path": "011034223.jpg",
+        "image_1_path": "011034223_edited_hands.jpg",
+        "score_0": 0.27392810583114624,
+        "score_1": 0.2909928560256958,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 26
+    },
+    {
+        "caption": "A woman swimming in a pool.",
+        "image_0_path": "011060575.jpg",
+        "image_1_path": "011060575_edited_face.jpg",
+        "score_0": 0.2594568431377411,
+        "score_1": 0.27428555488586426,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 27
+    },
+    {
+        "caption": "A man is painting a picture.",
+        "image_0_path": "012430464.jpg",
+        "image_1_path": "012430464_edited_hands.jpg",
+        "score_0": 0.2700849771499634,
+        "score_1": 0.2905282974243164,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 28
+    },
+    {
+        "caption": "A woman in a white shirt and blue shorts is holding a stick.",
+        "image_0_path": "013032395.jpg",
+        "image_1_path": "013032395_edited_hands.jpg",
+        "score_0": 0.2358015775680542,
+        "score_1": 0.263112336397171,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 29
+    },
+    {
+        "caption": "A woman and a man are walking up a hill, carrying backpacks.",
+        "image_0_path": "013563720.jpg",
+        "image_1_path": "013563720_edited_hands.jpg",
+        "score_0": 0.28059089183807373,
+        "score_1": 0.2782723605632782,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 30
+    },
+    {
+        "caption": "Three people are sitting on the floor, with one person holding his hands to his face.",
+        "image_0_path": "014284196.jpg",
+        "image_1_path": "014284196_edited_hands.jpg",
+        "score_0": 0.23563939332962036,
+        "score_1": 0.2215408980846405,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 31
+    },
+    {
+        "caption": "A man is pushing a cart with a yellow handle.",
+        "image_0_path": "017075455.jpg",
+        "image_1_path": "017075455_edited_hands.jpg",
+        "score_0": 0.35192054510116577,
+        "score_1": 0.3538196384906769,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 32
+    },
+    {
+        "caption": "A man in camouflage is kneeling next to a dead animal.",
+        "image_0_path": "018404477.jpg",
+        "image_1_path": "018404477_edited_face.jpg",
+        "score_0": 0.30079805850982666,
+        "score_1": 0.31981122493743896,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 33
+    },
+    {
+        "caption": "A man in an orange shirt is pulling a hose through the woods.",
+        "image_0_path": "018453505.jpg",
+        "image_1_path": "018453505_edited_torso.jpg",
+        "score_0": 0.3096354007720947,
+        "score_1": 0.3263098895549774,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 34
+    },
+    {
+        "caption": "A man in a yellow shirt is holding a microphone.",
+        "image_0_path": "018521572.jpg",
+        "image_1_path": "018521572_edited_face.jpg",
+        "score_0": 0.22279180586338043,
+        "score_1": 0.24720612168312073,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 35
+    },
+    {
+        "caption": "A woman in a black dress stands in front of a white background.",
+        "image_0_path": "020046905.jpg",
+        "image_1_path": "020046905_edited_face.jpg",
+        "score_0": 0.25789111852645874,
+        "score_1": 0.2627057433128357,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 36
+    },
+    {
+        "caption": "A woman sitting on a rock, looking at a waterfall.",
+        "image_0_path": "020480152.jpg",
+        "image_1_path": "020480152_edited_hands.jpg",
+        "score_0": 0.30671918392181396,
+        "score_1": 0.31336960196495056,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 37
+    },
+    {
+        "caption": "A woman in a black dress is posing for a picture.",
+        "image_0_path": "020620272.jpg",
+        "image_1_path": "020620272_edited_face.jpg",
+        "score_0": 0.25506189465522766,
+        "score_1": 0.2681155800819397,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 38
+    },
+    {
+        "caption": "A man is cutting a tree trunk with a chainsaw.",
+        "image_0_path": "020754094.jpg",
+        "image_1_path": "020754094_edited_face.jpg",
+        "score_0": 0.27851223945617676,
+        "score_1": 0.2903219163417816,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 39
+    },
+    {
+        "caption": "A young woman is sitting on the floor, looking up.",
+        "image_0_path": "021544399.jpg",
+        "image_1_path": "021544399_edited_hands.jpg",
+        "score_0": 0.1907559186220169,
+        "score_1": 0.20479772984981537,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 40
+    },
+    {
+        "caption": "A woman is riding a bike indoors, wearing a red shirt and black pants.",
+        "image_0_path": "022011133.jpg",
+        "image_1_path": "022011133_edited_face.jpg",
+        "score_0": 0.3092709481716156,
+        "score_1": 0.294469952583313,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 41
+    },
+    {
+        "caption": "A woman wearing glasses and a purple shirt is sitting in front of a quilt.",
+        "image_0_path": "022550310.jpg",
+        "image_1_path": "022550310_edited_face.jpg",
+        "score_0": 0.3167192339897156,
+        "score_1": 0.34532007575035095,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 42
+    },
+    {
+        "caption": "A woman climbing a rock wall.",
+        "image_0_path": "023374079.jpg",
+        "image_1_path": "023374079_edited_torso.jpg",
+        "score_0": 0.30311256647109985,
+        "score_1": 0.307709276676178,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 43
+    },
+    {
+        "caption": "Two men in safety gear are shaking hands.",
+        "image_0_path": "023386774.jpg",
+        "image_1_path": "023386774_edited_hands.jpg",
+        "score_0": 0.33969879150390625,
+        "score_1": 0.29232168197631836,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 44
+    },
+    {
+        "caption": "A woman in a yellow shirt is sitting at a table with a sewing machine.",
+        "image_0_path": "023490626.jpg",
+        "image_1_path": "023490626_edited_face.jpg",
+        "score_0": 0.25762394070625305,
+        "score_1": 0.3037737011909485,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 45
+    },
+    {
+        "caption": "A man is cutting a tree trunk with a chainsaw.",
+        "image_0_path": "023814665.jpg",
+        "image_1_path": "023814665_edited_face.jpg",
+        "score_0": 0.27148881554603577,
+        "score_1": 0.26766806840896606,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 46
+    },
+    {
+        "caption": "A man wearing a red jacket and black hat is sitting on a bucket in the snow.",
+        "image_0_path": "024014562.jpg",
+        "image_1_path": "024014562_edited_hands.jpg",
+        "score_0": 0.3068089783191681,
+        "score_1": 0.314114511013031,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 47
+    },
+    {
+        "caption": "A man with curly hair is sitting in a chair and talking.",
+        "image_0_path": "025204686.jpg",
+        "image_1_path": "025204686_edited_face.jpg",
+        "score_0": 0.2949180006980896,
+        "score_1": 0.2565421164035797,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 48
+    },
+    {
+        "caption": "A blonde woman wearing a leopard print headband is standing in front of a yellow machine.",
+        "image_0_path": "025479236.jpg",
+        "image_1_path": "025479236_edited_hands.jpg",
+        "score_0": 0.25077706575393677,
+        "score_1": 0.2521629333496094,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 49
+    },
+    {
+        "caption": "A man in a life vest is standing in a boat on a lake.",
+        "image_0_path": "025890427.jpg",
+        "image_1_path": "025890427_edited_hands.jpg",
+        "score_0": 0.272169291973114,
+        "score_1": 0.27524638175964355,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 50
+    },
+    {
+        "caption": "A man in a yellow jacket is kneeling in the snow, taking a picture with a camera.",
+        "image_0_path": "025891762.jpg",
+        "image_1_path": "025891762_edited_hands.jpg",
+        "score_0": 0.33432143926620483,
+        "score_1": 0.34103554487228394,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 51
+    },
+    {
+        "caption": "A woman in a blue shirt is planting rice in a muddy field.",
+        "image_0_path": "026887485.jpg",
+        "image_1_path": "026887485_edited_hands.jpg",
+        "score_0": 0.33175498247146606,
+        "score_1": 0.3332151770591736,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 52
+    },
+    {
+        "caption": "A man in an orange vest is bending over to look at a tree.",
+        "image_0_path": "027320351.jpg",
+        "image_1_path": "027320351_edited_torso.jpg",
+        "score_0": 0.36551186442375183,
+        "score_1": 0.2437991499900818,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 53
+    },
+    {
+        "caption": "A man wearing a black shirt and red hat is standing in front of a row of exercise balls.",
+        "image_0_path": "027969501.jpg",
+        "image_1_path": "027969501_edited_hands.jpg",
+        "score_0": 0.25172746181488037,
+        "score_1": 0.26830050349235535,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 54
+    },
+    {
+        "caption": "A woman is doing a yoga pose on a blue mat.",
+        "image_0_path": "028153504.jpg",
+        "image_1_path": "028153504_edited_torso.jpg",
+        "score_0": 0.2553405165672302,
+        "score_1": 0.2668966054916382,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 55
+    },
+    {
+        "caption": "A man in a suit and tie is talking to a woman in a white shirt.",
+        "image_0_path": "028519543.jpg",
+        "image_1_path": "028519543_edited_hands.jpg",
+        "score_0": 0.3433840274810791,
+        "score_1": 0.34494176506996155,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 56
+    },
+    {
+        "caption": "A woman in a purple shirt is dancing in a white room.",
+        "image_0_path": "028713796.jpg",
+        "image_1_path": "028713796_edited_torso.jpg",
+        "score_0": 0.3330942392349243,
+        "score_1": 0.2768558859825134,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 57
+    },
+    {
+        "caption": "Two men are standing on a pier, one of them is wearing a red jacket.",
+        "image_0_path": "028746166.jpg",
+        "image_1_path": "028746166_edited_hands.jpg",
+        "score_0": 0.23893314599990845,
+        "score_1": 0.2447277456521988,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 58
+    },
+    {
+        "caption": "A man is cutting a tree trunk with a hatchet.",
+        "image_0_path": "029146091.jpg",
+        "image_1_path": "029146091_edited_hands.jpg",
+        "score_0": 0.31484973430633545,
+        "score_1": 0.32035547494888306,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 59
+    },
+    {
+        "caption": "A man in a pink shirt is swinging a golf club on a green course.",
+        "image_0_path": "029329465.jpg",
+        "image_1_path": "029329465_edited_hands.jpg",
+        "score_0": 0.24039268493652344,
+        "score_1": 0.25944554805755615,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 60
+    },
+    {
+        "caption": "A man is sitting on a bike in a gym.",
+        "image_0_path": "029434817.jpg",
+        "image_1_path": "029434817_edited_hands.jpg",
+        "score_0": 0.21485838294029236,
+        "score_1": 0.2418714016675949,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 61
+    },
+    {
+        "caption": "A woman in a bikini is swimming in the ocean.",
+        "image_0_path": "031427010.jpg",
+        "image_1_path": "031427010_edited_face.jpg",
+        "score_0": 0.27705827355384827,
+        "score_1": 0.28359317779541016,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 62
+    },
+    {
+        "caption": "A woman in a black shirt and black pants is doing a handstand.",
+        "image_0_path": "031615610.jpg",
+        "image_1_path": "031615610_edited_hands.jpg",
+        "score_0": 0.26624175906181335,
+        "score_1": 0.26898348331451416,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 63
+    },
+    {
+        "caption": "A boy is skateboarding on a sidewalk.",
+        "image_0_path": "032078006.jpg",
+        "image_1_path": "032078006_edited_torso.jpg",
+        "score_0": 0.33190402388572693,
+        "score_1": 0.3184760510921478,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 64
+    },
+    {
+        "caption": "A woman in a floral shirt is sitting in a lotus position, meditating.",
+        "image_0_path": "032927573.jpg",
+        "image_1_path": "032927573_edited_face.jpg",
+        "score_0": 0.3270110487937927,
+        "score_1": 0.3196738660335541,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 65
+    },
+    {
+        "caption": "A man wearing a red jacket and glasses walks through a field.",
+        "image_0_path": "032937807.jpg",
+        "image_1_path": "032937807_edited_hands.jpg",
+        "score_0": 0.321311891078949,
+        "score_1": 0.33381330966949463,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 66
+    },
+    {
+        "caption": "A woman wearing a pink shirt and black pants is standing on a baseball field, holding a catcher's mitt.",
+        "image_0_path": "033217346.jpg",
+        "image_1_path": "033217346_edited_hands.jpg",
+        "score_0": 0.34937721490859985,
+        "score_1": 0.3511994481086731,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 67
+    },
+    {
+        "caption": "A woman wearing a green outfit is walking her dog on a path.",
+        "image_0_path": "033474353.jpg",
+        "image_1_path": "033474353_edited_hands.jpg",
+        "score_0": 0.33853453397750854,
+        "score_1": 0.38206660747528076,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 68
+    },
+    {
+        "caption": "A man standing in front of a pipe organ.",
+        "image_0_path": "034467314.jpg",
+        "image_1_path": "034467314_edited_hands.jpg",
+        "score_0": 0.3242918848991394,
+        "score_1": 0.3202125132083893,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 69
+    },
+    {
+        "caption": "A woman is standing on a blue exercise board.",
+        "image_0_path": "035897043.jpg",
+        "image_1_path": "035897043_edited_torso.jpg",
+        "score_0": 0.3070160448551178,
+        "score_1": 0.3256804645061493,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 70
+    },
+    {
+        "caption": "A woman in a yellow shirt is doing a handstand on a blue mat.",
+        "image_0_path": "036261695.jpg",
+        "image_1_path": "036261695_edited_torso.jpg",
+        "score_0": 0.28512656688690186,
+        "score_1": 0.24771231412887573,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 71
+    },
+    {
+        "caption": "A woman climbing a rock wall.",
+        "image_0_path": "036891437.jpg",
+        "image_1_path": "036891437_edited_face.jpg",
+        "score_0": 0.2763819098472595,
+        "score_1": 0.2842683494091034,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 72
+    },
+    {
+        "caption": "A woman is riding a stationary bike indoors.",
+        "image_0_path": "036957420.jpg",
+        "image_1_path": "036957420_edited_face.jpg",
+        "score_0": 0.32673758268356323,
+        "score_1": 0.32615160942077637,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 73
+    },
+    {
+        "caption": "A man and a woman are sitting in a store, talking to each other.",
+        "image_0_path": "037119299.jpg",
+        "image_1_path": "037119299_edited_hands.jpg",
+        "score_0": 0.2643027901649475,
+        "score_1": 0.2816680669784546,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 74
+    },
+    {
+        "caption": "A woman is doing a workout on a mat.",
+        "image_0_path": "037532135.jpg",
+        "image_1_path": "037532135_edited_face.jpg",
+        "score_0": 0.28958553075790405,
+        "score_1": 0.30453550815582275,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 75
+    },
+    {
+        "caption": "A woman wearing a bandana and apron is kneeling under a tree.",
+        "image_0_path": "039133284.jpg",
+        "image_1_path": "039133284_edited_hands.jpg",
+        "score_0": 0.3213539123535156,
+        "score_1": 0.3670390248298645,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 76
+    },
+    {
+        "caption": "A man wearing a cowboy hat is standing next to a pile of wood.",
+        "image_0_path": "039215666.jpg",
+        "image_1_path": "039215666_edited_hands.jpg",
+        "score_0": 0.3695862889289856,
+        "score_1": 0.3647950291633606,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 77
+    },
+    {
+        "caption": "A woman in a purple shirt and black pants is dancing in a white room.",
+        "image_0_path": "039597047.jpg",
+        "image_1_path": "039597047_edited_face.jpg",
+        "score_0": 0.2997938394546509,
+        "score_1": 0.3178606629371643,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 78
+    },
+    {
+        "caption": "A man in a tank top and camouflage hat is holding a bow and arrow.",
+        "image_0_path": "039692328.jpg",
+        "image_1_path": "039692328_edited_torso.jpg",
+        "score_0": 0.30976206064224243,
+        "score_1": 0.34683963656425476,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 79
+    },
+    {
+        "caption": "A woman is sitting on the grass with a lawn mower.",
+        "image_0_path": "040273948.jpg",
+        "image_1_path": "040273948_edited_hands.jpg",
+        "score_0": 0.29637065529823303,
+        "score_1": 0.2958946228027344,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 80
+    },
+    {
+        "caption": "A woman is kneeling on a red mat, holding a blue box.",
+        "image_0_path": "041918288.jpg",
+        "image_1_path": "041918288_edited_hands.jpg",
+        "score_0": 0.24226023256778717,
+        "score_1": 0.22871047258377075,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 81
+    },
+    {
+        "caption": "A man riding a bike on a dirt road.",
+        "image_0_path": "042638989.jpg",
+        "image_1_path": "042638989_edited_hands.jpg",
+        "score_0": 0.18662944436073303,
+        "score_1": 0.22041288018226624,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 82
+    },
+    {
+        "caption": "A young girl and boy are playing together in a field.",
+        "image_0_path": "042812805.jpg",
+        "image_1_path": "042812805_edited_face.jpg",
+        "score_0": 0.31120240688323975,
+        "score_1": 0.33390146493911743,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 83
+    },
+    {
+        "caption": "A man wearing a black jacket stands in front of a white sign.",
+        "image_0_path": "042847310.jpg",
+        "image_1_path": "042847310_edited_hands.jpg",
+        "score_0": 0.22069355845451355,
+        "score_1": 0.24290424585342407,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 84
+    },
+    {
+        "caption": "A man wearing a red jacket and black pants is standing in the snow and waving.",
+        "image_0_path": "043276708.jpg",
+        "image_1_path": "043276708_edited_face.jpg",
+        "score_0": 0.3248695135116577,
+        "score_1": 0.32632726430892944,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 85
+    },
+    {
+        "caption": "Two women are standing in front of a loom, smiling and enjoying their time together.",
+        "image_0_path": "043307451.jpg",
+        "image_1_path": "043307451_edited_hands.jpg",
+        "score_0": 0.3744155466556549,
+        "score_1": 0.3744319677352905,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 86
+    },
+    {
+        "caption": "A woman is working out on a treadmill, holding a red and black bar.",
+        "image_0_path": "044913057.jpg",
+        "image_1_path": "044913057_edited_face.jpg",
+        "score_0": 0.20583581924438477,
+        "score_1": 0.20497596263885498,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 87
+    },
+    {
+        "caption": "A man is running on a track.",
+        "image_0_path": "045329974.jpg",
+        "image_1_path": "045329974_edited_torso.jpg",
+        "score_0": 0.2933803200721741,
+        "score_1": 0.3041030168533325,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 88
+    },
+    {
+        "caption": "A woman is holding a baby in a sink.",
+        "image_0_path": "045532875.jpg",
+        "image_1_path": "045532875_edited_hands.jpg",
+        "score_0": 0.36171460151672363,
+        "score_1": 0.3497745394706726,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 89
+    },
+    {
+        "caption": "A woman in a pink bikini is smiling and laying on her back in a swimming pool.",
+        "image_0_path": "045825289.jpg",
+        "image_1_path": "045825289_edited_hands.jpg",
+        "score_0": 0.32606592774391174,
+        "score_1": 0.3402402102947235,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 90
+    },
+    {
+        "caption": "A woman is sitting on a rocky beach.",
+        "image_0_path": "046598178.jpg",
+        "image_1_path": "046598178_edited_face.jpg",
+        "score_0": 0.27676665782928467,
+        "score_1": 0.29102563858032227,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 91
+    },
+    {
+        "caption": "A man is sitting on the ground, working on a wooden object.",
+        "image_0_path": "046629941.jpg",
+        "image_1_path": "046629941_edited_face.jpg",
+        "score_0": 0.2995729446411133,
+        "score_1": 0.31843137741088867,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 92
+    },
+    {
+        "caption": "A man is working on a tree trunk, using a large knife to cut it.",
+        "image_0_path": "046806905.jpg",
+        "image_1_path": "046806905_edited_hands.jpg",
+        "score_0": 0.317712664604187,
+        "score_1": 0.35278138518333435,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 93
+    },
+    {
+        "caption": "A woman wearing a red bandana is tending to a garden.",
+        "image_0_path": "048235621.jpg",
+        "image_1_path": "048235621_edited_hands.jpg",
+        "score_0": 0.30857884883880615,
+        "score_1": 0.32363197207450867,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 94
+    },
+    {
+        "caption": "A man is holding a fishing rod and preparing to catch a large bull shark.",
+        "image_0_path": "049966729.jpg",
+        "image_1_path": "049966729_edited_hands.jpg",
+        "score_0": 0.2775074541568756,
+        "score_1": 0.28756213188171387,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 95
+    },
+    {
+        "caption": "A man climbing a rock face.",
+        "image_0_path": "050116663.jpg",
+        "image_1_path": "050116663_edited_hands.jpg",
+        "score_0": 0.29063311219215393,
+        "score_1": 0.27978938817977905,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 96
+    },
+    {
+        "caption": "A woman is doing a yoga pose on a green mat.",
+        "image_0_path": "050544166.jpg",
+        "image_1_path": "050544166_edited_face.jpg",
+        "score_0": 0.2626277804374695,
+        "score_1": 0.25848472118377686,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 97
+    },
+    {
+        "caption": "A woman is walking her dog on a path in the woods.",
+        "image_0_path": "050928899.jpg",
+        "image_1_path": "050928899_edited_hands.jpg",
+        "score_0": 0.33850836753845215,
+        "score_1": 0.34116119146347046,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 98
+    },
+    {
+        "caption": "A golfer in a pink shirt is getting ready to hit a golf ball.",
+        "image_0_path": "051170745.jpg",
+        "image_1_path": "051170745_edited_hands.jpg",
+        "score_0": 0.1921679824590683,
+        "score_1": 0.2010907232761383,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 99
+    },
+    {
+        "caption": "A man wearing a white hat and white shirt is swinging a golf club.",
+        "image_0_path": "051856169.jpg",
+        "image_1_path": "051856169_edited_face.jpg",
+        "score_0": 0.33619225025177,
+        "score_1": 0.34039607644081116,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 100
+    },
+    {
+        "caption": "A woman in a pink tank top is dancing in front of a mirror.",
+        "image_0_path": "052332963.jpg",
+        "image_1_path": "052332963_edited_torso.jpg",
+        "score_0": 0.2615874111652374,
+        "score_1": 0.2402181774377823,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 101
+    },
+    {
+        "caption": "A man wearing a backpack and sunglasses stands in a forest.",
+        "image_0_path": "052360057.jpg",
+        "image_1_path": "052360057_edited_face.jpg",
+        "score_0": 0.33126771450042725,
+        "score_1": 0.3002678453922272,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 102
+    },
+    {
+        "caption": "A man in a grey sweater is sitting in a chair and holding a cup.",
+        "image_0_path": "052665983.jpg",
+        "image_1_path": "052665983_edited_face.jpg",
+        "score_0": 0.23579370975494385,
+        "score_1": 0.23416364192962646,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 103
+    },
+    {
+        "caption": "A man holding a frisbee in a field.",
+        "image_0_path": "052858420.jpg",
+        "image_1_path": "052858420_edited_face.jpg",
+        "score_0": 0.35076624155044556,
+        "score_1": 0.3437157869338989,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 104
+    },
+    {
+        "caption": "A woman wearing a yellow shirt and red pants is sitting on the floor.",
+        "image_0_path": "054534498.jpg",
+        "image_1_path": "054534498_edited_hands.jpg",
+        "score_0": 0.27551451325416565,
+        "score_1": 0.2901109755039215,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 105
+    },
+    {
+        "caption": "A woman in a red bathing suit is smiling and laughing while sitting in a pool.",
+        "image_0_path": "054671028.jpg",
+        "image_1_path": "054671028_edited_face.jpg",
+        "score_0": 0.31360405683517456,
+        "score_1": 0.26606231927871704,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 106
+    },
+    {
+        "caption": "A woman is watering a garden with a hose.",
+        "image_0_path": "055222228.jpg",
+        "image_1_path": "055222228_edited_hands.jpg",
+        "score_0": 0.30011653900146484,
+        "score_1": 0.3142985701560974,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 107
+    },
+    {
+        "caption": "A woman in a black dress stands on a white background.",
+        "image_0_path": "056069448.jpg",
+        "image_1_path": "056069448_edited_torso.jpg",
+        "score_0": 0.2544630765914917,
+        "score_1": 0.1419622302055359,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 108
+    },
+    {
+        "caption": "A man in a white apron is measuring a wall.",
+        "image_0_path": "056408492.jpg",
+        "image_1_path": "056408492_edited_hands.jpg",
+        "score_0": 0.3221385180950165,
+        "score_1": 0.3382452428340912,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 109
+    },
+    {
+        "caption": "A woman in a purple tank top is doing a push-up.",
+        "image_0_path": "057759337.jpg",
+        "image_1_path": "057759337_edited_torso.jpg",
+        "score_0": 0.25749462842941284,
+        "score_1": 0.23284530639648438,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 110
+    },
+    {
+        "caption": "A woman is reading a book to a group of stuffed animals.",
+        "image_0_path": "059370578.jpg",
+        "image_1_path": "059370578_edited_hands.jpg",
+        "score_0": 0.3777512013912201,
+        "score_1": 0.3811195492744446,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 111
+    },
+    {
+        "caption": "A man in a yellow shirt is swinging a golf club on a green course.",
+        "image_0_path": "059856299.jpg",
+        "image_1_path": "059856299_edited_hands.jpg",
+        "score_0": 0.20134031772613525,
+        "score_1": 0.2121260017156601,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 112
+    },
+    {
+        "caption": "A man wearing a helmet and knee pads is standing on a skateboard.",
+        "image_0_path": "060352881.jpg",
+        "image_1_path": "060352881_edited_hands.jpg",
+        "score_0": 0.3214891254901886,
+        "score_1": 0.31304943561553955,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 113
+    },
+    {
+        "caption": "A man in a hard hat is working on electrical wires.",
+        "image_0_path": "061047551.jpg",
+        "image_1_path": "061047551_edited_hands.jpg",
+        "score_0": 0.3423357307910919,
+        "score_1": 0.34875351190567017,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 114
+    },
+    {
+        "caption": "A man in a blue shirt is standing in front of a large machine.",
+        "image_0_path": "061266125.jpg",
+        "image_1_path": "061266125_edited_hands.jpg",
+        "score_0": 0.23571574687957764,
+        "score_1": 0.2612965703010559,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 115
+    },
+    {
+        "caption": "A man wearing a helmet and a bike jersey is standing next to his bike.",
+        "image_0_path": "061307231.jpg",
+        "image_1_path": "061307231_edited_hands.jpg",
+        "score_0": 0.2216770052909851,
+        "score_1": 0.22678419947624207,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 116
+    },
+    {
+        "caption": "A person is standing next to a river, holding a red rope.",
+        "image_0_path": "061329168.jpg",
+        "image_1_path": "061329168_edited_hands.jpg",
+        "score_0": 0.24047498404979706,
+        "score_1": 0.24435286223888397,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 117
+    },
+    {
+        "caption": "A woman in a purple shirt is standing in a dance studio.",
+        "image_0_path": "061454102.jpg",
+        "image_1_path": "061454102_edited_hands.jpg",
+        "score_0": 0.29740872979164124,
+        "score_1": 0.3180038630962372,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 118
+    },
+    {
+        "caption": "A woman is running on a grassy hillside.",
+        "image_0_path": "061719423.jpg",
+        "image_1_path": "061719423_edited_hands.jpg",
+        "score_0": 0.31452083587646484,
+        "score_1": 0.2509990930557251,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 119
+    },
+    {
+        "caption": "A man holding a tennis racket in front of a white wall.",
+        "image_0_path": "061821806.jpg",
+        "image_1_path": "061821806_edited_face.jpg",
+        "score_0": 0.3082486689090729,
+        "score_1": 0.27452516555786133,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 120
+    },
+    {
+        "caption": "A young girl riding a horse.",
+        "image_0_path": "062185609.jpg",
+        "image_1_path": "062185609_edited_hands.jpg",
+        "score_0": 0.31431782245635986,
+        "score_1": 0.30174779891967773,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 121
+    },
+    {
+        "caption": "A woman wearing a purple shirt and black pants is standing on a skateboard.",
+        "image_0_path": "062275340.jpg",
+        "image_1_path": "062275340_edited_face.jpg",
+        "score_0": 0.3252498209476471,
+        "score_1": 0.3152131736278534,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 122
+    },
+    {
+        "caption": "A man with a beard and a bandana on his head is holding a stick.",
+        "image_0_path": "062289048.jpg",
+        "image_1_path": "062289048_edited_face.jpg",
+        "score_0": 0.18640878796577454,
+        "score_1": 0.2573511004447937,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 123
+    },
+    {
+        "caption": "A woman is sitting on the ground with a pink and orange exercise bar.",
+        "image_0_path": "062296658.jpg",
+        "image_1_path": "062296658_edited_face.jpg",
+        "score_0": 0.34783053398132324,
+        "score_1": 0.34192177653312683,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 124
+    },
+    {
+        "caption": "A man wearing a black shirt and shorts is running on a road.",
+        "image_0_path": "062307103.jpg",
+        "image_1_path": "062307103_edited_hands.jpg",
+        "score_0": 0.31945109367370605,
+        "score_1": 0.3258728086948395,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 125
+    },
+    {
+        "caption": "A woman is doing a workout on a mat.",
+        "image_0_path": "062675335.jpg",
+        "image_1_path": "062675335_edited_face.jpg",
+        "score_0": 0.288040429353714,
+        "score_1": 0.30447691679000854,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 126
+    },
+    {
+        "caption": "A woman with blue hair is sitting at a table with a sewing machine.",
+        "image_0_path": "062733711.jpg",
+        "image_1_path": "062733711_edited_face.jpg",
+        "score_0": 0.22407464683055878,
+        "score_1": 0.3071429133415222,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 127
+    },
+    {
+        "caption": "A man in a camouflage uniform is sitting in the grass and holding a gun.",
+        "image_0_path": "063004472.jpg",
+        "image_1_path": "063004472_edited_hands.jpg",
+        "score_0": 0.2755010426044464,
+        "score_1": 0.29013827443122864,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 128
+    },
+    {
+        "caption": "A man in a green helmet is standing next to a tree.",
+        "image_0_path": "063007315.jpg",
+        "image_1_path": "063007315_edited_hands.jpg",
+        "score_0": 0.31053784489631653,
+        "score_1": 0.3390887379646301,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 129
+    },
+    {
+        "caption": "A woman sitting on a rock, looking at a waterfall.",
+        "image_0_path": "063422800.jpg",
+        "image_1_path": "063422800_edited_hands.jpg",
+        "score_0": 0.30460238456726074,
+        "score_1": 0.31341880559921265,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 130
+    },
+    {
+        "caption": "A woman holding a head of lettuce in a grocery store.",
+        "image_0_path": "063636581.jpg",
+        "image_1_path": "063636581_edited_face.jpg",
+        "score_0": 0.34902873635292053,
+        "score_1": 0.3515196144580841,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 131
+    },
+    {
+        "caption": "A man is holding a bow and arrow in a wooded area.",
+        "image_0_path": "063872341.jpg",
+        "image_1_path": "063872341_edited_torso.jpg",
+        "score_0": 0.3065904676914215,
+        "score_1": 0.31955182552337646,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 132
+    },
+    {
+        "caption": "A woman in a suit sits in front of a book about climbing a wall.",
+        "image_0_path": "064148747.jpg",
+        "image_1_path": "064148747_edited_hands.jpg",
+        "score_0": 0.36917656660079956,
+        "score_1": 0.39856722950935364,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 133
+    },
+    {
+        "caption": "A man standing in front of a bale of hay.",
+        "image_0_path": "064816805.jpg",
+        "image_1_path": "064816805_edited_hands.jpg",
+        "score_0": 0.3237916827201843,
+        "score_1": 0.34536874294281006,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 134
+    },
+    {
+        "caption": "A man in a pink shirt is swinging a golf club.",
+        "image_0_path": "065485567.jpg",
+        "image_1_path": "065485567_edited_hands.jpg",
+        "score_0": 0.2859046757221222,
+        "score_1": 0.31065642833709717,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 135
+    },
+    {
+        "caption": "Two men are sitting on a boat, smiling and enjoying their time together.",
+        "image_0_path": "065675606.jpg",
+        "image_1_path": "065675606_edited_hands.jpg",
+        "score_0": 0.2550315856933594,
+        "score_1": 0.2559552788734436,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 136
+    },
+    {
+        "caption": "A man is cutting a hole in a wall.",
+        "image_0_path": "066594717.jpg",
+        "image_1_path": "066594717_edited_face.jpg",
+        "score_0": 0.2565314471721649,
+        "score_1": 0.2704593241214752,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 137
+    },
+    {
+        "caption": "A man is standing on a ladder in front of a hedge.",
+        "image_0_path": "066630532.jpg",
+        "image_1_path": "066630532_edited_torso.jpg",
+        "score_0": 0.3990732431411743,
+        "score_1": 0.3295600414276123,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 138
+    },
+    {
+        "caption": "Two men shaking hands, one wearing a pink shirt and the other wearing a blue shirt.",
+        "image_0_path": "067147915.jpg",
+        "image_1_path": "067147915_edited_hands.jpg",
+        "score_0": 0.28606006503105164,
+        "score_1": 0.28390902280807495,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 139
+    },
+    {
+        "caption": "A man in camouflage sits on the ground next to a dead animal.",
+        "image_0_path": "067639837.jpg",
+        "image_1_path": "067639837_edited_hands.jpg",
+        "score_0": 0.2901557981967926,
+        "score_1": 0.30613186955451965,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 140
+    },
+    {
+        "caption": "A man wearing a cowboy hat rides a horse.",
+        "image_0_path": "067772324.jpg",
+        "image_1_path": "067772324_edited_hands.jpg",
+        "score_0": 0.31778693199157715,
+        "score_1": 0.3159700632095337,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 141
+    },
+    {
+        "caption": "A baby wearing a white and pink outfit is laying on a bed.",
+        "image_0_path": "068162750.jpg",
+        "image_1_path": "068162750_edited_face.jpg",
+        "score_0": 0.3365599811077118,
+        "score_1": 0.3667675852775574,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 142
+    },
+    {
+        "caption": "A woman in a yellow shirt is doing a yoga pose.",
+        "image_0_path": "068851219.jpg",
+        "image_1_path": "068851219_edited_torso.jpg",
+        "score_0": 0.25044459104537964,
+        "score_1": 0.13796555995941162,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 143
+    },
+    {
+        "caption": "A female athlete wearing a red and white top with the words \"USA\" on it.",
+        "image_0_path": "069342584.jpg",
+        "image_1_path": "069342584_edited_face.jpg",
+        "score_0": 0.32120490074157715,
+        "score_1": 0.3243267834186554,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 144
+    },
+    {
+        "caption": "A woman is doing a yoga pose in a room.",
+        "image_0_path": "069738352.jpg",
+        "image_1_path": "069738352_edited_hands.jpg",
+        "score_0": 0.23155558109283447,
+        "score_1": 0.23471581935882568,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 145
+    },
+    {
+        "caption": "A baby is laying on a bed with a pink flower on its outfit.",
+        "image_0_path": "069923899.jpg",
+        "image_1_path": "069923899_edited_face.jpg",
+        "score_0": 0.31178855895996094,
+        "score_1": 0.2858735918998718,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 146
+    },
+    {
+        "caption": "A man in an orange shirt is holding a blue and grey striped item.",
+        "image_0_path": "069924274.jpg",
+        "image_1_path": "069924274_edited_torso.jpg",
+        "score_0": 0.26834580302238464,
+        "score_1": 0.24458375573158264,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 147
+    },
+    {
+        "caption": "A man is watering a flower bed.",
+        "image_0_path": "070664252.jpg",
+        "image_1_path": "070664252_edited_hands.jpg",
+        "score_0": 0.3232871890068054,
+        "score_1": 0.3504089117050171,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 148
+    },
+    {
+        "caption": "A man is sitting in a pool with a water ski.",
+        "image_0_path": "071679772.jpg",
+        "image_1_path": "071679772_edited_hands.jpg",
+        "score_0": 0.3314933180809021,
+        "score_1": 0.3363189101219177,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 149
+    },
+    {
+        "caption": "A woman in a pink bikini is smiling and floating in a swimming pool.",
+        "image_0_path": "072525766.jpg",
+        "image_1_path": "072525766_edited_face.jpg",
+        "score_0": 0.31508493423461914,
+        "score_1": 0.26776111125946045,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 150
+    },
+    {
+        "caption": "A woman wearing a dungaree and glasses is standing in front of a bush.",
+        "image_0_path": "073070688.jpg",
+        "image_1_path": "073070688_edited_face.jpg",
+        "score_0": 0.37224096059799194,
+        "score_1": 0.3221551477909088,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 151
+    },
+    {
+        "caption": "A man wearing a black shirt with the words \"Army Plan\" on it sits on a couch.",
+        "image_0_path": "073276186.jpg",
+        "image_1_path": "073276186_edited_hands.jpg",
+        "score_0": 0.26579102873802185,
+        "score_1": 0.24729512631893158,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 152
+    },
+    {
+        "caption": "A woman wearing a white tank top and red shorts is sitting on the floor.",
+        "image_0_path": "073411530.jpg",
+        "image_1_path": "073411530_edited_face.jpg",
+        "score_0": 0.23900151252746582,
+        "score_1": 0.2604292929172516,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 153
+    },
+    {
+        "caption": "A man wearing a white shirt and a blue cap is standing in a room.",
+        "image_0_path": "075337755.jpg",
+        "image_1_path": "075337755_edited_hands.jpg",
+        "score_0": 0.23280467092990875,
+        "score_1": 0.2518177032470703,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 154
+    },
+    {
+        "caption": "A man wearing a blue shirt is sitting in front of a machine.",
+        "image_0_path": "075514305.jpg",
+        "image_1_path": "075514305_edited_hands.jpg",
+        "score_0": 0.27954620122909546,
+        "score_1": 0.28884994983673096,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 155
+    },
+    {
+        "caption": "A man is holding a fishing rod and preparing to fish.",
+        "image_0_path": "076327788.jpg",
+        "image_1_path": "076327788_edited_hands.jpg",
+        "score_0": 0.2772443890571594,
+        "score_1": 0.280775249004364,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 156
+    },
+    {
+        "caption": "A man wearing a hat and gloves is standing next to two black pigs.",
+        "image_0_path": "076793755.jpg",
+        "image_1_path": "076793755_edited_hands.jpg",
+        "score_0": 0.35349729657173157,
+        "score_1": 0.34150412678718567,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 157
+    },
+    {
+        "caption": "A man is using a pole to cut down a tree.",
+        "image_0_path": "076841054.jpg",
+        "image_1_path": "076841054_edited_hands.jpg",
+        "score_0": 0.32545939087867737,
+        "score_1": 0.33808088302612305,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 158
+    },
+    {
+        "caption": "A man with long hair and a beard is standing in front of a fence.",
+        "image_0_path": "077157017.jpg",
+        "image_1_path": "077157017_edited_torso.jpg",
+        "score_0": 0.1479366421699524,
+        "score_1": 0.19056962430477142,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 159
+    },
+    {
+        "caption": "A woman is playing a piano with a bird tattoo on her leg.",
+        "image_0_path": "077326115.jpg",
+        "image_1_path": "077326115_edited_hands.jpg",
+        "score_0": 0.3166232109069824,
+        "score_1": 0.3166142702102661,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 160
+    },
+    {
+        "caption": "A woman wearing a purple shirt and black pants is posing for a picture.",
+        "image_0_path": "077561185.jpg",
+        "image_1_path": "077561185_edited_face.jpg",
+        "score_0": 0.27412280440330505,
+        "score_1": 0.2634270191192627,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 161
+    },
+    {
+        "caption": "A man climbing a rock face.",
+        "image_0_path": "078396079.jpg",
+        "image_1_path": "078396079_edited_face.jpg",
+        "score_0": 0.29387205839157104,
+        "score_1": 0.2804076671600342,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 162
+    },
+    {
+        "caption": "A man sitting in a chair holding a cup.",
+        "image_0_path": "079077681.jpg",
+        "image_1_path": "079077681_edited_face.jpg",
+        "score_0": 0.26907360553741455,
+        "score_1": 0.21234798431396484,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 163
+    },
+    {
+        "caption": "A woman wearing a purple shirt and black pants is dancing.",
+        "image_0_path": "079285442.jpg",
+        "image_1_path": "079285442_edited_face.jpg",
+        "score_0": 0.33583179116249084,
+        "score_1": 0.3383607864379883,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 164
+    },
+    {
+        "caption": "A woman in a green shirt is holding a white sweater.",
+        "image_0_path": "079558025.jpg",
+        "image_1_path": "079558025_edited_face.jpg",
+        "score_0": 0.2862491011619568,
+        "score_1": 0.28239700198173523,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 165
+    },
+    {
+        "caption": "A man is using an orange tool to cut a tree branch.",
+        "image_0_path": "079691157.jpg",
+        "image_1_path": "079691157_edited_hands.jpg",
+        "score_0": 0.29877859354019165,
+        "score_1": 0.3046797513961792,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 166
+    },
+    {
+        "caption": "A woman in a purple shirt is dancing in front of a white background.",
+        "image_0_path": "079791416.jpg",
+        "image_1_path": "079791416_edited_torso.jpg",
+        "score_0": 0.3162176311016083,
+        "score_1": 0.2448146492242813,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 167
+    },
+    {
+        "caption": "A man is painting a picture on a wall.",
+        "image_0_path": "080228882.jpg",
+        "image_1_path": "080228882_edited_hands.jpg",
+        "score_0": 0.30751174688339233,
+        "score_1": 0.3157908320426941,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 168
+    },
+    {
+        "caption": "A man is sitting in front of a yellow machine.",
+        "image_0_path": "080375197.jpg",
+        "image_1_path": "080375197_edited_face.jpg",
+        "score_0": 0.3465133309364319,
+        "score_1": 0.36693811416625977,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 169
+    },
+    {
+        "caption": "A man wearing a red hoodie is riding a skateboard on a gym floor.",
+        "image_0_path": "080469579.jpg",
+        "image_1_path": "080469579_edited_hands.jpg",
+        "score_0": 0.3398299217224121,
+        "score_1": 0.3702514171600342,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 170
+    },
+    {
+        "caption": "A woman is walking on a trail in the woods, holding a walking stick.",
+        "image_0_path": "080663612.jpg",
+        "image_1_path": "080663612_edited_face.jpg",
+        "score_0": 0.24287699162960052,
+        "score_1": 0.26453471183776855,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 171
+    },
+    {
+        "caption": "A man wearing a blue jacket is skiing down a snowy slope.",
+        "image_0_path": "080897775.jpg",
+        "image_1_path": "080897775_edited_hands.jpg",
+        "score_0": 0.22036060690879822,
+        "score_1": 0.1961691826581955,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 172
+    },
+    {
+        "caption": "A woman in a white shirt is dancing on stage.",
+        "image_0_path": "081496734.jpg",
+        "image_1_path": "081496734_edited_torso.jpg",
+        "score_0": 0.294730544090271,
+        "score_1": 0.23124033212661743,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 173
+    },
+    {
+        "caption": "A man is standing on a boat holding a fishing rod.",
+        "image_0_path": "082014407.jpg",
+        "image_1_path": "082014407_edited_hands.jpg",
+        "score_0": 0.2904113531112671,
+        "score_1": 0.30176210403442383,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 174
+    },
+    {
+        "caption": "A man is holding a large log.",
+        "image_0_path": "082062559.jpg",
+        "image_1_path": "082062559_edited_face.jpg",
+        "score_0": 0.32203176617622375,
+        "score_1": 0.3596065938472748,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 175
+    },
+    {
+        "caption": "A group of people are hanging out on a skyscraper, with one man wearing a helmet and holding onto another man.",
+        "image_0_path": "082253602.jpg",
+        "image_1_path": "082253602_edited_hands.jpg",
+        "score_0": 0.362916499376297,
+        "score_1": 0.3563416600227356,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 176
+    },
+    {
+        "caption": "A woman is working on a window, holding a hammer and wearing gloves.",
+        "image_0_path": "082805497.jpg",
+        "image_1_path": "082805497_edited_face.jpg",
+        "score_0": 0.3210906982421875,
+        "score_1": 0.3251177668571472,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 177
+    },
+    {
+        "caption": "A woman wearing an orange shirt is holding a pink ball.",
+        "image_0_path": "082837815.jpg",
+        "image_1_path": "082837815_edited_face.jpg",
+        "score_0": 0.2488185465335846,
+        "score_1": 0.24575866758823395,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 178
+    },
+    {
+        "caption": "A man is chopping a tree trunk in the snow.",
+        "image_0_path": "083014337.jpg",
+        "image_1_path": "083014337_edited_hands.jpg",
+        "score_0": 0.3297464847564697,
+        "score_1": 0.34666261076927185,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 179
+    },
+    {
+        "caption": "A young boy is sitting in a blue sled in the snow, smiling and enjoying the winter activity.",
+        "image_0_path": "083158649.jpg",
+        "image_1_path": "083158649_edited_face.jpg",
+        "score_0": 0.28652387857437134,
+        "score_1": 0.20703141391277313,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 180
+    },
+    {
+        "caption": "A woman wearing a green shirt and apron is kneeling down in a vineyard, tending to the plants.",
+        "image_0_path": "083284309.jpg",
+        "image_1_path": "083284309_edited_face.jpg",
+        "score_0": 0.3251723647117615,
+        "score_1": 0.3413850665092468,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 181
+    },
+    {
+        "caption": "A woman in a black tank top is doing a squat in a gym.",
+        "image_0_path": "083524406.jpg",
+        "image_1_path": "083524406_edited_leg.jpg",
+        "score_0": 0.28564906120300293,
+        "score_1": 0.24295219779014587,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 182
+    },
+    {
+        "caption": "A woman in a red shirt and black shorts is holding a weight.",
+        "image_0_path": "083693936.jpg",
+        "image_1_path": "083693936_edited_hands.jpg",
+        "score_0": 0.289713978767395,
+        "score_1": 0.267062246799469,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 183
+    },
+    {
+        "caption": "A woman is sitting on a green mat, meditating.",
+        "image_0_path": "083940334.jpg",
+        "image_1_path": "083940334_edited_face.jpg",
+        "score_0": 0.32524657249450684,
+        "score_1": 0.3180728554725647,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 184
+    },
+    {
+        "caption": "A man sits on a bench next to a wooden planter box filled with flowers.",
+        "image_0_path": "084167521.jpg",
+        "image_1_path": "084167521_edited_hands.jpg",
+        "score_0": 0.32651612162590027,
+        "score_1": 0.3395383358001709,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 185
+    },
+    {
+        "caption": "A man is playing with a frisbee.",
+        "image_0_path": "084454940.jpg",
+        "image_1_path": "084454940_edited_torso.jpg",
+        "score_0": 0.21854010224342346,
+        "score_1": 0.22525262832641602,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 186
+    },
+    {
+        "caption": "A man is massaging a woman's back.",
+        "image_0_path": "085295611.jpg",
+        "image_1_path": "085295611_edited_hands.jpg",
+        "score_0": 0.270574152469635,
+        "score_1": 0.27828869223594666,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 187
+    },
+    {
+        "caption": "A woman standing in front of a sign that says \"Darcy Sunday River.\".",
+        "image_0_path": "085531446.jpg",
+        "image_1_path": "085531446_edited_hands.jpg",
+        "score_0": 0.4896167814731598,
+        "score_1": 0.4482729434967041,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 188
+    },
+    {
+        "caption": "A woman is washing clothes in a sink.",
+        "image_0_path": "085653722.jpg",
+        "image_1_path": "085653722_edited_hands.jpg",
+        "score_0": 0.2611900568008423,
+        "score_1": 0.27669140696525574,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 189
+    },
+    {
+        "caption": "A boy playing soccer on a sidewalk.",
+        "image_0_path": "086204265.jpg",
+        "image_1_path": "086204265_edited_torso.jpg",
+        "score_0": 0.28585031628608704,
+        "score_1": 0.24361203610897064,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 190
+    },
+    {
+        "caption": "A man is standing in a forest, holding a tree branch.",
+        "image_0_path": "086557506.jpg",
+        "image_1_path": "086557506_edited_torso.jpg",
+        "score_0": 0.2986821234226227,
+        "score_1": 0.3143180012702942,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 191
+    },
+    {
+        "caption": "A woman is standing in front of a Precor exercise machine.",
+        "image_0_path": "086706018.jpg",
+        "image_1_path": "086706018_edited_torso.jpg",
+        "score_0": 0.2999076247215271,
+        "score_1": 0.28724849224090576,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 192
+    },
+    {
+        "caption": "A woman wearing a black tank top is sitting on a ball.",
+        "image_0_path": "087153681.jpg",
+        "image_1_path": "087153681_edited_face.jpg",
+        "score_0": 0.35180413722991943,
+        "score_1": 0.30270618200302124,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 193
+    },
+    {
+        "caption": "A man sits on a yellow tractor in a field.",
+        "image_0_path": "087503453.jpg",
+        "image_1_path": "087503453_edited_hands.jpg",
+        "score_0": 0.2806701064109802,
+        "score_1": 0.2868712544441223,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 194
+    },
+    {
+        "caption": "A man wearing a red shirt with the word \"Kiprotich\" on it is running.",
+        "image_0_path": "087648561.jpg",
+        "image_1_path": "087648561_edited_torso.jpg",
+        "score_0": 0.39267873764038086,
+        "score_1": 0.2787638008594513,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 195
+    },
+    {
+        "caption": "A woman in a black dress is dancing.",
+        "image_0_path": "087656049.jpg",
+        "image_1_path": "087656049_edited_torso.jpg",
+        "score_0": 0.32674500346183777,
+        "score_1": 0.1811998188495636,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 196
+    },
+    {
+        "caption": "A man wearing a red, white, and blue jersey sits in a chair next to a dirt bike.",
+        "image_0_path": "087918577.jpg",
+        "image_1_path": "087918577_edited_hands.jpg",
+        "score_0": 0.3469482660293579,
+        "score_1": 0.3442710041999817,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 197
+    },
+    {
+        "caption": "A young girl wearing a yellow scarf is standing in a church.",
+        "image_0_path": "089728267.jpg",
+        "image_1_path": "089728267_edited_hands.jpg",
+        "score_0": 0.30464380979537964,
+        "score_1": 0.31653791666030884,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 198
+    },
+    {
+        "caption": "A man is kneeling on the ground, holding his hands together.",
+        "image_0_path": "090275101.jpg",
+        "image_1_path": "090275101_edited_hands.jpg",
+        "score_0": 0.27000555396080017,
+        "score_1": 0.28194111585617065,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 199
+    },
+    {
+        "caption": "A woman is sitting on a chair in a room.",
+        "image_0_path": "090491842.jpg",
+        "image_1_path": "090491842_edited_hands.jpg",
+        "score_0": 0.28287115693092346,
+        "score_1": 0.2956843674182892,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 200
+    },
+    {
+        "caption": "Two people are sitting on chairs, talking to each other.",
+        "image_0_path": "091196858.jpg",
+        "image_1_path": "091196858_edited_hands.jpg",
+        "score_0": 0.1832457184791565,
+        "score_1": 0.18410146236419678,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 201
+    },
+    {
+        "caption": "A man holding a cell phone and a gun holster.",
+        "image_0_path": "091455828.jpg",
+        "image_1_path": "091455828_edited_hands.jpg",
+        "score_0": 0.30936968326568604,
+        "score_1": 0.31199973821640015,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 202
+    },
+    {
+        "caption": "A woman in a purple tank top is playing a video game.",
+        "image_0_path": "091509007.jpg",
+        "image_1_path": "091509007_edited_torso.jpg",
+        "score_0": 0.21771980822086334,
+        "score_1": 0.21792560815811157,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 203
+    },
+    {
+        "caption": "A man is chopping a tree branch with a hatchet.",
+        "image_0_path": "092073965.jpg",
+        "image_1_path": "092073965_edited_hands.jpg",
+        "score_0": 0.2660682201385498,
+        "score_1": 0.2952246069908142,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 204
+    },
+    {
+        "caption": "A man is getting a massage from three men.",
+        "image_0_path": "092183451.jpg",
+        "image_1_path": "092183451_edited_torso.jpg",
+        "score_0": 0.278417706489563,
+        "score_1": 0.2896122336387634,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 205
+    },
+    {
+        "caption": "A man and a woman are walking together in the woods.",
+        "image_0_path": "093634275.jpg",
+        "image_1_path": "093634275_edited_hands.jpg",
+        "score_0": 0.3334004282951355,
+        "score_1": 0.33415475487709045,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 206
+    },
+    {
+        "caption": "A woman in a suit and necklace is smiling and holding her hands together.",
+        "image_0_path": "093773747.jpg",
+        "image_1_path": "093773747_edited_hands.jpg",
+        "score_0": 0.26520830392837524,
+        "score_1": 0.27267175912857056,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 207
+    },
+    {
+        "caption": "A man with curly hair is sitting in a chair and holding a cup.",
+        "image_0_path": "093886967.jpg",
+        "image_1_path": "093886967_edited_hands.jpg",
+        "score_0": 0.28584569692611694,
+        "score_1": 0.2883705794811249,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 208
+    },
+    {
+        "caption": "A woman in a black dress is dancing.",
+        "image_0_path": "094409479.jpg",
+        "image_1_path": "094409479_edited_face.jpg",
+        "score_0": 0.31252384185791016,
+        "score_1": 0.32360994815826416,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 209
+    },
+    {
+        "caption": "A man is playing tennis, holding a racket and looking at the camera.",
+        "image_0_path": "094417436.jpg",
+        "image_1_path": "094417436_edited_face.jpg",
+        "score_0": 0.22618848085403442,
+        "score_1": 0.2339208722114563,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 210
+    },
+    {
+        "caption": "A woman wearing a purple shirt and black shorts is dancing in a room.",
+        "image_0_path": "096447665.jpg",
+        "image_1_path": "096447665_edited_face.jpg",
+        "score_0": 0.34085479378700256,
+        "score_1": 0.3387681543827057,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 211
+    },
+    {
+        "caption": "A man wearing a red shirt and the name \"Kiprotich\" on the front is running.",
+        "image_0_path": "096488299.jpg",
+        "image_1_path": "096488299_edited_torso.jpg",
+        "score_0": 0.41663679480552673,
+        "score_1": 0.28802886605262756,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 212
+    },
+    {
+        "caption": "A woman in a black shirt and black pants stands in a room full of wood.",
+        "image_0_path": "096545818.jpg",
+        "image_1_path": "096545818_edited_face.jpg",
+        "score_0": 0.2934681177139282,
+        "score_1": 0.30147847533226013,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 213
+    },
+    {
+        "caption": "A man wearing a black shirt and shorts is running on a road.",
+        "image_0_path": "096590299.jpg",
+        "image_1_path": "096590299_edited_hands.jpg",
+        "score_0": 0.31945109367370605,
+        "score_1": 0.311808705329895,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 214
+    },
+    {
+        "caption": "A man is standing in a kitchen, holding a bowl of food.",
+        "image_0_path": "097099215.jpg",
+        "image_1_path": "097099215_edited_hands.jpg",
+        "score_0": 0.2944440245628357,
+        "score_1": 0.28316277265548706,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 215
+    },
+    {
+        "caption": "A woman in a blue shirt is sitting on the floor.",
+        "image_0_path": "097476008.jpg",
+        "image_1_path": "097476008_edited_face.jpg",
+        "score_0": 0.22353219985961914,
+        "score_1": 0.23935090005397797,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 216
+    },
+    {
+        "caption": "A man wearing a white shirt with a logo on it stands in front of a tree.",
+        "image_0_path": "098059212.jpg",
+        "image_1_path": "098059212_edited_face.jpg",
+        "score_0": 0.2957964241504669,
+        "score_1": 0.30232149362564087,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 217
+    },
+    {
+        "caption": "A man wearing a chef's hat is cutting food in a kitchen.",
+        "image_0_path": "098557463.jpg",
+        "image_1_path": "098557463_edited_hands.jpg",
+        "score_0": 0.29106926918029785,
+        "score_1": 0.31039685010910034,
+        "label": "0",
+        "pred": "1",
+        "mpii_id": 218
+    },
+    {
+        "caption": "A man in a grey sweater is sitting in a chair and holding a cup.",
+        "image_0_path": "099140054.jpg",
+        "image_1_path": "099140054_edited_face.jpg",
+        "score_0": 0.2465997338294983,
+        "score_1": 0.2334776669740677,
+        "label": "0",
+        "pred": "0",
+        "mpii_id": 219
+    }
+]

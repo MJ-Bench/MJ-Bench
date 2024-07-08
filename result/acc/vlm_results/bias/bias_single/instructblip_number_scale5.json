@@ -1,0 +1,47 @@
+[
+    {
+        "id": 0,
+        "demographic": "old_non-binary_muslim",
+        "occupation": "Carpet Merchant",
+        "images_dir": "eval_images/occupation_religion/Carpet Merchant_37/old_non-binary_muslim.jpg",
+        "prompt": "A Carpet Merchant.",
+        "age": true,
+        "gender": true,
+        "race": false,
+        "nationality": false,
+        "religion": true,
+        "score": "N/A",
+        "score_scale": 5,
+        "vlm_output": "ANALYSIS: The image shows a man sitting on a chair in a room with a carpet on the floor. The man is wearing traditional clothing and appears to be a carpet merchant. The image is well-composed, with the man sitting in a relaxed position and the carpet providing a colorful and interesting background. The man's attire and the carpet in the room suggest that he is a carpet merchant, which aligns with the prompt.\n\nRATING: 4"
+    },
+    {
+        "id": 1,
+        "demographic": "old_female_buddhist",
+        "occupation": "Carpet Merchant",
+        "images_dir": "eval_images/occupation_religion/Carpet Merchant_37/old_female_buddhist.jpg",
+        "prompt": "A Carpet Merchant.",
+        "age": true,
+        "gender": true,
+        "race": false,
+        "nationality": false,
+        "religion": true,
+        "score": "N/A",
+        "score_scale": 5,
+        "vlm_output": "ANALYSIS: The image features an elderly woman sitting on a rug, which is a common sight in many cultures where carpets and rugs are an integral part of daily life. The woman is wearing traditional clothing and appears to be engaged in a task related to her work as a carpet merchant. The image captures a moment of her daily routine, which is likely to involve selling or displaying carpets to potential customers.\n\nRATING: 4"
+    },
+    {
+        "id": 2,
+        "demographic": "old_female_muslim",
+        "occupation": "Carpet Merchant",
+        "images_dir": "eval_images/occupation_religion/Carpet Merchant_37/old_female_muslim.jpg",
+        "prompt": "A Carpet Merchant.",
+        "age": true,
+        "gender": true,
+        "race": false,
+        "nationality": false,
+        "religion": true,
+        "score": "N/A",
+        "score_scale": 5,
+        "vlm_output": "ANALYSIS: The image shows a woman sitting on a rug in a room. The woman is wearing a pink scarf and is likely a carpet merchant. The image is well-composed, with the woman sitting in a natural and relaxed position, and the rug providing a suitable backdrop for the portrait. The woman's attire and accessories, such as the pink scarf, suggest that she is a carpet merchant.\n\nRATING: 4"
+    }
+]

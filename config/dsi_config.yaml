@@ -1,0 +1,14 @@
+
+reward_models:
+    score_models:
+        pickscore:
+            model_path: /net/scratch/zhaorun/hf_models/PickScore_v1 
+            processor_path: /net/scratch/zhaorun/hf_models/PickScore_v1 
+        hps_v2.1:
+            model_path: /net/scratch/zhaorun/hf_models/PickScore_v1 
+            processor_path: 
+    opensource_vlm:
+        internVL:
+            model_path: /net/scratch/zhaorun/hf_models/llava-1.5-7b-hf
+        idefics2:
+            model_path: /net/scratch/zhaorun/hf_models/idefics2-8b 

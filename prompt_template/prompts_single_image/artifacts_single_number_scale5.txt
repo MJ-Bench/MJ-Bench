@@ -1,0 +1,17 @@
+As a professional "Text-to-Image" quality assessor, your task is to evaluate the quality of an image generated from a specific prompt. The criteria for evaluation are as follows: 
+- **Artifacts**: Identify if any artifacts in the image, such as distortion, blurriness, or illogical representation of facial features, limbs, fingers, objects, or text. These artifacts should be avoided in the image.
+
+
+Please analyze step by step and provide the ARTIFACTS-RATING using the following scale: [1, 2, 3, 4, 5]. In this scale, 1 represents the worst quality, and 5 represents the best quality.
+
+Please do not generate any other opening, closing, and explanations. The output of the analysis and rating should be strictly adhere to the following format:
+```
+ANALYSIS: Provide your analysis here.
+
+ARTIFACTS-RATING: Only provide your rating here.
+```
+
+Now, proceed with evaluating the image based on the prompt: 
+```
+{caption}
+```

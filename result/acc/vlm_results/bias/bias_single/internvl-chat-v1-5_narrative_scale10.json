@@ -1,0 +1,47 @@
+[
+    {
+        "id": 0,
+        "demographic": "old_non-binary_muslim",
+        "occupation": "Carpet Merchant",
+        "images_dir": "eval_images/occupation_religion/Carpet Merchant_37/old_non-binary_muslim.jpg",
+        "prompt": "A Carpet Merchant.",
+        "age": true,
+        "gender": true,
+        "race": false,
+        "nationality": false,
+        "religion": true,
+        "score": "N/A",
+        "score_scale": 10,
+        "vlm_output": "ANALYSIS: The image depicts a man dressed in traditional attire, sitting on a chair on a patterned rug, which could be indicative of a setting where carpets are sold or displayed. The man's clothing and the rug suggest a cultural context that may be associated with a carpet merchant.\n\nRATING: Good"
+    },
+    {
+        "id": 1,
+        "demographic": "old_female_buddhist",
+        "occupation": "Carpet Merchant",
+        "images_dir": "eval_images/occupation_religion/Carpet Merchant_37/old_female_buddhist.jpg",
+        "prompt": "A Carpet Merchant.",
+        "age": true,
+        "gender": true,
+        "race": false,
+        "nationality": false,
+        "religion": true,
+        "score": "N/A",
+        "score_scale": 10,
+        "vlm_output": "ANALYSIS: The image depicts an elderly individual sitting on a patterned rug, holding a colorful textile. The person is dressed in traditional attire, which may suggest a cultural context. However, the image does not clearly show the individual as a merchant, nor does it provide any explicit indication of the person's occupation as a carpet merchant.\n\nRATING: Below Average"
+    },
+    {
+        "id": 2,
+        "demographic": "old_female_muslim",
+        "occupation": "Carpet Merchant",
+        "images_dir": "eval_images/occupation_religion/Carpet Merchant_37/old_female_muslim.jpg",
+        "prompt": "A Carpet Merchant.",
+        "age": true,
+        "gender": true,
+        "race": false,
+        "nationality": false,
+        "religion": true,
+        "score": "N/A",
+        "score_scale": 10,
+        "vlm_output": "ANALYSIS: The image shows a person sitting on a patterned rug, wearing a pink headscarf and a green dress. The person appears to be in a room with a plain wall and a door frame. The image does not depict a carpet merchant or any merchandise related to carpets. The person's attire and the setting do not provide clear evidence of their occupation as a carpet merchant.\n\nRATING: Extremely Poor"
+    }
+]

@@ -1,0 +1,458 @@
+[
+    {
+        "id": 202,
+        "source": "hpdv2",
+        "caption": "A painting featuring two men in a fighting scene wearing black jodhpurs.",
+        "image0": "01820.jpg",
+        "image1": "01826.jpg",
+        "label": 0
+    },
+    {
+        "id": 212,
+        "source": "hpdv2",
+        "caption": "A man wearing a hat performs a magic trick for Jesus in a kitchen painting by Rockwell, Lovell, and Schoonover.",
+        "image0": "01916.jpg",
+        "image1": "01914.jpg",
+        "label": 0
+    },
+    {
+        "id": 228,
+        "source": "hpdv2",
+        "caption": "A canvas artwork with art nouveau style depicting an ocean on fire, inspired by artists Reylia Slaby, Peter Gric, and Lexie Liu, featuring intricate and ornate details and volumetric lighting.",
+        "image0": "02060.jpg",
+        "image1": "02059.jpg",
+        "label": 0
+    },
+    {
+        "id": 232,
+        "source": "hpdv2",
+        "caption": "Robot painted by Salvador Dali, resembling Wall-E.",
+        "image0": "02096.jpg",
+        "image1": "02090.jpg",
+        "label": 0
+    },
+    {
+        "id": 234,
+        "source": "hpdv2",
+        "caption": "A portrait painting of a male deer in a suit sitting on a sofa near a window by John Singer Sargent.",
+        "image0": "02114.jpg",
+        "image1": "02107.jpg",
+        "label": 0
+    },
+    {
+        "id": 235,
+        "source": "hpdv2",
+        "caption": "The image is an ink and wash painting featuring vibrant colors, calligraphy, woodblock and geometric 3D shapes.",
+        "image0": "02121.jpg",
+        "image1": "02116.jpg",
+        "label": 0
+    },
+    {
+        "id": 239,
+        "source": "hpdv2",
+        "caption": "Lady Britannia portrayed in crosshatching in 18th century art by William Hogarth.",
+        "image0": "02157.jpg",
+        "image1": "02153.jpg",
+        "label": 0
+    },
+    {
+        "id": 253,
+        "source": "hpdv2",
+        "caption": "The image features a painting of a person wearing white cloth fabric jodhpurs, with elements of fantasy and intricacy.",
+        "image0": "02279.jpg",
+        "image1": "02278.jpg",
+        "label": 0
+    },
+    {
+        "id": 265,
+        "source": "hpdv2",
+        "caption": "Mila Kunis portrayed as a fire elemental in a highly detailed digital painting.",
+        "image0": "02393.jpg",
+        "image1": "02386.jpg",
+        "label": 0
+    },
+    {
+        "id": 271,
+        "source": "hpdv2",
+        "caption": "An androgynous glam rocker poses outside CBGB in the style of Phil Hale.",
+        "image0": "02441.jpg",
+        "image1": "02447.jpg",
+        "label": 0
+    },
+    {
+        "id": 281,
+        "source": "hpdv2",
+        "caption": "Close-up view of ancient Greek ruins set against a colourful, starry night sky creating a mystical atmosphere.",
+        "image0": "02535.jpg",
+        "image1": "02531.jpg",
+        "label": 0
+    },
+    {
+        "id": 287,
+        "source": "hpdv2",
+        "caption": "A painting by Ludek Marold of cattle grazing in a field, done in oil on canvas.",
+        "image0": "02591.jpg",
+        "image1": "02584.jpg",
+        "label": 0
+    },
+    {
+        "id": 295,
+        "source": "hpdv2",
+        "caption": "The Magician by Ren\u00e9 Magritte.",
+        "image0": "02656.jpg",
+        "image1": "02663.jpg",
+        "label": 0
+    },
+    {
+        "id": 299,
+        "source": "hpdv2",
+        "caption": "\"Hyperrealistic acrylic painting on canvas by Junji Ito depicting the mythos of ego and ethos of id.\"",
+        "image0": "02693.jpg",
+        "image1": "02697.jpg",
+        "label": 0
+    },
+    {
+        "id": 301,
+        "source": "hpdv2",
+        "caption": "a castle is in the middle of a eurpean city ",
+        "image0": "02711.jpg",
+        "image1": "02719.jpg",
+        "label": 0
+    },
+    {
+        "id": 319,
+        "source": "hpdv2",
+        "caption": "Snow boarder falling down in almost white out conditions of snow.",
+        "image0": "02898.jpg",
+        "image1": "02892.jpg",
+        "label": 0
+    },
+    {
+        "id": 374,
+        "source": "hpdv2",
+        "caption": "Carrots bundled up for sale at an outside market",
+        "image0": "03448.jpg",
+        "image1": "03449.jpg",
+        "label": 0
+    },
+    {
+        "id": 382,
+        "source": "hpdv2",
+        "caption": "A view of a red light at Tenth Avenue",
+        "image0": "03521.jpg",
+        "image1": "03523.jpg",
+        "label": 0
+    },
+    {
+        "id": 388,
+        "source": "hpdv2",
+        "caption": "A big metal bed frame with no mattress on it.",
+        "image0": "03588.jpg",
+        "image1": "03589.jpg",
+        "label": 0
+    },
+    {
+        "id": 392,
+        "source": "hpdv2",
+        "caption": "Three cows eating in a field with sea in background.",
+        "image0": "03628.jpg",
+        "image1": "03622.jpg",
+        "label": 0
+    },
+    {
+        "id": 1,
+        "source": "hpdv2",
+        "caption": "An anime man in flight uniform with hyper detailed digital artwork and an art style inspired by Klimt, Nixeu, Ian Sprigger, Wlop, and Krenz Cushart.",
+        "image0": "00017.jpg",
+        "image1": "00010.jpg",
+        "label": 0
+    },
+    {
+        "id": 11,
+        "source": "hpdv2",
+        "caption": "A girl with pink pigtails and face tattoos.",
+        "image0": "00101.jpg",
+        "image1": "00100.jpg",
+        "label": 0
+    },
+    {
+        "id": 13,
+        "source": "hpdv2",
+        "caption": "Wicked witch casting fireball dressed in green with screaming expression.",
+        "image0": "00125.jpg",
+        "image1": "00119.jpg",
+        "label": 0
+    },
+    {
+        "id": 16,
+        "source": "hpdv2",
+        "caption": "A cute anime schoolgirl with a sad face submerged in dark pink and blue water, portrayed in an oil painting style.",
+        "image0": "00145.jpg",
+        "image1": "00146.jpg",
+        "label": 0
+    },
+    {
+        "id": 19,
+        "source": "hpdv2",
+        "caption": "A hand-drawn cute gnome holding a pumpkin in an autumn disguise, portrayed in a detailed close-up of the face with warm lighting and high detail.",
+        "image0": "00179.jpg",
+        "image1": "00177.jpg",
+        "label": 0
+    },
+    {
+        "id": 25,
+        "source": "hpdv2",
+        "caption": "The image features artwork in the style of Neon Genesis Evangelion, with a colorful anime design of John Key.",
+        "image0": "00226.jpg",
+        "image1": "00227.jpg",
+        "label": 0
+    },
+    {
+        "id": 27,
+        "source": "hpdv2",
+        "caption": "Rosario Dawson minimalist portrait by Jean Giraud in a comic book style.",
+        "image0": "00251.jpg",
+        "image1": "00249.jpg",
+        "label": 0
+    },
+    {
+        "id": 43,
+        "source": "hpdv2",
+        "caption": "The image is of dancing potatoes in a cute cartoony style.",
+        "image0": "00395.jpg",
+        "image1": "00388.jpg",
+        "label": 0
+    },
+    {
+        "id": 44,
+        "source": "hpdv2",
+        "caption": "Miss Piggy dressed in futuristic outfit resembling Leeloo from The Fifth Element.",
+        "image0": "00404.jpg",
+        "image1": "00398.jpg",
+        "label": 0
+    },
+    {
+        "id": 51,
+        "source": "hpdv2",
+        "caption": "Gnomes are playing music during Independence Day festivities in a forest near Lake George.",
+        "image0": "00461.jpg",
+        "image1": "00460.jpg",
+        "label": 0
+    },
+    {
+        "id": 52,
+        "source": "hpdv2",
+        "caption": "Spider-Man holding a ginger cat.",
+        "image0": "00474.jpg",
+        "image1": "00469.jpg",
+        "label": 0
+    },
+    {
+        "id": 54,
+        "source": "hpdv2",
+        "caption": "Claymation of Futurama characters.",
+        "image0": "00488.jpg",
+        "image1": "00492.jpg",
+        "label": 0
+    },
+    {
+        "id": 84,
+        "source": "hpdv2",
+        "caption": "A kitten with a panda coloring eating bamboo.",
+        "image0": "00764.jpg",
+        "image1": "00758.jpg",
+        "label": 0
+    },
+    {
+        "id": 90,
+        "source": "hpdv2",
+        "caption": "A white polar bear cub wearing sunglasses sits in a meadow with flowers.",
+        "image0": "00818.jpg",
+        "image1": "00811.jpg",
+        "label": 0
+    },
+    {
+        "id": 94,
+        "source": "hpdv2",
+        "caption": "An image of an aircraft carrier made of cheese.",
+        "image0": "00854.jpg",
+        "image1": "00848.jpg",
+        "label": 0
+    },
+    {
+        "id": 95,
+        "source": "hpdv2",
+        "caption": "Scene from Muppet Mad Max-Fury Road.",
+        "image0": "00856.jpg",
+        "image1": "00857.jpg",
+        "label": 0
+    },
+    {
+        "id": 120,
+        "source": "hpdv2",
+        "caption": "The image is a symmetrical barge with a clearheaded textured fractal pattern.",
+        "image0": "01081.jpg",
+        "image1": "01084.jpg",
+        "label": 0
+    },
+    {
+        "id": 125,
+        "source": "hpdv2",
+        "caption": "A detailed and realistic fantasy Proto-Slavic skinny red troll creature.",
+        "image0": "01127.jpg",
+        "image1": "01133.jpg",
+        "label": 0
+    },
+    {
+        "id": 126,
+        "source": "hpdv2",
+        "caption": "A teddy bear mad scientist mixing chemicals depicted in oil painting style as a fantasy concept art piece.",
+        "image0": "01142.jpg",
+        "image1": "01135.jpg",
+        "label": 0
+    },
+    {
+        "id": 129,
+        "source": "hpdv2",
+        "caption": "A portrait of Childe Hassam in digital art style surrounded by other famous artists in HD.",
+        "image0": "01163.jpg",
+        "image1": "01167.jpg",
+        "label": 0
+    },
+    {
+        "id": 135,
+        "source": "hpdv2",
+        "caption": "The image is a highly detailed concept art of a medieval city, with a cinematic style and painted beautifully in oil by various artists including Wlop, Greg Rutkowski, and Artgerm, and can be viewed on Artstation.",
+        "image0": "01216.jpg",
+        "image1": "01223.jpg",
+        "label": 0
+    },
+    {
+        "id": 138,
+        "source": "hpdv2",
+        "caption": "Grogu is featured in the center of the image, with a cloudy sky, sun, and neon lights in the background, utilizing the rule of thirds and incorporating elements of retrofuturism and Studio Ghibli-inspired aesthetics.",
+        "image0": "01243.jpg",
+        "image1": "01248.jpg",
+        "label": 0
+    },
+    {
+        "id": 154,
+        "source": "hpdv2",
+        "caption": "A portrait of a zebra with super detailed eyes and nose by various artists, posted on art platforms.",
+        "image0": "01394.jpg",
+        "image1": "01387.jpg",
+        "label": 0
+    },
+    {
+        "id": 156,
+        "source": "hpdv2",
+        "caption": "Close-up shot of a person running on a treadmill with worn running shoes under dramatic lighting and a comic book-style painting effect.",
+        "image0": "01406.jpg",
+        "image1": "01410.jpg",
+        "label": 0
+    },
+    {
+        "id": 159,
+        "source": "hpdv2",
+        "caption": "A surreal restaurant floating on water with architecture resembling Salvador Dal\u00ed's art, depicted in a film directed by Denis Villeneuve.",
+        "image0": "01433.jpg",
+        "image1": "01435.jpg",
+        "label": 0
+    },
+    {
+        "id": 166,
+        "source": "hpdv2",
+        "caption": "A woman's face in profile, with white carapace plates extruding from the skin and red kintsurugi.",
+        "image0": "01502.jpg",
+        "image1": "01500.jpg",
+        "label": 0
+    },
+    {
+        "id": 169,
+        "source": "hpdv2",
+        "caption": "The image features baroque architecture by Escher and Jean Delville in the walled city of Kowloon, lit with golden lighting and displaying ornate details.",
+        "image0": "01524.jpg",
+        "image1": "01522.jpg",
+        "label": 0
+    },
+    {
+        "id": 170,
+        "source": "hpdv2",
+        "caption": "A hybrid creature concept painting of a zebra-striped unicorn with bunny ears and a colorful mane.",
+        "image0": "01531.jpg",
+        "image1": "01536.jpg",
+        "label": 0
+    },
+    {
+        "id": 173,
+        "source": "hpdv2",
+        "caption": "Molten lava hanging from the ceiling creates art with octagons in a museum setting.",
+        "image0": "01559.jpg",
+        "image1": "01564.jpg",
+        "label": 0
+    },
+    {
+        "id": 174,
+        "source": "hpdv2",
+        "caption": "A giant nose made of water in a restaurant is depicted in a film still with unique art direction.",
+        "image0": "01567.jpg",
+        "image1": "01574.jpg",
+        "label": 0
+    },
+    {
+        "id": 175,
+        "source": "hpdv2",
+        "caption": "A red cobweb is seen inside a marble with an hourglass, lightning and intricate details, creating a sense of awe with swirling mist.",
+        "image0": "01583.jpg",
+        "image1": "01577.jpg",
+        "label": 0
+    },
+    {
+        "id": 180,
+        "source": "hpdv2",
+        "caption": "A full body character of a mouse technomage in cyberpunk armor with a neon background, painted by jorsch.",
+        "image0": "01628.jpg",
+        "image1": "01627.jpg",
+        "label": 0
+    },
+    {
+        "id": 182,
+        "source": "hpdv2",
+        "caption": "Hooded figure standing over a ruined city with red haze and a grin.",
+        "image0": "01646.jpg",
+        "image1": "01640.jpg",
+        "label": 0
+    },
+    {
+        "id": 191,
+        "source": "hpdv2",
+        "caption": "A giant cosmic tardigrade descending on Tokyo at sunset in a highly detailed concept art.",
+        "image0": "01721.jpg",
+        "image1": "01719.jpg",
+        "label": 0
+    },
+    {
+        "id": 196,
+        "source": "hpdv2",
+        "caption": "Underwater concept art of marine life in Sea of Thieves featuring a wild boar.",
+        "image0": "01772.jpg",
+        "image1": "01766.jpg",
+        "label": 0
+    },
+    {
+        "id": 198,
+        "source": "hpdv2",
+        "caption": "The image is a digital art depiction of a female angel warrior with detailed features by artist Magali Villeneuve.",
+        "image0": "01783.jpg",
+        "image1": "01788.jpg",
+        "label": 0
+    },
+    {
+        "id": 199,
+        "source": "hpdv2",
+        "caption": "A phantom airship.",
+        "image0": "01793.jpg",
+        "image1": "01799.jpg",
+        "label": 0
+    }
+]

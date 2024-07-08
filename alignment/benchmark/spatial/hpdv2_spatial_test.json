@@ -1,0 +1,170 @@
+[
+    {
+        "id": 2,
+        "source": "hpdv2",
+        "caption": "A Wojak looking over a sea of memes from a cliff on 4chan.",
+        "image0": "00024.jpg",
+        "image1": "00021.jpg",
+        "label": 0
+    },
+    {
+        "id": 47,
+        "source": "hpdv2",
+        "caption": "Digital anime art of mattress-man with a serious expression in an empty warehouse, highly detailed and spotlighted.",
+        "image0": "00425.jpg",
+        "image1": "00429.jpg",
+        "label": 0
+    },
+    {
+        "id": 72,
+        "source": "hpdv2",
+        "caption": "The image is of Pixel Art Huggy Wuggy performing a jumpscare.",
+        "image0": "00650.jpg",
+        "image1": "00654.jpg",
+        "label": 0
+    },
+    {
+        "id": 74,
+        "source": "hpdv2",
+        "caption": "Australian soldiers surrendering to an emu.",
+        "image0": "00668.jpg",
+        "image1": "00674.jpg",
+        "label": 0
+    },
+    {
+        "id": 139,
+        "source": "hpdv2",
+        "caption": "Plasticine sculptures of two lovers walking through Paris with strict clothing and bright colors.",
+        "image0": "01252.jpg",
+        "image1": "01253.jpg",
+        "label": 0
+    },
+    {
+        "id": 149,
+        "source": "hpdv2",
+        "caption": "A dragon standing in a forest, drinking river water.",
+        "image0": "01343.jpg",
+        "image1": "01342.jpg",
+        "label": 0
+    },
+    {
+        "id": 151,
+        "source": "hpdv2",
+        "caption": "A planisphere lavalamp glows inside a glass jar buried in sand with swirling mist around it.",
+        "image0": "01367.jpg",
+        "image1": "01361.jpg",
+        "label": 0
+    },
+    {
+        "id": 156,
+        "source": "hpdv2",
+        "caption": "Close-up shot of a person running on a treadmill with worn running shoes under dramatic lighting and a comic book-style painting effect.",
+        "image0": "01410.jpg",
+        "image1": "01412.jpg",
+        "label": 0
+    },
+    {
+        "id": 221,
+        "source": "hpdv2",
+        "caption": "Portrait of a Victorian gentleman standing on a balcony, richly detailed color illustration with cinematic lighting.",
+        "image0": "01997.jpg",
+        "image1": "01995.jpg",
+        "label": 0
+    },
+    {
+        "id": 223,
+        "source": "hpdv2",
+        "caption": "A painting of a starship landing by a temple, created by Hubert Robert.",
+        "image0": "02008.jpg",
+        "image1": "02014.jpg",
+        "label": 0
+    },
+    {
+        "id": 266,
+        "source": "hpdv2",
+        "caption": "The image is titled \"Left 4 Dead\" and was painted by John William Waterhouse.",
+        "image0": "02395.jpg",
+        "image1": "02396.jpg",
+        "label": 0
+    },
+    {
+        "id": 269,
+        "source": "hpdv2",
+        "caption": "Digital painting with vivid colors and a front view featuring a magical composition.",
+        "image0": "02422.jpg",
+        "image1": "02428.jpg",
+        "label": 0
+    },
+    {
+        "id": 286,
+        "source": "hpdv2",
+        "caption": "A Weezer album painted by Hieronymus Bosch.",
+        "image0": "02580.jpg",
+        "image1": "02576.jpg",
+        "label": 0
+    },
+    {
+        "id": 331,
+        "source": "hpdv2",
+        "caption": "The shadow of a person across an asphalt street next to a street sign.",
+        "image0": "03018.jpg",
+        "image1": "03017.jpg",
+        "label": 0
+    },
+    {
+        "id": 353,
+        "source": "hpdv2",
+        "caption": "A clock tower with lighted clock faces, against a twilight sky.",
+        "image0": "03238.jpg",
+        "image1": "03236.jpg",
+        "label": 0
+    },
+    {
+        "id": 354,
+        "source": "hpdv2",
+        "caption": "a girl a white bear a camera a tea pot and a cup",
+        "image0": "03248.jpg",
+        "image1": "03246.jpg",
+        "label": 0
+    },
+    {
+        "id": 357,
+        "source": "hpdv2",
+        "caption": "A tanker trunk is on it's side on the side of a road near a police car.",
+        "image0": "03278.jpg",
+        "image1": "03272.jpg",
+        "label": 0
+    },
+    {
+        "id": 363,
+        "source": "hpdv2",
+        "caption": "A man with his finger held up to his nose.",
+        "image0": "03339.jpg",
+        "image1": "03332.jpg",
+        "label": 0
+    },
+    {
+        "id": 368,
+        "source": "hpdv2",
+        "caption": "a vintage photo of a man and a nurse ",
+        "image0": "03389.jpg",
+        "image1": "03382.jpg",
+        "label": 0
+    },
+    {
+        "id": 375,
+        "source": "hpdv2",
+        "caption": "A nighstand topped with a white land-line phone, remote control, a metallic lamp, and two pens next to a black hardcover book.",
+        "image0": "03458.jpg",
+        "image1": "03452.jpg",
+        "label": 0
+    },
+    {
+        "id": 397,
+        "source": "hpdv2",
+        "caption": "Several bunches of unripened bananas growing from trees.",
+        "image0": "03671.jpg",
+        "image1": "03678.jpg",
+        "label": 0
+    }
+]
