@@ -3,7 +3,7 @@
 
 <h3 align="center"><a href="https://arxiv.org/abs/2406.07476" style="color:#9C276A">
 **MJ-BENCH**: Is Your Multimodal Reward Model Really a Good Judge for Text-to-Image Generation?</a></h3>
-<h5 align="center"> If our project helps you, please give us a star ⭐ on GitHub to support us. 🙏🙏 </h2>
+<h5 align="center"> If our project helps you, please consider giving us a star ⭐. 🥹🙏 </h2>
 
 <h5 align="center">
 
