@@ -13,27 +13,29 @@
   <img src="assets/repo_logo_4.png" width="80%">
 </div>
 
-[![hf_space](assets/mj_bench.svg)](https://mj-bench.github.io/)
-[![hf_checkpoint](https://img.shields.io/badge/🤗-Checkpoints-9C276A.svg)](https://huggingface.co/collections/DAMO-NLP-SG/videollama-2-6669b6b6f0493188305c87ed)
-[![hf_data](https://img.shields.io/badge/🤗-MSVC-9C276A.svg)](https://huggingface.co/datasets/DAMO-NLP-SG/Multi-Source-Video-Captioning)
-[![arXiv](https://img.shields.io/badge/Arxiv-2406.07476-AD1C18.svg?logo=arXiv)](https://arxiv.org/abs/2406.07476) <br>
-[![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](https://github.com/DAMO-NLP-SG/VideoLLaMA2/blob/main/LICENSE) 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDAMO-NLP-SG%2FVideoLLaMA2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
-[![GitHub issues](https://img.shields.io/github/issues/DAMO-NLP-SG/VideoLLaMA2?color=critical&label=Issues)](https://github.com/DAMO-NLP-SG/VideoLLaMA2/issues?q=is%3Aopen+is%3Aissue)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/DAMO-NLP-SG/VideoLLaMA2?color=success&label=Issues)](https://github.com/DAMO-NLP-SG/VideoLLaMA2/issues?q=is%3Aissue+is%3Aclosed)  <br>
+[![project](https://img.shields.io/badge/🥳-Project-9C276A.svg)](https://mj-bench.github.io/)
+[![hf_space](https://img.shields.io/badge/🤗-Huggingface-9C276A.svg)](https://huggingface.co/MJ-Bench)
+[![hf_leaderboard](https://img.shields.io/badge/🤗-Leaderboard-9C276A.svg)](https://huggingface.co/spaces/MJ-Bench/MJ-Bench-Leaderboard)
+[![Dataset](https://img.shields.io/badge/🤗-Dataset-9C276A.svg)](https://huggingface.co/datasets/MJ-Bench/MJ-Bench)<br>
+[![arXiv](https://img.shields.io/badge/Arxiv-2406.07476-AD1C18.svg?logo=arXiv)](https://arxiv.org/abs/2406.07476) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMJ-Bench%2FMJ-Bench&count_bg=%23C25AE6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
+[![GitHub issues](https://img.shields.io/github/issues/MJ-Bench/MJ-Bench?color=critical&label=Issues)](https://github.com/MJ-Bench/MJ-Bench/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/MJ-Bench/MJ-Bench?style=social)](https://github.com/MJ-Bench/MJ-Bench/stargazers)
+  <br>
 
 </h5>
 
 <details open><summary>💡 Some other multimodal-LLM projects from our team may interest you ✨. </summary><p>
 <!--  may -->
 
-> [**Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding**](https://github.com/DAMO-NLP-SG/Video-LLaMA) <br>
-> Hang Zhang, Xin Li, Lidong Bing <br>
-[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/DAMO-NLP-SG/Video-LLaMA)  [![github](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social)](https://github.com/DAMO-NLP-SG/Video-LLaMA) [![arXiv](https://img.shields.io/badge/Arxiv-2306.02858-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2306.02858) <br>
+> [**HALC: Object Hallucination Reduction via Adaptive Focal-Contrast Decoding**](https://billchan226.github.io/HALC.html) <br>
+> Zhaorun Chen, Zhuokai Zhao, Hongyin Luo, Huaxiu Yao, Bo Li, Jiawei Zhou <br>
+[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/BillChan226/HALC)  [![GitHub Stars](https://img.shields.io/github/stars/BillChan226/HALC?style=social)](https://github.com/BillChan226/HALC/stargazers)
+ [![arXiv](https://img.shields.io/badge/Arxiv-2403.00425-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2403.00425) <br>
 
-> [**VCD: Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding**](https://arxiv.org/abs/2311.16922) <br>
-> Sicong Leng, Hang Zhang, Guanzheng Chen, Xin Li, Shijian Lu, Chunyan Miao, Lidong Bing <br>
-[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/DAMO-NLP-SG/VCD)  [![github](https://img.shields.io/github/stars/DAMO-NLP-SG/VCD.svg?style=social)](https://github.com/DAMO-NLP-SG/VCD)  [![arXiv](https://img.shields.io/badge/Arxiv-2311.16922-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2311.16922) <br>
+> [**Calibrated Self-Rewarding Vision Language Models**](https://dongjie-cheng.github.io/CSR.html) <br>
+> Yiyang Zhou, Zhiyuan Fan, Dongjie Cheng, Sihan Yang, Zhaorun Chen, Chenhang Cui, Xiyao Wang, Yun Li, Linjun Zhang, Huaxiu Yao <br>
+[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/YiyangZhou/CSR)  [![GitHub Stars](https://img.shields.io/github/stars/YiyangZhou/CSR?style=social)](https://github.com/YiyangZhou/CSR/stargazers)  [![arXiv](https://img.shields.io/badge/Arxiv-2405.14622-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2405.14622) <br>
 
 </p></details>
 
