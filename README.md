@@ -1,14 +1,16 @@
-# :woman_judge: **MJ-BENCH**: Is Your Multimodal Reward Model Really a Good Judge for Text-to-Image Generation?
+<!-- # :woman_judge: **MJ-BENCH**: Is Your Multimodal Reward Model Really a Good Judge for Text-to-Image Generation? -->
 
-<div align="center">
-  <img src="assets/repo_logo_4.png" width="90%">
-</div>
 
 <h3 align="center"><a href="https://arxiv.org/abs/2406.07476" style="color:#9C276A">
-VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs</a></h3>
+**MJ-BENCH**: Is Your Multimodal Reward Model Really a Good Judge for Text-to-Image Generation?</a></h3>
 <h5 align="center"> If our project helps you, please give us a star ⭐ on GitHub to support us. 🙏🙏 </h2>
 
 <h5 align="center">
+
+
+<div align="center">
+  <img src="assets/repo_logo_4.png" width="80%">
+</div>
 
 [![hf_space](https://img.shields.io/badge/🤗-Demo-9C276A.svg)](https://huggingface.co/spaces/lixin4ever/VideoLLaMA2)
 [![hf_checkpoint](https://img.shields.io/badge/🤗-Checkpoints-9C276A.svg)](https://huggingface.co/collections/DAMO-NLP-SG/videollama-2-6669b6b6f0493188305c87ed)
