@@ -6,6 +6,7 @@ wandb/
 # safety/
 bias/all_dataset/
 bias/eval_images/
+hf_dataset/
 
 data/
 *.pt

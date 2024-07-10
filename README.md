@@ -49,6 +49,16 @@ conda create -n MM python=3.8
 pip install -r requirements.txt
 ```
 
+### Dataset Preparation
+
+We have host MJ-Bench dataset on [huggingface](https://huggingface.co/datasets/MJ-Bench/MJ-Bench), where you should request access on this [page](https://huggingface.co/datasets/MJ-Bench/MJ-Bench) first and shall be automatically approved. Then you can simply load the dataset vi:
+```
+from datasets import load_dataset
+
+dataset = load_dataset("MJ-Bench/MJ-Bench")
+```
+
+
 
 ### Judge Model Configuration
 `config/config.yaml` contains the configuration for the three types of reward models that we will evaluate. You can copy the default configuration to a new file and modify the model_path and api_key to use in your own envionrment.
@@ -153,9 +163,13 @@ If error `NameError: name '_C' is not defined` is reported, refer to [this issue
 
 ## Citation
 ```
-@misc{mjbench2024mjbench,
-  title={MJ-BENCH: Is Your Multimodal Reward Model Really a Good Judge?},
-  author={Chen*, Zhaorun and Du*, Yichao and Wen*, Zichen and Zhou*, Yiyang and Cui, Chenhang and Weng, Zhenzhen and Tu, Haoqin and Wang, Chaoqi and Tong, Zhengwei and HUANG, Leria and Chen, Canyu and Ye, Qinghao and Zhu, Zhihong and Zhang, Yuqing and Zhou, Jiawei and Zhao, Zhuokai and Rafailov, Rafael and Finn, Chelsea and Yao, Huaxiu},
-  year={2024}
+@misc{chen2024mjbenchmultimodalrewardmodel,
+      title={MJ-Bench: Is Your Multimodal Reward Model Really a Good Judge for Text-to-Image Generation?}, 
+      author={Zhaorun Chen and Yichao Du and Zichen Wen and Yiyang Zhou and Chenhang Cui and Zhenzhen Weng and Haoqin Tu and Chaoqi Wang and Zhengwei Tong and Qinglan Huang and Canyu Chen and Qinghao Ye and Zhihong Zhu and Yuqing Zhang and Jiawei Zhou and Zhuokai Zhao and Rafael Rafailov and Chelsea Finn and Huaxiu Yao},
+      year={2024},
+      eprint={2407.04842},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2407.04842}, 
 }
 ```
