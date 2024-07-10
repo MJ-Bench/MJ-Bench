@@ -4,7 +4,7 @@
 <!-- <h3 align="center"><a href="https://arxiv.org/abs/2406.07476" style="color:#9C276A">
 **MJ-BENCH**: Is Your Multimodal Reward Model Really a Good Judge for Text-to-Image Generation?</a></h3> -->
 
-<h5 align="center"> If our project helps you, please consider giving us a star ⭐ 🥹🙏 </h2>
+<h5 align="center"> If you like our project, please consider giving us a star ⭐ 🥹🙏 </h2>
 
 <h5 align="center">
 
@@ -17,7 +17,7 @@
 [![hf_space](https://img.shields.io/badge/🤗-Huggingface-9C276A.svg)](https://huggingface.co/MJ-Bench)
 [![hf_leaderboard](https://img.shields.io/badge/🤗-Leaderboard-9C276A.svg)](https://huggingface.co/spaces/MJ-Bench/MJ-Bench-Leaderboard)
 [![Dataset](https://img.shields.io/badge/🤗-Dataset-9C276A.svg)](https://huggingface.co/datasets/MJ-Bench/MJ-Bench)<br>
-[![arXiv](https://img.shields.io/badge/Arxiv-2406.07476-AD1C18.svg?logo=arXiv)](https://arxiv.org/abs/2406.07476) 
+[![arXiv](https://img.shields.io/badge/Arxiv-2406.07476-AD1C18.svg?logo=arXiv)](https://arxiv.org/pdf/2407.04842) 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMJ-Bench%2FMJ-Bench&count_bg=%23C25AE6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 [![GitHub issues](https://img.shields.io/github/issues/MJ-Bench/MJ-Bench?color=critical&label=Issues)](https://github.com/MJ-Bench/MJ-Bench/issues)
 [![GitHub Stars](https://img.shields.io/github/stars/MJ-Bench/MJ-Bench?style=social)](https://github.com/MJ-Bench/MJ-Bench/stargazers)
