@@ -147,6 +147,7 @@ See `image_detect_demo.json` for an example.
 
 If error `NameError: name '_C' is not defined` is reported, refer to [this issue](https://github.com/IDEA-Research/GroundingDINO/issues/8#issuecomment-1541892708) for a quick fix. -->
 
+
 ## Citation
 ```
 @misc{chen2024mjbenchmultimodalrewardmodel,
