@@ -1,7 +1,7 @@
 # :woman_judge: [**MJ-Bench**: Is Your Multimodal Reward Model Really a Good Judge for Text-to-Image Generation?]()
 
 
-<!-- <h3 align="center"><a href="https://arxiv.org/abs/2406.07476" style="color:#9C276A">
+<!-- <h3 align="center"><a href="https://arxiv.org/abs/2407.04842" style="color:#9C276A">
 **MJ-BENCH**: Is Your Multimodal Reward Model Really a Good Judge for Text-to-Image Generation?</a></h3> -->
 
 <h5 align="center"> If you like our project, please consider giving us a star ⭐ 🥹🙏 </h2>
@@ -17,27 +17,13 @@
 [![hf_space](https://img.shields.io/badge/🤗-Huggingface-9C276A.svg)](https://huggingface.co/MJ-Bench)
 [![hf_leaderboard](https://img.shields.io/badge/🤗-Leaderboard-9C276A.svg)](https://huggingface.co/spaces/MJ-Bench/MJ-Bench-Leaderboard)
 [![Dataset](https://img.shields.io/badge/🤗-Dataset-9C276A.svg)](https://huggingface.co/datasets/MJ-Bench/MJ-Bench)<br>
-[![arXiv](https://img.shields.io/badge/Arxiv-2406.07476-AD1C18.svg?logo=arXiv)](https://arxiv.org/pdf/2407.04842) 
+[![arXiv](https://img.shields.io/badge/Arxiv-2407.04842-AD1C18.svg?logo=arXiv)](https://arxiv.org/pdf/2407.04842) 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMJ-Bench%2FMJ-Bench&count_bg=%23C25AE6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 [![GitHub issues](https://img.shields.io/github/issues/MJ-Bench/MJ-Bench?color=critical&label=Issues)](https://github.com/MJ-Bench/MJ-Bench/issues)
 [![GitHub Stars](https://img.shields.io/github/stars/MJ-Bench/MJ-Bench?style=social)](https://github.com/MJ-Bench/MJ-Bench/stargazers)
   <br>
 
 </h5>
-
-<details open><summary>💡 Some other multimodal-LLM projects from our team may interest you ✨. </summary><p>
-<!--  may -->
-
-> [**HALC: Object Hallucination Reduction via Adaptive Focal-Contrast Decoding**](https://billchan226.github.io/HALC.html) <br>
-> Zhaorun Chen, Zhuokai Zhao, Hongyin Luo, Huaxiu Yao, Bo Li, Jiawei Zhou <br>
-[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/BillChan226/HALC)  [![GitHub Stars](https://img.shields.io/github/stars/BillChan226/HALC?style=social)](https://github.com/BillChan226/HALC/stargazers)
- [![arXiv](https://img.shields.io/badge/Arxiv-2403.00425-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2403.00425) <br>
-
-> [**Calibrated Self-Rewarding Vision Language Models**](https://dongjie-cheng.github.io/CSR.html) <br>
-> Yiyang Zhou, Zhiyuan Fan, Dongjie Cheng, Sihan Yang, Zhaorun Chen, Chenhang Cui, Xiyao Wang, Yun Li, Linjun Zhang, Huaxiu Yao <br>
-[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/YiyangZhou/CSR)  [![GitHub Stars](https://img.shields.io/github/stars/YiyangZhou/CSR?style=social)](https://github.com/YiyangZhou/CSR/stargazers)  [![arXiv](https://img.shields.io/badge/Arxiv-2405.14622-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2405.14622) <br>
-
-</p></details>
 
 
 ## Setup
