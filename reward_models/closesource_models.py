@@ -87,7 +87,6 @@ class Scorer:
             api_key=self.api_key,
             base_url=self.base_url
         )
-
             self.get_score = self.gpt_score
             
         elif "gemini" in model_name:

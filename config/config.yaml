@@ -36,9 +36,15 @@ reward_models:
         qwen:
             model_path: Qwen/Qwen-VL-Chat
             processor_path: Qwen/Qwen-VL-Chat
-        internVL:
+        internvl-chat-v1-2-plus:
             model_path: OpenGVLab/InternVL-Chat-V1-2-Plus
             processor_path: OpenGVLab/InternVL-Chat-V1-2-Plus
+        internvl-chat-v1-5:
+            model_path: OpenGVLab/InternVL-Chat-V1-5
+            processor_path: OpenGVLab/InternVL-Chat-V1-5
+        internvl-chat-v2-4b:
+            model_path: OpenGVLab/InternVL2-4B
+            processor_path: OpenGVLab/InternVL2-4B
         minigpt4:
             model_path: wangrongsheng/MiniGPT-4-LLaMA-7B
             processor_path: wangrongsheng/MiniGPT-4-LLaMA-7B

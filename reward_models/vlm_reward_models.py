@@ -35,10 +35,6 @@ from torchvision.transforms.functional import InterpolationMode
 import torchvision.transforms as T
 
 
-
-
-
-
 class Scorer:
     def __init__(self, model_name, model_path, processor_path, device, **kwargs):
         self.model_name = model_name
@@ -76,7 +72,12 @@ class Scorer:
             self.get_score = self.idefics2
             self.load_idefics2_model()
         else:
-            raise ValueError(f"Model {model_name} not found")
+            try:
+                ### Might not work, still need to add your own model functions ###
+                self.get_score = self.general_VLM
+                self.load_general_VLM()
+            except:
+                raise ValueError(f"Model {model_name} not found")
 
     
     def open_image(self, image):
@@ -264,6 +265,20 @@ class Scorer:
         self.processor = processor
         self.model = model
 
+    def load_general_VLM(self):
+        model = AutoModel.from_pretrained(
+            self.model_path,
+            torch_dtype=torch.bfloat16,
+            low_cpu_mem_usage=True,
+            trust_remote_code=True,
+        ).eval().to(self.device)
+        processor = CLIPImageProcessor.from_pretrained(self.processor_path)
+        tokenizer = AutoTokenizer.from_pretrained(
+            self.model_path, trust_remote_code=True)
+        self.processor = processor
+        self.tokenizer = tokenizer
+        self.model = model
+
 
 
     ############################## Model Inference ##############################
@@ -359,6 +374,7 @@ class Scorer:
         else:
             responses = [self.model.chat(
             self.tokenizer, pixel_value, prompt, generation_config) for pixel_value in pixel_values]
+            # responses = [output.split("RATING")[1].strip() for output in responses]
         
         return responses
     
@@ -430,6 +446,19 @@ class Scorer:
 
             return responses
 
+
+    def general_VLM(self, images_path, prompt):
+        '''
+        model: llava-hf/llava-1.5-7b-hf
+        '''
+        prompt = f" USER: <image>\n{prompt}\nASSISTANT:"
+        
+        images = [self.open_image(image) for image in images_path]
+        inputs = [self.processor(prompt, image, return_tensors='pt').to(self.device) for image in images]
+        outputs = [self.model.generate(**input, max_new_tokens=512, do_sample=False) for input in inputs]
+        responses = [self.processor.decode(output[0][2:], skip_special_tokens=True) for output in outputs]
+
+        return responses
 
 def main(args):
     # Load dataset

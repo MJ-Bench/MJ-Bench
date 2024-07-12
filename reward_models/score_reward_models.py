@@ -16,7 +16,6 @@ import sys
 sys.path.append("../utils/")
 sys.path.append("./utils/")
 from rm_utils import get_pred, get_label
-# import hpsv2
 
 
 
@@ -92,24 +91,22 @@ class Scorer:
 
         image_inputs = self.processor(
             images=images,
-            # padding=True,
-            # truncation=True,
-            # max_length=77,
+            padding=True,
+            truncation=True,
+            max_length=77,
             return_tensors="pt",
         ).to(self.model.device)
 
         text_inputs = self.processor(
             text=caption,
-            # padding=True,
-            # truncation=True,
-            # max_length=77,
+            padding=True,
+            truncation=True,
+            max_length=77,
             return_tensors="pt",
         ).to(self.model.device)
 
         with torch.no_grad():
-            # print("image_inputs", image_inputs)
-            # print("text_inputs", text_inputs)
-            # print("model device", self.model.device)
+
             image_embs = self.model.get_image_features(**image_inputs)
             image_embs = image_embs / torch.norm(image_embs, dim=-1, keepdim=True)
 
@@ -171,6 +168,7 @@ class Scorer:
 
         return scores
     def get_hpsv2_score(self, images_path, caption):
+        import hpsv2
         scores = hpsv2.score(images_path, caption, hps_version="v2.1")
         scores = np.array(scores).tolist()
 

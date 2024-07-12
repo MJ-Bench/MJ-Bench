@@ -40,23 +40,22 @@ pip install -r requirements.txt
 We have host MJ-Bench dataset on [huggingface](https://huggingface.co/datasets/MJ-Bench/MJ-Bench), where you should request access on this [page](https://huggingface.co/datasets/MJ-Bench/MJ-Bench) first and shall be automatically approved. Then you can simply load the dataset vi:
 ```
 from datasets import load_dataset
-
 dataset = load_dataset("MJ-Bench/MJ-Bench")
+# use streaming mode to load on the fly
+dataset = load_dataset("MJ-Bench/MJ-Bench", streaming=True)
 ```
 
-
-
 ### Judge Model Configuration
-`config/config.yaml` contains the configuration for the three types of reward models that we will evaluate. You can copy the default configuration to a new file and modify the model_path and api_key to use in your own envionrment.
+`config/config.yaml` contains the configuration for the three types of multimodal judges that you want to evaluate. You can copy the default configuration to a new file and modify the model_path and api_key to use in your own envionrment. If you add new models, make sure you also add the `load_model` and `get_score` functions in the corresponding files under `reward_models/`.
 
 
 ## Judge Model Evaluation
-To get the reward/score from a reward model, simply run
+To get the inference result from a multimodal judge, simply run
 ```python
-python get_rm_score.py --model [MODEL_NAME] --config_path [CONFIG_PATH] --dataset [DATASET] --local_buffer [LOCAL_BUFFER] --save_dir [SAVE_DIR] --threshold [THRESHOLD]
+python inference.py --model [MODEL_NAME] --config_path [CONFIG_PATH] --dataset [DATASET] --perspective [PERSPECTIVE] --save_dir [SAVE_DIR] --threshold [THRESHOLD] --multi_image [MULTI_IMAGE] --prompt_template_path [PROMPT_PATH]
 ```
 
-where `MODEL_NAME` is the name of the reward model to evaluate; `CONFIG_PATH` is the path to the configuration file; `DATASET` is the dataset to evaluate on (default is `yuvalkirstain/pickapic_v1`); `LOCAL_BUFFER` specifies a local buffer to cache the images from an online source; `SAVE_DIR` is the directory to save the results; and `THRESHOLD` is the preference threshold for the score-based RMs(i.e. `image_0` is prefered only if `score(image_0) - score(image_1) > THRESHOLD`).
+where `MODEL_NAME` is the name of the reward model to evaluate; `CONFIG_PATH` is the path to the configuration file; `DATASET` is the dataset to evaluate on (default is `MJ-Bench/MJ-Bench`); `PERSPECTIVE` is the data subset to evaluate (e.g. alignment, safety, quality, bias); `SAVE_DIR` is the directory to save the results; and `THRESHOLD` is the preference threshold for the score-based RMs(i.e. `image_0` is prefered only if `score(image_0) - score(image_1) > THRESHOLD`); `MULTI_IMAGE` indicates whether input multiple images or not (only close-source VLMs and some open-source VLMs support this); `PROMPT_PATH` indicates the path to the prompt for the VLM judges (needs to be consistent with `MULTI_IMAGE`).
 
 
 <!-- ## Development Tools
