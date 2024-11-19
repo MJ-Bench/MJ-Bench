@@ -2,6 +2,9 @@
 reward_models:
 
     score_models:
+        VQAscore:
+            model_path: 'clip-flant5-xxl'
+            processor_path: None
         clipscore_v1:
             model_path: ViT-B/32
         clipscore_v2:
