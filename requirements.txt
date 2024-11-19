@@ -21,3 +21,4 @@ diffusers
 accelerate
 rich
 peft
+t2v-metrics
