@@ -104,7 +104,7 @@ def main(args):
             preference = get_pred(image_1_rating, image_2_rating, threshold)
             analysis = None
         
-        print(f"Image 0: {image_0_path} , Image 1: {image_1_path}, Rating 0: {image_1_rating}， Rating 1: {image_2_rating}")
+        print(f"Image 0: {image_0_path} , Image 1: {image_1_path}, Rating 0: {image_1_rating}, Rating 1: {image_2_rating}")
 
         new_item["caption"] = caption
         new_item["image_0_uid"] = str(example["image0"])

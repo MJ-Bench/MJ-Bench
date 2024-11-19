@@ -24,7 +24,10 @@ class Scorer:
     def __init__(self, model_name, model_path, processor_path, device):
         self.device = device
         self.model_name = model_name
-        if model_name == 'ImageReward':
+        if model_name == 'VQAscore':
+            import t2v_metrics
+            self.model = t2v_metrics.VQAScore(model_path).to(device)
+        elif model_name == 'ImageReward':
             import ImageReward as RM
             self.model = RM.load("ImageReward-v1.0").to(device)
         elif model_name == 'aesthetics':
@@ -57,6 +60,8 @@ class Scorer:
             self.get_score = self.get_hpsv2_score
         elif model_name == "ImageReward":
             self.get_score = self.ImageReward
+        elif model_name == "VQAscore":
+            self.get_score = self.VQA_score
         else:
             raise ValueError(f"Model {model_name} not found")
 
@@ -70,6 +75,11 @@ class Scorer:
             image = Image.open(image)
         image = image.convert("RGB")
         return image
+
+    def VQA_score(self, images_path, caption):
+        scores = self.model(images_path, [caption])
+        new_scores = [scores[0][0].item(), scores[1][0].item()]
+        return new_scores
 
 
     def get_aesthetics_score(self, images_path, caption):
@@ -213,6 +223,8 @@ def main(args):
             scores = scorer.get_hpsv2_score([image_0_path, image_1_path], caption)
         elif args.score == "ImageReward":
             scores = scorer.ImageReward([image_0_path, image_1_path], caption)
+        elif args.score == "VQAscore":
+            scores = scorer.VQA_score([image_0_path, image_1_path], caption)
 
 
         print(f"scores: {scores}")
