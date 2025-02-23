@@ -10,7 +10,7 @@
 
 
 <div align="center">
-  <img src="assets/overview_new.png" width="90%">
+  <img src="assets/overview_new.png" width="100%">
 </div>
 
 [![project](https://img.shields.io/badge/🥳-Project-9C276A.svg)](https://mj-bench.github.io/)
