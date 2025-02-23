@@ -10,7 +10,7 @@
 
 
 <div align="center">
-  <img src="assets/repo_logo_4.png" width="80%">
+  <img src="assets/overview_new.png" width="90%">
 </div>
 
 [![project](https://img.shields.io/badge/🥳-Project-9C276A.svg)](https://mj-bench.github.io/)
