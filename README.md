@@ -149,13 +149,10 @@ If error `NameError: name '_C' is not defined` is reported, refer to [this issue
 
 ## Citation
 ```
-@misc{chen2024mjbenchmultimodalrewardmodel,
-      title={MJ-Bench: Is Your Multimodal Reward Model Really a Good Judge for Text-to-Image Generation?}, 
-      author={Zhaorun Chen and Yichao Du and Zichen Wen and Yiyang Zhou and Chenhang Cui and Zhenzhen Weng and Haoqin Tu and Chaoqi Wang and Zhengwei Tong and Qinglan Huang and Canyu Chen and Qinghao Ye and Zhihong Zhu and Yuqing Zhang and Jiawei Zhou and Zhuokai Zhao and Rafael Rafailov and Chelsea Finn and Huaxiu Yao},
-      year={2024},
-      eprint={2407.04842},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2407.04842}, 
+@article{chen2024mj,
+  title={MJ-Bench: Is Your Multimodal Reward Model Really a Good Judge for Text-to-Image Generation?},
+  author={Chen, Zhaorun and Du, Yichao and Wen, Zichen and Zhou, Yiyang and Cui, Chenhang and Weng, Zhenzhen and Tu, Haoqin and Wang, Chaoqi and Tong, Zhengwei and Huang, Qinglan and others},
+  journal={arXiv preprint arXiv:2407.04842},
+  year={2024}
 }
 ```
